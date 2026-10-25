@@ -30,14 +30,15 @@ jobs:
           if [ -n "$FOLDER" ]; then
             # 버튼으로 직접 실행: 문제가 있으면 빨간 X로 알려 줘요
             if [ ! -d "$FOLDER" ]; then echo "오류: $FOLDER 폴더가 없어요. 폴더 이름을 확인하세요"; exit 1; fi
-            if [ -f "$FOLDER/posted.txt" ]; then echo "오류: $FOLDER는 이미 올린 폴더예요. 다시 올리려면 posted.txt를 지우세요"; exit 1; fi
           else
-            # 아침 예약 실행: 오늘 날짜 폴더가 없거나 이미 올렸으면 조용히 쉬어요
+            # 아침 예약 실행: 오늘 날짜 폴더가 없으면 조용히 쉬어요
             FOLDER="posts/$(TZ=Asia/Seoul date +%F)"
-            if [ ! -d "$FOLDER" ] || [ -f "$FOLDER/posted.txt" ]; then echo "오늘($FOLDER)은 올릴 게 없어서 쉬어요"; exit 0; fi
+            if [ ! -d "$FOLDER" ]; then echo "오늘($FOLDER)은 올릴 게 없어서 쉬어요"; exit 0; fi
           fi
+          # 피드·릴스·스토리 중 아직 안 올린 것만 올려요(publish.py가 posted 표시를 보고 판단)
           python publish.py "$FOLDER"
       - name: 올린 표시 저장
+        if: always()   # 일부가 실패해도 성공한 항목의 표시는 남겨요
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
