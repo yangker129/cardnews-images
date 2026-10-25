@@ -1,6 +1,6 @@
 # publish.py — 폴더 안의 콘텐츠를 인스타에 올립니다
 #   피드 : 01.jpg~ (1~10장) + caption.txt          → 올리면 posted.txt
-#   릴스 : reel.mp4 (+ reel_caption.txt, reel_cover.jpg) → 올리면 posted_reel.txt
+#   릴스 : reel.mp4 (+ reel_caption.txt, reel_cover.jpg) → 릴스 탭에만 올리고 피드 그리드엔 안 보여요, 올리면 posted_reel.txt
 #   스토리: story.jpg                                → 올리면 posted_story.txt
 # 각 항목은 표시 파일이 없을 때만 올라가서 두 번 올라가지 않아요.
 # posted.txt 내용이 canceled면 그 폴더는 전부 건너뛰어요.
@@ -85,7 +85,7 @@ if not done("posted.txt"):
 if done("reel.mp4") and not done("posted_reel.txt"):
     try:
         params = dict(media_type="REELS", video_url=url_of(f"{folder}/reel.mp4"),
-                      caption=read("reel_caption.txt", read("caption.txt")), share_to_feed="true")
+                      caption=read("reel_caption.txt", read("caption.txt")), share_to_feed="false")
         if done("reel_cover.jpg"):
             params["cover_url"] = url_of(f"{folder}/reel_cover.jpg")
         box = call(f"{USER}/media", **params)
