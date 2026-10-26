@@ -1,0 +1,33 @@
+"""Make가 보낸 회차 묶음(repository_dispatch client_payload)을 posts/<날짜>/ 파일로 풀어요.
+payload: {"date": "2026-10-28", "slides": {...slides.json...}, "caption": "...", "reel_caption": "..."}
+출력: 만든 폴더 경로 한 줄 (GITHUB_OUTPUT의 folder로도 기록)"""
+import json, os, re, sys
+from pathlib import Path
+
+event = json.loads(Path(os.environ["GITHUB_EVENT_PATH"]).read_text(encoding="utf-8"))
+p = event.get("client_payload") or {}
+date = str(p.get("date", "")).strip()
+if not re.fullmatch(r"\d{4}-\d{2}-\d{2}|test-[A-Za-z0-9-]{1,40}", date):
+    sys.exit(f"오류: date 형식이 이상해요 ({date!r})")
+slides = p.get("slides")
+if isinstance(slides, str):
+    slides = json.loads(slides)
+if not isinstance(slides, dict) or not slides.get("slides"):
+    sys.exit("오류: slides가 비어 있어요")
+
+folder = Path("posts") / date
+if (folder / "posted.txt").exists() and (folder / "posted.txt").read_text().strip() != "canceled":
+    sys.exit(f"오류: {folder}는 이미 게시된 회차라서 덮어쓰지 않아요")
+folder.mkdir(parents=True, exist_ok=True)
+# 이전 렌더 결과 정리 (장 수가 바뀌어도 남는 파일이 없게)
+for f in list(folder.glob("[0-9][0-9].jpg")) + [folder / n for n in ("reel.mp4", "reel_cover.jpg", "story.jpg", "render_done.txt")]:
+    if f.exists():
+        f.unlink()
+(folder / "slides.json").write_text(json.dumps(slides, ensure_ascii=False, indent=2), encoding="utf-8")
+(folder / "caption.txt").write_text(str(p.get("caption", "")).strip() + "\n", encoding="utf-8")
+if p.get("reel_caption"):
+    (folder / "reel_caption.txt").write_text(str(p["reel_caption"]).strip() + "\n", encoding="utf-8")
+print(folder)
+if os.environ.get("GITHUB_OUTPUT"):
+    with open(os.environ["GITHUB_OUTPUT"], "a") as o:
+        o.write(f"folder={folder}\n")
