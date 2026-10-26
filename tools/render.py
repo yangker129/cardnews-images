@@ -152,16 +152,17 @@ def gauge(value, prev, lo=0, hi=200, base=100, prev_label="이전"):
     g.append(f'<text x="{cx}" y="{cy+62}" font-size="56" font-weight="900" text-anchor="middle" fill="#FF4D2E">{value}</text>')
     return f'<svg viewBox="0 -44 400 314" width="100%" height="270">{"".join(g)}</svg>'
 
-def bars(rows, maxv):
-    W, rowh = 400, 74
+def bars(rows, maxv, wide=False, prefix=""):
+    W, rowh = (880, 74) if wide else (400, 74)
+    full = W - 20
     g = []
     for i, (lab, v, col) in enumerate(rows):
         y = 18 + i * rowh
-        w = 380 * v / maxv
+        w = full * v / maxv
         g.append(f'<text x="0" y="{y}" font-size="20" font-weight="800" fill="{INK}">{esc(lab)}</text>')
-        g.append(f'<rect x="0" y="{y+10}" width="380" height="34" rx="10" fill="#EEE9F3"/>')
+        g.append(f'<rect x="0" y="{y+10}" width="{full}" height="34" rx="10" fill="#EEE9F3"/>')
         g.append(f'<rect x="0" y="{y+10}" width="{w:.0f}" height="34" rx="10" fill="{col}" stroke="{INK}" stroke-width="3"/>')
-        g.append(f'<text x="{min(w+12,330):.0f}" y="{y+36}" font-size="24" font-weight="900" fill="{INK}">{v}%</text>')
+        g.append(f'<text x="{min(w+12,full-70):.0f}" y="{y+36}" font-size="24" font-weight="900" fill="{INK}">{esc(prefix)}{v}%</text>')
     return f'<svg viewBox="0 0 {W} {18+len(rows)*rowh}" width="100%" height="{18+len(rows)*rowh}">{"".join(g)}</svg>'
 
 def split_map(items, color_hi="#FF4D2E", color_lo="#4DA8FF", maxv=6000):
@@ -173,12 +174,27 @@ def split_map(items, color_hi="#FF4D2E", color_lo="#4DA8FF", maxv=6000):
          f'<line x1="{x0}" y1="{y}" x2="{x1}" y2="{y}" stroke="{INK}" stroke-width="4"/>',
          f'<text x="{x0+8}" y="{y-52}" font-size="21" font-weight="900" fill="{color_lo}">습관 소비 · 1천 원 이하</text>',
          f'<text x="{x1-8}" y="{y-52}" font-size="21" font-weight="900" fill="{color_hi}" text-anchor="end">이유 있는 소비 · 3.5천 원 이상</text>']
-    for it in items:
+    # 같은 가격은 '·'로 합치고, 가까운 라벨은 두 줄로 엇갈리게 놓아요
+    pts = []
+    for it in sorted(items, key=lambda i: (i["lo"] + i["hi"]) / 2):
         cx = X((it["lo"] + it["hi"]) / 2)
         col = color_lo if it["hi"] <= 1000 else (color_hi if it["lo"] >= 3500 else "#B69CFF")
+        if pts and abs(pts[-1][0] - cx) < 4:
+            pts[-1][2].append(it["short"])
+        else:
+            pts.append([cx, col, [it["short"]]])
+    last = [-1e9, -1e9]
+    for cx, col, names in pts:
+        label = "·".join(names)
+        half = len(label) * 9 + 8
+        row = 0 if cx - half > last[0] else (1 if cx - half > last[1] else 0)
+        last[row] = cx + half
+        ly = y + 44 + row * 30
+        if row:
+            g.append(f'<line x1="{cx:.0f}" y1="{y+16}" x2="{cx:.0f}" y2="{ly-18}" stroke="{INK}" stroke-width="2" opacity=".4"/>')
         g.append(f'<circle cx="{cx:.0f}" cy="{y}" r="15" fill="{col}" stroke="{INK}" stroke-width="3"/>')
-        g.append(f'<text x="{cx:.0f}" y="{y+44}" font-size="18" font-weight="800" text-anchor="middle" fill="{INK}">{esc(it["short"])}</text>')
-    return f'<svg viewBox="0 0 {W} {H}" width="100%" height="{H}">{"".join(g)}</svg>'
+        g.append(f'<text x="{cx:.0f}" y="{ly}" font-size="18" font-weight="800" text-anchor="middle" fill="{INK}">{esc(label)}</text>')
+    return f'<svg viewBox="0 0 {W} {H+28}" width="100%" height="{H+28}">{"".join(g)}</svg>'
 
 # ---------- slide kinds ----------
 def cover(s, spec):
@@ -231,7 +247,7 @@ def insight(s, spec):
     if b:
         if isinstance(b, list): b = {"title": "", "cap": "", "max": 20, "rows": b}
         cards.append(f'<div class="card"><h5>{esc(b.get("title",""))}</h5><div class="cap">{esc(b.get("cap",""))}</div>'
-                     f'<div style="margin-top:22px">{bars([tuple(r) for r in b["rows"]], b.get("max", max(r[1] for r in b["rows"])*1.15))}</div></div>')
+                     f'<div style="margin-top:22px">{bars([tuple(r) for r in b["rows"]], b.get("max", max(r[1] for r in b["rows"])*1.15), wide=not g, prefix=b.get("prefix",""))}</div></div>')
     wide = ' wide' if len(cards) != 1 else ''
     cards.append(f'<div class="card wide"><h5>{esc(s.get("map_title","이번 회차 아이템, 어디에 찍혔을까요?"))}</h5>'
                  f'{split_map(spec["price_items"], maxv=spec.get("scale_max",6000))}</div>')
