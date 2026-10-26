@@ -32,20 +32,23 @@ jobs:
             echo "folder=$FOLDER_IN" >> "$GITHUB_OUTPUT"
             echo "mode=render" >> "$GITHUB_OUTPUT"
           fi
-      - name: 폰트·ffmpeg·브라우저 설치
+      - name: 폰트·ffmpeg·브라우저 준비
         if: steps.unpack.outputs.mode == 'render'
         timeout-minutes: 8
-        env:
-          DEBIAN_FRONTEND: noninteractive
-          NEEDRESTART_MODE: a
         run: |
-          for i in 1 2 3; do
-            sudo -E timeout 240 apt-get update -qq -o Acquire::Retries=3 && \
-            sudo -E timeout 240 apt-get install -y -qq -o Acquire::Retries=3 fonts-noto-cjk fonts-noto-cjk-extra ffmpeg > /dev/null && break
-            echo "설치 재시도 $i"; sleep 10
-          done
-          pip install -q playwright pillow
-          timeout 240 python -m playwright install --with-deps chromium > /dev/null
+          # 폰트: 저장소에 넣어 둔 Noto Sans CJK를 시스템 폰트 자리에 복사 (apt 미사용)
+          sudo mkdir -p /usr/share/fonts/opentype/noto
+          sudo cp assets/fonts/*.ttc /usr/share/fonts/opentype/noto/
+          fc-cache -f > /dev/null
+          fc-list | grep -c "Noto Sans CJK" 
+          # ffmpeg: PyPI의 정적 빌드 사용 (apt 미사용)
+          pip install -q playwright pillow imageio-ffmpeg
+          if ! command -v ffmpeg > /dev/null; then
+            sudo ln -sf "$(python -c 'import imageio_ffmpeg; print(imageio_ffmpeg.get_ffmpeg_exe())')" /usr/local/bin/ffmpeg
+          fi
+          ffmpeg -version | head -1
+          # 브라우저: 러너에 필요한 라이브러리가 이미 있어서 크로미움만 받아요
+          timeout 300 python -m playwright install chromium
       - name: 카드·릴스·스토리 만들기
         if: steps.unpack.outputs.mode == 'render'
         env:
