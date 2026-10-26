@@ -16,7 +16,7 @@ concurrency: render
 
 jobs:
   render:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # 렌더링 환경 고정 (폰트·브라우저 설치가 바뀌지 않게)
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
@@ -34,11 +34,18 @@ jobs:
           fi
       - name: 폰트·ffmpeg·브라우저 설치
         if: steps.unpack.outputs.mode == 'render'
+        timeout-minutes: 8
+        env:
+          DEBIAN_FRONTEND: noninteractive
+          NEEDRESTART_MODE: a
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq fonts-noto-cjk fonts-noto-cjk-extra ffmpeg > /dev/null
+          for i in 1 2 3; do
+            sudo -E timeout 240 apt-get update -qq -o Acquire::Retries=3 && \
+            sudo -E timeout 240 apt-get install -y -qq -o Acquire::Retries=3 fonts-noto-cjk fonts-noto-cjk-extra ffmpeg > /dev/null && break
+            echo "설치 재시도 $i"; sleep 10
+          done
           pip install -q playwright pillow
-          python -m playwright install --with-deps chromium > /dev/null
+          timeout 240 python -m playwright install --with-deps chromium > /dev/null
       - name: 카드·릴스·스토리 만들기
         if: steps.unpack.outputs.mode == 'render'
         env:
