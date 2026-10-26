@@ -1,0 +1,241 @@
+{
+  "issue": "VOL.02 · 2026.10.27",
+  "price_items": [
+    {
+      "hi": 3800,
+      "label": "3,800원",
+      "lo": 3800,
+      "short": "롤케익"
+    },
+    {
+      "hi": 3900,
+      "label": "3,900원",
+      "lo": 3900,
+      "short": "피자설기"
+    },
+    {
+      "hi": 5200,
+      "label": "4.7~5.2천",
+      "lo": 4700,
+      "short": "비빔밥"
+    },
+    {
+      "hi": 4300,
+      "label": "2천~4.3천",
+      "lo": 2000,
+      "short": "황후 7종"
+    },
+    {
+      "hi": 3800,
+      "label": "3,800원",
+      "lo": 3800,
+      "short": "크림빵"
+    }
+  ],
+  "scale_max": 6000,
+  "scale_title": "이번 주 신상 가격 지도",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus_bg": "#B9DCFF",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"150\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M40 250 q80 -30 160 10 q80 -40 160 -10 v70 q-80 -30 -160 10 q-80 -40 -160 -10z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M200 260 v70\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"/><path d=\"M70 262 q50 -14 100 6 M70 286 q50 -14 100 6 M230 268 q50 -20 100 -6 M230 292 q50 -20 100 -6\" fill=\"none\" stroke=\"#C9C2D6\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M110 200 q0 -60 50 -70 q50 10 50 70 q-50 20 -100 0z\" fill=\"#9A5B2E\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M122 196 q38 14 76 0 v16 q-38 14 -76 0z\" fill=\"#E6B98A\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><rect x=\"210\" y=\"150\" width=\"110\" height=\"64\" rx=\"18\" fill=\"#FFF7E4\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"240\" cy=\"170\" r=\"10\" fill=\"#E8401C\" stroke=\"#16131A\" stroke-width=\"5\"/><circle cx=\"285\" cy=\"186\" r=\"10\" fill=\"#E8401C\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M232 196 q20 -8 40 4 q16 8 32 -2\" fill=\"none\" stroke=\"#FFB000\" stroke-width=\"9\" stroke-linecap=\"round\"/><path d=\"M150 116 l14 -40 l20 26 l20 -32 l20 32 l20 -26 l14 40z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"198\" cy=\"64\" r=\"8\" fill=\"#FF8FB1\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kicker": "10월 4주 · 편의점 신상 노트",
+      "kind": "cover",
+      "list": [
+        "공주 밤 롤케익",
+        "설빙 피자설기",
+        "성시경 비빔밥",
+        "재혼 황후 디저트",
+        "뽀니 찰떡크림빵"
+      ],
+      "sub": "밤 산지부터 웹툰까지, 신상마다 사연이 붙었어요",
+      "tags": [
+        "VOL.02",
+        "10.27"
+      ],
+      "title": "맛 말고 <em>이야기</em>를<br><em>사는</em> 걸까요?"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "충남 공주시와 손잡은 디저트",
+        "초코 시트 + 밤 크림",
+        "연세유업 첫 지자체 협업 디저트"
+      ],
+      "clip": {
+        "date": "26.10.08",
+        "outlet": "뉴스탭",
+        "text": "공주는 전국 밤 생산의 약 17%를 맡고 있어요",
+        "type": "기사"
+      },
+      "date": "10.20 출시",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"140\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><rect x=\"70\" y=\"150\" width=\"200\" height=\"150\" rx=\"20\" fill=\"#6B3E26\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M90 160 q60 -20 160 0\" fill=\"none\" stroke=\"#8A5A3B\" stroke-width=\"8\" stroke-linecap=\"round\"/><circle cx=\"270\" cy=\"225\" r=\"80\" fill=\"#6B3E26\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"270\" cy=\"225\" r=\"58\" fill=\"#F3D9A4\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M270 225 m-36 0 a36 36 0 1 0 72 0 a36 36 0 1 0 -72 0\" fill=\"#FFF3D6\" stroke=\"#C99A5B\" stroke-width=\"6\"/><circle cx=\"270\" cy=\"225\" r=\"14\" fill=\"#E0A458\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M80 120 q-4 -50 40 -60 q44 6 44 54 q-20 18 -84 6z\" fill=\"#8B4A22\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M84 112 q40 12 76 2 l-2 14 q-36 10 -72 -2z\" fill=\"#E9C58E\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M180 108 q-2 -42 34 -50 q36 6 36 46 q-18 14 -70 4z\" fill=\"#A0582A\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M184 102 q32 10 62 2 l-2 12 q-30 8 -58 -2z\" fill=\"#E9C58E\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "연세우유 공주의 밤 롤케익",
+      "note": "도시 이름 '공주'에 공주님 말장난을 얹었어요. 산지가 곧 이야기가 됐어요.",
+      "price_idx": 0,
+      "price_tag": "3,800원",
+      "q": "밤이 아니라<br>'공주'를 사는 걸까요?",
+      "src": "출처: 뉴스탭(2026.10.08) · 퍅미 신상 DB · 일러스트는 연출",
+      "store": "CU",
+      "tags": [
+        "01 / 05",
+        "CU"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "백설기 위에 피자 토핑",
+        "앱 사전 예약 5,000개 한정",
+        "11.5부터 매장 판매"
+      ],
+      "clip": {
+        "date": "26.10.26",
+        "outlet": "이슈투데이",
+        "text": "10.26~31 앱 예약 후 11.5 전국 판매해요",
+        "type": "기사"
+      },
+      "date": "10.26 예약",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"140\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><rect x=\"60\" y=\"190\" width=\"130\" height=\"110\" rx=\"18\" fill=\"#FFFDF5\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M70 204 q55 -22 110 0 v20 q-55 -14 -110 0z\" fill=\"#E8401C\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M66 198 q30 18 60 4 q30 -14 58 6 l-4 26 q-26 -14 -54 -2 q-30 14 -58 -6z\" fill=\"#FFC93C\" stroke=\"#16131A\" stroke-width=\"5\"/><circle cx=\"100\" cy=\"220\" r=\"11\" fill=\"#C92A2A\" stroke=\"#16131A\" stroke-width=\"4\"/><circle cx=\"152\" cy=\"218\" r=\"11\" fill=\"#C92A2A\" stroke=\"#16131A\" stroke-width=\"4\"/><circle cx=\"126\" cy=\"230\" r=\"5\" fill=\"#FFE066\" stroke=\"#16131A\" stroke-width=\"3\"/><circle cx=\"168\" cy=\"234\" r=\"5\" fill=\"#FFE066\" stroke=\"#16131A\" stroke-width=\"3\"/><g fill=\"#E9E4D8\"><circle cx=\"90\" cy=\"270\" r=\"4\"/><circle cx=\"130\" cy=\"280\" r=\"4\"/><circle cx=\"160\" cy=\"266\" r=\"4\"/></g><rect x=\"205\" y=\"150\" width=\"130\" height=\"110\" rx=\"18\" fill=\"#FFFDF5\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M215 164 q55 -22 110 0 v20 q-55 -14 -110 0z\" fill=\"#E8401C\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M211 158 q30 18 60 4 q30 -14 58 6 l-4 26 q-26 -14 -54 -2 q-30 14 -58 -6z\" fill=\"#FFC93C\" stroke=\"#16131A\" stroke-width=\"5\"/><circle cx=\"245\" cy=\"180\" r=\"11\" fill=\"#C92A2A\" stroke=\"#16131A\" stroke-width=\"4\"/><circle cx=\"297\" cy=\"178\" r=\"11\" fill=\"#C92A2A\" stroke=\"#16131A\" stroke-width=\"4\"/><circle cx=\"271\" cy=\"190\" r=\"5\" fill=\"#FFE066\" stroke=\"#16131A\" stroke-width=\"3\"/><circle cx=\"313\" cy=\"194\" r=\"5\" fill=\"#FFE066\" stroke=\"#16131A\" stroke-width=\"3\"/><g fill=\"#E9E4D8\"><circle cx=\"235\" cy=\"230\" r=\"4\"/><circle cx=\"275\" cy=\"240\" r=\"4\"/><circle cx=\"305\" cy=\"226\" r=\"4\"/></g><path d=\"M150 150 q10 -30 40 -36\" fill=\"none\" stroke=\"#FFC93C\" stroke-width=\"12\" stroke-linecap=\"round\"/><path d=\"M120 120 q10 -26 -4 -50 M160 110 q14 -24 2 -48\" fill=\"none\" stroke=\"#fff\" stroke-width=\"8\" stroke-linecap=\"round\" opacity=\".9\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "설빙 피자설기",
+      "note": "디저트 카페 '설빙' 이름에 떡을 찾아다니는 '떡지순례' 흐름이 겹쳤어요. 맛보다 화제가 먼저 팔려요.",
+      "price_idx": 1,
+      "price_tag": "3,900원",
+      "q": "피자도 떡도 아닌데,<br>왜 예약까지 할까요?",
+      "src": "출처: 이슈투데이(2026.10.26) · 일러스트는 연출",
+      "store": "GS25",
+      "tags": [
+        "02 / 05",
+        "GS25"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "제철 배추 + 매콤 제육",
+        "시경 픽 누적 50만 개 판매",
+        "가격은 기존 3종 기준이에요"
+      ],
+      "clip": {
+        "date": "26.10.19",
+        "outlet": "전자신문",
+        "text": "9월 첫 출시 후 시리즈 누적 50만 개를 넘었어요",
+        "type": "기사"
+      },
+      "date": "10.21 출시",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"150\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M60 190 h280 q-6 140 -140 140 q-134 0 -140 -140z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M100 300 h200\" stroke=\"#E0A800\" stroke-width=\"10\" stroke-linecap=\"round\"/><ellipse cx=\"200\" cy=\"190\" rx=\"140\" ry=\"40\" fill=\"#FFF7E4\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M110 186 q30 -34 70 -8 q-20 26 -70 8z\" fill=\"#D9480F\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M190 168 q40 -30 80 0 q-40 30 -80 0z\" fill=\"#9BE07A\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M214 168 q16 -10 34 0\" fill=\"none\" stroke=\"#5CB85C\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M262 196 l40 -10 M262 206 l38 4 M258 186 l34 -24\" stroke=\"#FF922B\" stroke-width=\"9\" stroke-linecap=\"round\"/><ellipse cx=\"150\" cy=\"206\" rx=\"22\" ry=\"10\" fill=\"#8B5A2B\" stroke=\"#16131A\" stroke-width=\"4\"/><path d=\"M196 214 q8 -12 16 0 q8 -12 16 0\" fill=\"none\" stroke=\"#F1E3B3\" stroke-width=\"7\" stroke-linecap=\"round\"/><circle cx=\"200\" cy=\"188\" r=\"16\" fill=\"#E8401C\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M300 150 l50 -90 M320 160 l46 -84\" stroke=\"#C98A4B\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "시경 픽 꿀배추제육비빔밥",
+      "note": "'연예계 미식가'가 골랐다는 한 줄이 맛 설명을 대신해요. 사람이 보증서가 됐어요.",
+      "price_idx": 2,
+      "price_label": "시리즈 가격",
+      "price_tag": "4.7~5.2천",
+      "q": "도시락 고를 때,<br>'누가 골랐는지' 보나요?",
+      "src": "출처: 전자신문(2026.10.19) · 이데일리(2026.09.06) · 일러스트는 연출",
+      "store": "세븐일레븐",
+      "tags": [
+        "03 / 05",
+        "세븐일레븐"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "웹툰·웹소설 누적 29억 뷰",
+        "로얄밀크티·크레이프케익 등",
+        "11월 디즈니+ 드라마 공개 예정"
+      ],
+      "clip": {
+        "date": "26.10.19",
+        "outlet": "위키트리",
+        "text": "한국콘텐츠진흥원 MOU 후 첫 IP 협업이에요",
+        "type": "기사"
+      },
+      "date": "10월 출시",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"140\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M70 300 l60 -140 l120 0 l0 140z\" fill=\"#FFF0D9\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M80 280 h170\" stroke=\"#8B4A22\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M85 250 h167\" stroke=\"#8B4A22\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M90 220 h164\" stroke=\"#8B4A22\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M95 190 h161\" stroke=\"#8B4A22\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M130 160 h120 v14 h-126z\" fill=\"#6B3E26\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M150 150 l10 -50 l26 30 l14 -44 l14 44 l26 -30 l10 50z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"200\" cy=\"100\" r=\"8\" fill=\"#FF4D2E\" stroke=\"#16131A\" stroke-width=\"4\"/><path d=\"M270 210 h70 l-10 100 h-50z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M274 240 h62 l-6 66 h-50z\" fill=\"#C8986B\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M340 230 q34 4 26 34 q-6 18 -30 16\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M290 196 q6 -18 0 -30 M314 196 q6 -18 0 -30\" fill=\"none\" stroke=\"#fff\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "재혼 황후 협업 7종",
+      "note": "작품 속 '황실' 분위기를 먹거리로 옮겼어요. 팬은 맛보다 세계관 한 조각을 사요.",
+      "price_idx": 3,
+      "price_label": "가격대",
+      "price_tag": "2천~4.3천",
+      "q": "드라마 나오기도 전에<br>황실 디저트부터 먹어요?",
+      "src": "출처: 위키트리·한국금융신문(2026.10.19) · 일러스트는 연출",
+      "store": "이마트24",
+      "tags": [
+        "04 / 05",
+        "이마트24"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "빵튜버 '뽀니'와 3번째 협업",
+        "구독자가 요청한 밤·고구마·초코",
+        "시즌2 예약픽업 77% 증가"
+      ],
+      "clip": {
+        "date": "26.10.14",
+        "outlet": "뉴시스",
+        "text": "시즌1 크림빵 2종, 디저트 매출 5위 안에 들었어요",
+        "type": "기사"
+      },
+      "date": "10월 순차 출시",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"140\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M70 270 q0 40 130 40 q130 0 130 -40 v-14 h-260z\" fill=\"#D98B45\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M64 256 q20 -26 50 -8 q24 -24 52 -4 q26 -22 54 -2 q26 -20 52 0 q26 -18 52 10 q-4 18 -30 18 h-200 q-26 0 -30 -14z\" fill=\"#FFFDF5\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M100 252 q30 -14 56 0 q28 -14 56 0 q28 -14 56 0\" fill=\"none\" stroke=\"#C99A5B\" stroke-width=\"10\" stroke-linecap=\"round\"/><g fill=\"#A0582A\" stroke=\"#16131A\" stroke-width=\"4\"><ellipse cx=\"128\" cy=\"246\" rx=\"14\" ry=\"9\"/><ellipse cx=\"206\" cy=\"242\" rx=\"14\" ry=\"9\"/><ellipse cx=\"282\" cy=\"246\" rx=\"14\" ry=\"9\"/></g><path d=\"M70 236 q0 -110 130 -110 q130 0 130 110 q-130 10 -260 0z\" fill=\"#E6A15A\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M120 164 q30 -24 70 -26\" fill=\"none\" stroke=\"#F5C98A\" stroke-width=\"12\" stroke-linecap=\"round\"/><g fill=\"#FFF3D6\"><circle cx=\"230\" cy=\"160\" r=\"5\"/><circle cx=\"262\" cy=\"182\" r=\"5\"/><circle cx=\"200\" cy=\"190\" r=\"5\"/></g><path d=\"M250 50 h100 a18 18 0 0 1 18 18 v44 a18 18 0 0 1 -18 18 h-60 l-24 22 v-22 h-16 a18 18 0 0 1 -18 -18 v-44 a18 18 0 0 1 18 -18z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M300 108 q-30 -18 -30 -32 q0 -14 14 -14 q10 0 16 10 q6 -10 16 -10 q14 0 14 14 q0 14 -30 32z\" fill=\"#FF4D2E\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "뽀니 밤버무리찰떡크림빵",
+      "note": "만든 사람과 고른 사람이 보이는 빵이에요. 팬덤이 출시 전부터 수요를 만들어요.",
+      "price_idx": 4,
+      "price_tag": "3,800원",
+      "q": "구독자가 요청한 재료면<br>더 믿음이 가나요?",
+      "src": "출처: 뉴시스(2026.10.14) · 일러스트는 연출",
+      "store": "이마트24",
+      "tags": [
+        "05 / 05",
+        "이마트24"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "세븐 도시락 배달 매출(전년 대비) · 뽀니 예약픽업(시즌1 대비)",
+        "max": 100,
+        "prefix": "+",
+        "rows": [
+          [
+            "세븐일레븐 도시락 배달 매출",
+            65,
+            "#FF4D2E"
+          ],
+          [
+            "뽀니 시즌2 예약픽업 건수",
+            77,
+            "#4DA8FF"
+          ]
+        ],
+        "title": "협업 기간에 늘어난 숫자"
+      },
+      "bg": "#2B2140",
+      "cta": "당신은 어떤 이야기에 지갑을 열었나요?",
+      "kind": "insight",
+      "map_title": "이번 주 신상 5개, 어디에 찍혔을까요?",
+      "src": "출처: 전자신문(2026.10.19), 뉴시스(2026.10.14)",
+      "tags": [
+        "관찰 노트",
+        "VOL.02"
+      ],
+      "title": "맛 설명 대신,<br><em>사연이 팔리고 있어요</em>"
+    }
+  ]
+}
