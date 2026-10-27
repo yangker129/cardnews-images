@@ -1,0 +1,215 @@
+{
+  "issue": "VOL.03 · 2026.10.28",
+  "price_items": [
+    {
+      "hi": 2500,
+      "label": "2,500원",
+      "lo": 2500,
+      "short": "모찌볼"
+    },
+    {
+      "hi": 3800,
+      "label": "3,800원",
+      "lo": 3800,
+      "short": "허니모찌"
+    },
+    {
+      "hi": 5000,
+      "label": "5,000원",
+      "lo": 5000,
+      "short": "점보롤"
+    },
+    {
+      "hi": 17900,
+      "label": "17,900원",
+      "lo": 17900,
+      "short": "박스"
+    }
+  ],
+  "scale_max": 19000,
+  "scale_title": "카이막 사례 가격 지도",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"145\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M80 230 h240 q-10 100 -120 100 q-110 0 -120 -100z\" fill=\"#B9DCFF\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><ellipse cx=\"200\" cy=\"230\" rx=\"120\" ry=\"30\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M120 225 q20 -60 80 -60 q60 0 80 60\" fill=\"#FFF7E4\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M160 190 q40 24 80 0\" fill=\"none\" stroke=\"#FFB000\" stroke-width=\"12\" stroke-linecap=\"round\"/><path d=\"M290 70 q26 44 0 68 q-26 -24 0 -68z\" fill=\"#FFB000\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kicker": "트렌드 키워드 · 카이막",
+      "kind": "cover",
+      "list": [
+        "쫀득모찌볼 카이막",
+        "허니모찌 카이막",
+        "카이막 점보롤",
+        "카이막 치즈볼",
+        "카이막 모찌 6입"
+      ],
+      "sub": "전문 카페에서 편의점·치킨집까지 내려왔어요",
+      "tags": [
+        "VOL.03",
+        "10.28"
+      ],
+      "title": "카이막 맛,<br><em>얼마</em>면 <em>사요</em>?"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "작은 모찌볼 2개 들이",
+        "속에 카이막 크림을 채웠어요",
+        "1월 GS페이 1+1 행사(후기)"
+      ],
+      "date": "26.01 판매",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"145\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><circle cx=\"140\" cy=\"250\" r=\"78\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"262\" cy=\"240\" r=\"84\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M232 238 q30 -40 60 0 q-30 34 -60 0z\" fill=\"#FFF0B8\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M110 220 q14 -16 30 -10\" fill=\"none\" stroke=\"#E9E4D8\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M236 196 q16 -14 34 -8\" fill=\"none\" stroke=\"#E9E4D8\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "서울우유 쫀득모찌볼 카이막",
+      "note": "'천상의 맛'을 한입 크기로 나눴어요. 비싸지 않으니 궁금하면 그냥 집어요.",
+      "price_idx": 0,
+      "price_label": "후기 가격",
+      "price_tag": "2,500원",
+      "q": "카이막 첫 경험,<br>2천 원대면 충분해요?",
+      "src": "출처: 뽈레·스레드 구매 후기(2026.01~02) · 가격은 후기 기준 · 일러스트는 연출",
+      "store": "GS25",
+      "tags": [
+        "01 / 05",
+        "GS25"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "모찌 + 벌꿀 + 카이막 조합",
+        "튀르키예식 '꿀+카이막' 공식",
+        "편의점 디저트 코너 상품"
+      ],
+      "date": "판매 중",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"145\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><ellipse cx=\"190\" cy=\"270\" rx=\"120\" ry=\"62\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><ellipse cx=\"190\" cy=\"240\" rx=\"98\" ry=\"40\" fill=\"#FFF7E4\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M150 236 q40 26 80 0\" fill=\"none\" stroke=\"#FFB000\" stroke-width=\"12\" stroke-linecap=\"round\"/><path d=\"M300 90 q30 50 0 78 q-30 -28 0 -78z\" fill=\"#FFB000\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M300 170 v40\" stroke=\"#FFB000\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "허니모찌 카이막",
+      "note": "현지에서 먹는 방식(꿀을 곁들이는 법)을 그대로 옮겼어요. 맛보다 '먹는 법'을 사요.",
+      "price_idx": 1,
+      "price_label": "판매가",
+      "price_tag": "3,800원",
+      "q": "카이막엔 꿀,<br>공식까지 따라 사요?",
+      "src": "출처: 키자드 상품 정보 · 출시일은 확인되지 않았어요 · 일러스트는 연출",
+      "store": "세븐일레븐",
+      "tags": [
+        "02 / 05",
+        "세븐일레븐"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "6조각 슬라이스 롤케익",
+        "카스테라·바스크케익과 3종",
+        "전국 편의점 냉장 코너"
+      ],
+      "clip": {
+        "date": "25.10.14",
+        "outlet": "식품음료신문",
+        "text": "카이막 쓴 냉장 디저트 3종이 나왔어요",
+        "type": "기사"
+      },
+      "date": "25.10 출시",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"145\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><rect x=\"60\" y=\"180\" width=\"200\" height=\"130\" rx=\"20\" fill=\"#F2D29B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"270\" cy=\"245\" r=\"78\" fill=\"#F2D29B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M270 245 m-50 0 a50 50 0 1 0 100 0 a50 50 0 1 0 -100 0\" fill=\"#FFFDF7\" stroke=\"#E0B676\" stroke-width=\"10\"/><circle cx=\"270\" cy=\"245\" r=\"20\" fill=\"#FFF7E4\" stroke=\"#E0B676\" stroke-width=\"6\"/><path d=\"M90 200 q70 -20 150 0\" fill=\"none\" stroke=\"#E0B676\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "카이막크림치즈점보롤",
+      "note": "양산 빵이 카이막을 이름 맨 앞에 세웠어요. 낯선 재료가 '프리미엄' 표시가 됐어요.",
+      "price_idx": 2,
+      "price_label": "후기 가격",
+      "price_tag": "5,000원",
+      "q": "빵 이름에 '카이막',<br>붙으면 더 집게 돼요?",
+      "src": "출처: 식품음료신문·헤럴드경제(2025.10.14) · 가격은 GS25 구매 후기 기준 · 일러스트는 연출",
+      "store": "SPC삼립 디 에센셜",
+      "tags": [
+        "03 / 05",
+        "편의점 냉장"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "bhc 첫 카이막 치즈볼",
+        "'뿌링' 시즈닝 버전도 있어요",
+        "출시 3개월여 만 60만 개"
+      ],
+      "clip": {
+        "date": "25.12.12",
+        "outlet": "아시아경제",
+        "text": "출시 3개월여 만에 60만 개 팔렸어요",
+        "type": "기사"
+      },
+      "date": "25.08 출시",
+      "illus": "cheese",
+      "illus_bg": "#EEE8FF",
+      "kind": "product",
+      "name": "카이막 치즈볼",
+      "note": "치킨 사이드에 디저트 재료가 들어왔어요. 한 번 주문에 '새 맛 체험'을 끼워 넣어요.",
+      "price_idx": -1,
+      "price_label": "가격",
+      "price_tag": "앱 확인",
+      "q": "치킨 시키면서<br>디저트까지 고르나요?",
+      "src": "출처: 아시아경제(2025.12.12) · 뉴스1(2025.08.28) · 가격은 기사에 없어 지도에서 뺐어요 · 일러스트는 연출",
+      "store": "bhc",
+      "tags": [
+        "04 / 05",
+        "bhc"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "3가지 맛 6개 묶음",
+        "정가 22,900원에서 할인가",
+        "택배로 집에서 쟁여요"
+      ],
+      "date": "판매 중",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"145\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><rect x=\"70\" y=\"170\" width=\"260\" height=\"150\" rx=\"18\" fill=\"#FFF7E4\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M70 220 h260\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\" fill=\"none\"/><circle cx=\"120\" cy=\"190\" r=\"30\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"200\" cy=\"190\" r=\"30\" fill=\"#FFD8E4\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"280\" cy=\"190\" r=\"30\" fill=\"#D9F2C7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"120\" cy=\"270\" r=\"30\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"200\" cy=\"270\" r=\"30\" fill=\"#FFD8E4\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"280\" cy=\"270\" r=\"30\" fill=\"#D9F2C7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M150 120 l50 -40 l50 40\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "카이막 크림 모찌 3종 6개입",
+      "note": "편의점에서 맛본 뒤 묶음으로 넘어가요. 체험이 끝나면 '쟁임'이 시작돼요.",
+      "price_idx": 3,
+      "price_label": "판매가",
+      "price_tag": "17,900원",
+      "q": "한입 맛봤으면,<br>이젠 박스로 쟁여요?",
+      "src": "출처: 팔도감 판매 페이지(2026.10.28 확인) · 일러스트는 연출",
+      "store": "온라인 오픈마켓",
+      "tags": [
+        "05 / 05",
+        "온라인"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "bhc 치즈볼 매출(2025.1~12.1, 전년 대비)",
+        "max": 100,
+        "prefix": "+",
+        "rows": [
+          [
+            "bhc 치즈볼 전체 매출",
+            54,
+            "#FF4D2E"
+          ]
+        ],
+        "title": "카이막 치즈볼 나온 해의 숫자"
+      },
+      "bg": "#2B2140",
+      "cta": "카이막, 어디서 처음 맛보셨어요?",
+      "kind": "insight",
+      "map_title": "카이막 사례 4개, 어디에 찍혔을까요?",
+      "src": "출처: 아시아경제(2025.12.12) · 치즈볼 매출은 카이막 치즈볼 포함 전체 기준",
+      "tags": [
+        "관찰 노트",
+        "VOL.03"
+      ],
+      "title": "원물 대신,<br><em>한입 체험</em>을 사요"
+    }
+  ]
+}
