@@ -81,9 +81,11 @@ def visual(s):
     # 1순위: 사진(img = 회차 폴더 안 파일, img_url에서 받아 둔 것 포함)
     if s.get("img") and Path(s["img"]).exists():
         if s.get("img_credit"):
-            # 기업 공식 배포 사진: 자르거나 고치지 않고 흰 바탕 위에 원본 비율 그대로 넣어요
-            return (f'<div style="width:100%;height:100%;background:#fff;display:flex;align-items:center;justify-content:center">'
-                    f'<img src="{img_uri(s["img"])}" style="width:100%;height:100%;object-fit:contain"></div>'
+            # 기업 공식 배포 사진: 네모칸을 꽉 채우고, img_pos(초점 위치)·img_zoom(확대)으로 제품 쪽을 클로즈업해요
+            pos = s.get("img_pos", "50% 50%")
+            zoom = float(s.get("img_zoom", 1))
+            return (f'<img src="{img_uri(s["img"])}" style="object-fit:cover;object-position:{pos};'
+                    f'transform:scale({zoom});transform-origin:{pos}">'
                     f'<div class="ph">{esc(s["img_credit"])}</div>')
         label = s.get("img_label") or ("AI 연출 이미지 · 실제 제품과 달라요" if s.get("img_url") else "직접 촬영")
         return f'<img src="{img_uri(s["img"])}"><div class="ph">{esc(label)}</div>'
