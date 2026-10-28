@@ -80,6 +80,11 @@ def esc(s): return html.escape(str(s))
 def visual(s):
     # 1순위: 사진(img = 회차 폴더 안 파일, img_url에서 받아 둔 것 포함)
     if s.get("img") and Path(s["img"]).exists():
+        if s.get("img_credit"):
+            # 기업 공식 배포 사진: 자르거나 고치지 않고 흰 바탕 위에 원본 비율 그대로 넣어요
+            return (f'<div style="width:100%;height:100%;background:#fff;display:flex;align-items:center;justify-content:center">'
+                    f'<img src="{img_uri(s["img"])}" style="width:100%;height:100%;object-fit:contain"></div>'
+                    f'<div class="ph">{esc(s["img_credit"])}</div>')
         label = s.get("img_label") or ("AI 연출 이미지 · 실제 제품과 달라요" if s.get("img_url") else "직접 촬영")
         return f'<img src="{img_uri(s["img"])}"><div class="ph">{esc(label)}</div>'
     # 2순위: illus_svg(회차별 새 일러스트), 3순위: illus 키
@@ -90,27 +95,47 @@ def visual(s):
     return illust.get(name, s.get("illus_bg"))
 
 def fetch_images(slides, out):
-    """img_url이 있는 장은 사진을 <회차>/src/img_NN.*로 받아 img로 연결해요. 실패하면 일러스트로 대신해요."""
+    """사진 받기. 우선순위: img_url(기업 공식 배포 사진이면 img_credit 함께) → ai_img_url(AI 연출 사진) → 일러스트.
+    받은 파일은 <회차>/src/img_NN-press.* 또는 img_NN-ai.*로 저장해요(캐러셀 JPG와 섞이지 않게 하위 폴더)."""
     import urllib.request
+    from urllib.parse import urlsplit
+    src = out / "src"
     for i, s in enumerate(slides, 1):
-        url = s.get("img_url")
-        if not url:
+        cands = []
+        if s.get("img_url"):
+            cands.append(("press" if s.get("img_credit") else "ai", s["img_url"]))
+        if s.get("ai_img_url"):
+            cands.append(("ai", s["ai_img_url"]))
+        if not cands:
             continue
-        src = out / "src"
-        have = sorted(src.glob(f"img_{i:02d}.*")) if src.exists() else []
-        if have:
-            s["img"] = str(have[0]); continue
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            data = urllib.request.urlopen(req, timeout=40).read()
-            ext = ".png" if data[:4] == b"\x89PNG" else (".webp" if data[8:12] == b"WEBP" else ".jpg")
-            src.mkdir(exist_ok=True)
-            f = src / f"img_{i:02d}{ext}"
-            f.write_bytes(data)
+        done = False
+        for kind, url in cands:
+            have = sorted(src.glob(f"img_{i:02d}-{kind}.*")) if src.exists() else []
+            if have:
+                f = have[0]
+            else:
+                try:
+                    ref = s.get("img_referer") or "{0.scheme}://{0.netloc}/".format(urlsplit(url))
+                    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36", "Referer": ref})
+                    data = urllib.request.urlopen(req, timeout=40).read()
+                    if len(data) < 2000:
+                        raise ValueError("too small")
+                    ext = ".png" if data[:4] == b"\x89PNG" else (".webp" if data[8:12] == b"WEBP" else ".jpg")
+                    src.mkdir(exist_ok=True)
+                    f = src / f"img_{i:02d}-{kind}{ext}"
+                    f.write_bytes(data)
+                    print(f"사진 받음: {i:02d}장 {kind} ({len(data)//1024}KB)")
+                except Exception as e:
+                    print(f"사진 못 받음: {i:02d}장 {kind} ({e.__class__.__name__})")
+                    continue
             s["img"] = str(f)
-            print(f"사진 받음: {i:02d}장 ({len(data)//1024}KB)")
-        except Exception as e:
-            print(f"사진을 못 받아 일러스트로 대신해요: {i:02d}장 ({e.__class__.__name__})")
+            if kind == "ai":
+                s.pop("img_credit", None)
+                s["img_url"] = url  # AI 라벨이 붙도록
+            done = True
+            break
+        if not done:
+            print(f"{i:02d}장은 일러스트로 대신해요")
 
 def img_uri(path):
     if not path: return ""
