@@ -39,6 +39,9 @@ folder.mkdir(parents=True, exist_ok=True)
 for f in list(folder.glob("[0-9][0-9].jpg")) + [folder / n for n in ("reel.mp4", "reel_cover.jpg", "story.jpg", "render_done.txt")]:
     if f.exists():
         f.unlink()
+# 사진은 새로 받도록 지워요 (img_url이 바뀌었을 수 있어요)
+import shutil
+shutil.rmtree(folder / "src", ignore_errors=True)
 (folder / "slides.json").write_text(json.dumps(slides, ensure_ascii=False, indent=2), encoding="utf-8")
 (folder / "caption.txt").write_text(str(p.get("caption", "")).strip() + "\n", encoding="utf-8")
 if p.get("reel_caption"):

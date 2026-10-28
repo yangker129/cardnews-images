@@ -78,20 +78,45 @@ body{font-family:'Noto Sans CJK KR',sans-serif;color:#16131A;-webkit-font-smooth
 def esc(s): return html.escape(str(s))
 
 def visual(s):
-    # illus_svg: 회차별 새 일러스트(viewBox 0 0 400 400 안쪽 도형들, 또는 <svg> 통째로)
+    # 1순위: 사진(img = 회차 폴더 안 파일, img_url에서 받아 둔 것 포함)
+    if s.get("img") and Path(s["img"]).exists():
+        label = s.get("img_label") or ("AI 연출 이미지 · 실제 제품과 달라요" if s.get("img_url") else "직접 촬영")
+        return f'<img src="{img_uri(s["img"])}"><div class="ph">{esc(label)}</div>'
+    # 2순위: illus_svg(회차별 새 일러스트), 3순위: illus 키
     if s.get("illus_svg"):
         svg = s["illus_svg"].strip()
         return svg if svg.startswith("<svg") else illust._wrap(svg, s.get("illus_bg"))
-    if s.get("illus"):
-        name = s["illus"] if s["illus"] in illust.LIB else "basket"
-        return illust.get(name, s.get("illus_bg"))
-    return f'<img src="{img_uri(s.get('img'))}"><div class="ph">{esc(s.get("img_label","직접 촬영"))}</div>' 
+    name = s.get("illus") if s.get("illus") in illust.LIB else "basket"
+    return illust.get(name, s.get("illus_bg"))
+
+def fetch_images(slides, out):
+    """img_url이 있는 장은 사진을 <회차>/src/img_NN.*로 받아 img로 연결해요. 실패하면 일러스트로 대신해요."""
+    import urllib.request
+    for i, s in enumerate(slides, 1):
+        url = s.get("img_url")
+        if not url:
+            continue
+        src = out / "src"
+        have = sorted(src.glob(f"img_{i:02d}.*")) if src.exists() else []
+        if have:
+            s["img"] = str(have[0]); continue
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            data = urllib.request.urlopen(req, timeout=40).read()
+            ext = ".png" if data[:4] == b"\x89PNG" else (".webp" if data[8:12] == b"WEBP" else ".jpg")
+            src.mkdir(exist_ok=True)
+            f = src / f"img_{i:02d}{ext}"
+            f.write_bytes(data)
+            s["img"] = str(f)
+            print(f"사진 받음: {i:02d}장 ({len(data)//1024}KB)")
+        except Exception as e:
+            print(f"사진을 못 받아 일러스트로 대신해요: {i:02d}장 ({e.__class__.__name__})")
 
 def img_uri(path):
     if not path: return ""
     p = Path(path)
     if not p.exists(): return ""
-    mime = "image/png" if p.suffix.lower() == ".png" else "image/jpeg"
+    mime = {".png": "image/png", ".webp": "image/webp"}.get(p.suffix.lower(), "image/jpeg")
     return f"data:{mime};base64," + base64.b64encode(p.read_bytes()).decode()
 
 def shell(inner, s, page, total, issue, overlay=""):
@@ -267,8 +292,10 @@ def main(spec_path):
     with sync_playwright() as p:
         b = p.chromium.launch()
         pg = b.new_page(viewport={"width": 1080, "height": 1350})
+        for s in slides:
+            if s.get("img") and not s.get("img_url"): s["img"] = str(out / s["img"])
+        fetch_images(slides, out)
         for i, s in enumerate(slides, 1):
-            if s.get("img"): s["img"] = str(out / s["img"])
             pg.set_content(shell(KINDS[s["kind"]](s, spec), s, i, len(slides), spec["issue"]))
             pg.wait_for_timeout(200)
             pg.screenshot(path=str(out / f"slide_{i:02d}.png"))
