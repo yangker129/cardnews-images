@@ -162,7 +162,23 @@ def build(folder):
     d = ImageDraw.Draw(st)
     pill(d, (60, ly + layer.height + 60), "프로필에서 7장 전체 보기 →", font(48, True), INK, (255, 255, 255), pad=(36, 18))
     st.save(folder / "story.jpg", quality=92)
-    print(f"reel.mp4 {total_dur:.1f}s, reel_cover.jpg, story.jpg")
+
+    # 스토리 영상: 같은 이미지에 살짝 줌인 + 배경음 (배경음이 없으면 영상은 만들지 않고 이미지 스토리로 올려요)
+    if bgm.exists():
+        sdur = float(os.environ.get("STORY_SECONDS", "12"))
+        n = int(sdur * fps)
+        sst = float(os.environ.get("BGM_START", "0"))
+        cmd = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-t", f"{sdur:.2f}", "-i", str(folder / "story.jpg"),
+               "-i", str(bgm), "-filter_complex",
+               f"[0:v]scale=1188:2112,zoompan=z='min(1+0.0006*on,1.05)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
+               f":d={n}:s={W}x{H}:fps={fps},setsar=1,format=yuv420p[v];"
+               f"[1:a]atrim={sst:.2f}:{sst+sdur:.2f},asetpts=PTS-STARTPTS,loudnorm=I=-14:TP=-1.5:LRA=11,aresample=44100,"
+               f"afade=t=in:st=0:d=0.3,afade=t=out:st={sdur-1.2:.2f}:d=1.2[a]",
+               "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-profile:v", "high",
+               "-pix_fmt", "yuv420p", "-r", str(fps), "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart",
+               "-t", f"{sdur:.2f}", str(folder / "story.mp4")]
+        subprocess.run(cmd, check=True)
+    print(f"reel.mp4 {total_dur:.1f}s, reel_cover.jpg, story.jpg" + (", story.mp4" if bgm.exists() else ""))
 
 
 if __name__ == "__main__":

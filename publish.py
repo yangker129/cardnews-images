@@ -1,7 +1,7 @@
 # publish.py — 폴더 안의 콘텐츠를 인스타에 올립니다
 #   피드 : 01.jpg~ (1~10장) + caption.txt          → 올리면 posted.txt
 #   릴스 : reel.mp4 (+ reel_caption.txt, reel_cover.jpg) → 릴스 탭에만 올리고 피드 그리드엔 안 보여요, 올리면 posted_reel.txt
-#   스토리: story.jpg                                → 올리면 posted_story.txt
+#   스토리: story.mp4(배경음 영상) 또는 story.jpg       → 올리면 posted_story.txt
 # 각 항목은 표시 파일이 없을 때만 올라가서 두 번 올라가지 않아요.
 # posted.txt 내용이 canceled면 그 폴더는 전부 건너뛰어요.
 import os, sys, glob, time, urllib.parse, requests
@@ -96,11 +96,15 @@ if done("reel.mp4") and not done("posted_reel.txt"):
     except Exception as e:
         failures.append(f"릴스 실패 — {e}")
 
-# 3) 스토리
-if done("story.jpg") and not done("posted_story.txt"):
+# 3) 스토리 (story.mp4가 있으면 배경음 있는 영상 스토리, 없으면 story.jpg 이미지 스토리)
+if (done("story.mp4") or done("story.jpg")) and not done("posted_story.txt"):
     try:
-        box = call(f"{USER}/media", media_type="STORIES", image_url=url_of(f"{folder}/story.jpg"))
-        wait_ready(box)
+        if done("story.mp4"):
+            box = call(f"{USER}/media", media_type="STORIES", video_url=url_of(f"{folder}/story.mp4"))
+            wait_ready(box, minutes=8)
+        else:
+            box = call(f"{USER}/media", media_type="STORIES", image_url=url_of(f"{folder}/story.jpg"))
+            wait_ready(box)
         pid = call(f"{USER}/media_publish", creation_id=box)
         mark("posted_story.txt", pid)
         results.append(f"스토리 게시 완료: {pid}")
