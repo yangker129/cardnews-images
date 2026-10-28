@@ -92,9 +92,13 @@ def visual(s):
     # 2순위: illus_svg(회차별 새 일러스트), 3순위: illus 키
     if s.get("illus_svg"):
         svg = s["illus_svg"].strip()
-        return svg if svg.startswith("<svg") else illust._wrap(svg, s.get("illus_bg"))
-    name = s.get("illus") if s.get("illus") in illust.LIB else "basket"
-    return illust.get(name, s.get("illus_bg"))
+        art = svg if svg.startswith("<svg") else illust._wrap(svg, s.get("illus_bg"))
+    else:
+        name = s.get("illus") if s.get("illus") in illust.LIB else "basket"
+        art = illust.get(name, s.get("illus_bg"))
+    if s.get("kind") == "product":
+        art += f'<div class="ph">{esc(s.get("illus_label", "일러스트 · 실제 제품과 다를 수 있어요"))}</div>'
+    return art
 
 def fetch_images(slides, out):
     """사진 받기. 우선순위: img_url(기업 공식 배포 사진이면 img_credit 함께) → ai_img_url(AI 연출 사진) → 일러스트.
