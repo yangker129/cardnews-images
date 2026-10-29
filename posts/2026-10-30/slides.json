@@ -1,0 +1,237 @@
+{
+  "issue": "VOL.04 · 2026.10.30",
+  "price_items": [
+    {
+      "hi": 4900,
+      "label": "4,900원",
+      "lo": 4900,
+      "short": "파르페"
+    },
+    {
+      "hi": 2700,
+      "label": "2,700원",
+      "lo": 2700,
+      "short": "아이스샌드"
+    },
+    {
+      "hi": 3400,
+      "label": "3,400원",
+      "lo": 3400,
+      "short": "버터"
+    },
+    {
+      "hi": 2200,
+      "label": "2,200원",
+      "lo": 2200,
+      "short": "규스키만"
+    },
+    {
+      "hi": 3300,
+      "label": "3,300원",
+      "lo": 3300,
+      "short": "스누피"
+    }
+  ],
+  "scale_max": 6000,
+  "scale_title": "원화로 본 가격 지도",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "basket",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"145\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"translate(50 25) scale(0.42)\"><path d=\"M120 120 h160 l-20 150 q-60 20 -120 0z\" fill=\"#FFF7E4\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M126 170 h148 l-4 30 h-140z\" fill=\"#5A3220\"/><path d=\"M132 220 h136 l-4 26 h-128z\" fill=\"#8B5A3C\"/><path d=\"M120 120 h160 l-20 150 q-60 20 -120 0z\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M180 275 h40 v40 h-40z\" fill=\"#FFF7E4\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"325\" rx=\"60\" ry=\"14\" fill=\"#FFF7E4\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 122 q20 -50 60 -40 q30 -40 70 -10 q40 -10 50 50z\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M150 96 q50 30 100 0\" fill=\"none\" stroke=\"#5A3220\" stroke-width=\"12\" stroke-linecap=\"round\"/><rect x=\"200\" y=\"40\" width=\"44\" height=\"44\" rx=\"6\" fill=\"#5A3220\" stroke=\"#16131A\" stroke-width=\"8\" transform=\"rotate(15 222 62)\"/><path d=\"M150 80 l-14 -40\" stroke=\"#8B5A3C\" stroke-width=\"12\" stroke-linecap=\"round\"/></g><g transform=\"translate(186 35) scale(0.42)\"><ellipse cx=\"200\" cy=\"285\" rx=\"140\" ry=\"40\" fill=\"#C98A4B\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M66 240 h268 v30 q-134 30 -268 0z\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"120\" cy=\"258\" r=\"8\" fill=\"#8B5A2B\"/><circle cx=\"210\" cy=\"262\" r=\"9\" fill=\"#8B5A2B\"/><circle cx=\"280\" cy=\"256\" r=\"7\" fill=\"#8B5A2B\"/><circle cx=\"165\" cy=\"266\" r=\"6\" fill=\"#C98A4B\"/><ellipse cx=\"200\" cy=\"225\" rx=\"140\" ry=\"42\" fill=\"#D9A15C\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#6B3E1F\"><circle cx=\"150\" cy=\"215\" r=\"9\"/><circle cx=\"210\" cy=\"205\" r=\"10\"/><circle cx=\"260\" cy=\"225\" r=\"8\"/><circle cx=\"180\" cy=\"240\" r=\"7\"/><circle cx=\"240\" cy=\"245\" r=\"7\"/></g><path d=\"M110 205 q30 -20 70 -24\" fill=\"none\" stroke=\"#F2C88A\" stroke-width=\"10\" stroke-linecap=\"round\"/></g><g transform=\"translate(46 170) scale(0.42)\"><path d=\"M70 300 q-10 -150 130 -160 q140 10 130 160z\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 300 q0 -90 90 -96 q90 6 90 96z\" fill=\"#8B4A26\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M140 250 q30 -16 60 0 q30 16 60 0\" fill=\"none\" stroke=\"#C8783A\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M150 230 q50 -30 100 0 q10 40 -10 70 q-20 40 -30 60 q-10 -30 -20 -40 q-40 -20 -40 -90z\" fill=\"#FFB000\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M180 240 q20 -10 40 0\" fill=\"none\" stroke=\"#FFE08A\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M70 300 h260\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M150 110 q-10 -30 10 -50 M200 100 q-10 -30 10 -50 M250 110 q-10 -30 10 -50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"8\" stroke-linecap=\"round\"/></g><g transform=\"translate(180 165) scale(0.42)\"><circle cx=\"140\" cy=\"240\" r=\"84\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"140\" cy=\"240\" r=\"46\" fill=\"#D9A15C\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M216 320 a84 84 0 0 1 84 -150 a84 84 0 0 1 0 160z\" fill=\"#FFF0B8\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"290\" cy=\"250\" rx=\"14\" ry=\"62\" fill=\"#F2C060\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"290\" cy=\"250\" r=\"0\"/><path d=\"M95 200 q16 -18 34 -14\" fill=\"none\" stroke=\"#E9E4D8\" stroke-width=\"8\" stroke-linecap=\"round\"/></g><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kicker": "글로벌 레이더 · 일본 편의점",
+      "kind": "cover",
+      "list": [
+        "고디바 쇼콜라파르페",
+        "컨트리맘 아이스샌드",
+        "하겐다즈 크레이지버터",
+        "류지 규스키만",
+        "다베마스 스누피"
+      ],
+      "sub": "일본 편의점 신상, 다 아는 이름이 붙었어요",
+      "tags": [
+        "VOL.04",
+        "10.30"
+      ],
+      "title": "<em>이름</em> 보고<br><em>지갑</em> 여나요?"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "589엔(세금 포함) 기준",
+        "고디바가 감수한 초콜릿 파르페",
+        "같은 날 크레이프·도라모찌도"
+      ],
+      "clip": {
+        "date": "26.10.20",
+        "outlet": "えん食べ",
+        "text": "로손 고디바 협업 3종이 함께 나왔어요",
+        "type": "기사"
+      },
+      "date": "10.20 출시",
+      "illus": "icecream",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"145\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M120 120 h160 l-20 150 q-60 20 -120 0z\" fill=\"#FFF7E4\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M126 170 h148 l-4 30 h-140z\" fill=\"#5A3220\"/><path d=\"M132 220 h136 l-4 26 h-128z\" fill=\"#8B5A3C\"/><path d=\"M120 120 h160 l-20 150 q-60 20 -120 0z\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M180 275 h40 v40 h-40z\" fill=\"#FFF7E4\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><ellipse cx=\"200\" cy=\"325\" rx=\"60\" ry=\"14\" fill=\"#FFF7E4\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M110 122 q20 -50 60 -40 q30 -40 70 -10 q40 -10 50 50z\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M150 96 q50 30 100 0\" fill=\"none\" stroke=\"#5A3220\" stroke-width=\"12\" stroke-linecap=\"round\"/><rect x=\"200\" y=\"40\" width=\"44\" height=\"44\" rx=\"6\" fill=\"#5A3220\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\" transform=\"rotate(15 222 62)\"/><path d=\"M150 80 l-14 -40\" stroke=\"#8B5A3C\" stroke-width=\"12\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "우치카페×고디바 쇼콜라파르페",
+      "note": "명품 초콜릿 이름을 편의점 컵 하나에 담았어요. 매장에 가는 대신 '한 번쯤'을 편의점에서 사요.",
+      "price_idx": 0,
+      "price_label": "원화 환산",
+      "price_tag": "4,900원",
+      "q": "고디바 이름이면<br>5천 원 파르페도 사요?",
+      "src": "출처: えん食べ(2026.10.20) · 환율 100엔=837.92원(하나은행 10.29)",
+      "store": "로손",
+      "tags": [
+        "01 / 05",
+        "로손"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "328엔(세금 별도) 기준",
+        "쿠키를 냉동용으로 다시 만들었어요",
+        "세븐일레븐 한정 · 수량 한정"
+      ],
+      "clip": {
+        "date": "26.10.25",
+        "outlet": "グルメ Watch",
+        "text": "냉동해도 촉촉하게 쿠키를 고쳤대요",
+        "type": "기사"
+      },
+      "date": "10.27 순차 출시",
+      "illus": "icecream",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"145\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><ellipse cx=\"200\" cy=\"285\" rx=\"140\" ry=\"40\" fill=\"#C98A4B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M66 240 h268 v30 q-134 30 -268 0z\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"120\" cy=\"258\" r=\"8\" fill=\"#8B5A2B\"/><circle cx=\"210\" cy=\"262\" r=\"9\" fill=\"#8B5A2B\"/><circle cx=\"280\" cy=\"256\" r=\"7\" fill=\"#8B5A2B\"/><circle cx=\"165\" cy=\"266\" r=\"6\" fill=\"#C98A4B\"/><ellipse cx=\"200\" cy=\"225\" rx=\"140\" ry=\"42\" fill=\"#D9A15C\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><g fill=\"#6B3E1F\"><circle cx=\"150\" cy=\"215\" r=\"9\"/><circle cx=\"210\" cy=\"205\" r=\"10\"/><circle cx=\"260\" cy=\"225\" r=\"8\"/><circle cx=\"180\" cy=\"240\" r=\"7\"/><circle cx=\"240\" cy=\"245\" r=\"7\"/></g><path d=\"M110 205 q30 -20 70 -24\" fill=\"none\" stroke=\"#F2C88A\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "컨트리맘 아이스샌드",
+      "note": "후지야의 스테디셀러 쿠키 이름이 아이스크림으로 옮겨 왔어요. 처음 보는 제품도 '아는 맛'이라 고르기 쉬워요.",
+      "price_idx": 1,
+      "price_label": "원화 환산",
+      "price_tag": "2,700원",
+      "q": "아는 쿠키 맛이면<br>아이스도 믿고 사요?",
+      "src": "출처: グルメ Watch(2026.10.25) · えん食べ(2026.10.27) · 환율 100엔=837.92원(하나은행 10.29)",
+      "store": "세븐일레븐",
+      "tags": [
+        "02 / 05",
+        "세븐일레븐"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "410엔 안팎 기준 · 110mL",
+        "버터 아이스+솔티 버터 소스",
+        "로손 한정 · 수량 한정"
+      ],
+      "clip": {
+        "date": "26.10.24",
+        "outlet": "グルメ Watch",
+        "text": "전국 로손에서 수량 한정으로 팔아요",
+        "type": "기사"
+      },
+      "date": "10.27 출시",
+      "illus": "icecream",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"145\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M90 190 h220 l-24 140 h-172z\" fill=\"#F4E3B5\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M104 250 h192\" stroke=\"#E8C77A\" stroke-width=\"14\"/><path d=\"M90 190 h220 l-24 140 h-172z\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><ellipse cx=\"200\" cy=\"190\" rx=\"112\" ry=\"30\" fill=\"#FFF3C4\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M130 190 q30 22 60 0 q30 -22 70 6\" fill=\"none\" stroke=\"#E0A030\" stroke-width=\"12\" stroke-linecap=\"round\"/><rect x=\"150\" y=\"100\" width=\"100\" height=\"70\" rx=\"10\" fill=\"#FFE27A\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M150 120 h100\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M168 112 h40\" stroke=\"#FFF7D0\" stroke-width=\"8\" stroke-linecap=\"round\"/><rect x=\"96\" y=\"150\" width=\"40\" height=\"30\" rx=\"6\" fill=\"#D9A15C\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\" transform=\"rotate(-18 116 165)\"/><rect x=\"268\" y=\"150\" width=\"38\" height=\"28\" rx=\"6\" fill=\"#D9A15C\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\" transform=\"rotate(16 287 164)\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "크레이지버터",
+      "note": "아이스 브랜드와 편의점이 '여기서만'을 함께 걸었어요. 한정이라는 말이 매장에 들를 이유가 돼요.",
+      "price_idx": 2,
+      "price_label": "원화 환산",
+      "price_tag": "3,400원",
+      "q": "하겐다즈 한정판,<br>로손에만 있으면 가요?",
+      "src": "출처: グルメ Watch(2026.10.24) · えん食べ(2026.10.27) · 환율 100엔=837.92원(하나은행 10.29)",
+      "store": "로손×하겐다즈",
+      "tags": [
+        "03 / 05",
+        "로손 한정"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "258엔(세금 포함) 기준",
+        "스키야키 속 + 노른자풍 소스",
+        "3탄 9종 중 하나 · 수량 한정"
+      ],
+      "clip": {
+        "date": "26.10.26",
+        "outlet": "패밀리마트",
+        "text": "시리즈 누적 판매 880만 식을 넘었어요",
+        "type": "공식 발표"
+      },
+      "date": "10.27 출시",
+      "illus": "burger",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"145\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M70 300 q-10 -150 130 -160 q140 10 130 160z\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M110 300 q0 -90 90 -96 q90 6 90 96z\" fill=\"#8B4A26\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M140 250 q30 -16 60 0 q30 16 60 0\" fill=\"none\" stroke=\"#C8783A\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M150 230 q50 -30 100 0 q10 40 -10 70 q-20 40 -30 60 q-10 -30 -20 -40 q-40 -20 -40 -90z\" fill=\"#FFB000\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M180 240 q20 -10 40 0\" fill=\"none\" stroke=\"#FFE08A\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M70 300 h260\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M150 110 q-10 -30 10 -50 M200 100 q-10 -30 10 -50 M250 110 q-10 -30 10 -50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "img_credit": "사진 제공: 패밀리마트",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.family.co.jp/goods/chukaman/0240673.html",
+      "img_url": "https://www.family.co.jp/content/dam/family/goods/0240673.jpg",
+      "img_zoom": 1.1,
+      "kind": "product",
+      "name": "류지 토로타마 규스키만",
+      "note": "요리연구가 류지의 스키야키 레시피를 호빵에 넣었어요. 만든 사람 이름이 메뉴 맨 앞에 섰어요.",
+      "price_idx": 3,
+      "price_label": "원화 환산",
+      "price_tag": "2,200원",
+      "q": "요리연구가 레시피면<br>호빵도 달라 보여요?",
+      "src": "출처: 패밀리마트 뉴스릴리스(2026.10.26) · 환율 100엔=837.92원(하나은행 10.29)",
+      "store": "패밀리마트",
+      "tags": [
+        "04 / 05",
+        "패밀리마트"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "398엔 기준",
+        "밀크·커스터드 등 앙금 4가지",
+        "피너츠 협업 3년째"
+      ],
+      "clip": {
+        "date": "26.10.19",
+        "outlet": "グルメ Watch",
+        "text": "피너츠와 협업은 올해로 3년째예요",
+        "type": "기사"
+      },
+      "date": "10.20 출시",
+      "illus": "basket",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"145\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><circle cx=\"140\" cy=\"240\" r=\"84\" fill=\"#FFFDF7\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"140\" cy=\"240\" r=\"46\" fill=\"#D9A15C\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M216 320 a84 84 0 0 1 84 -150 a84 84 0 0 1 0 160z\" fill=\"#FFF0B8\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><ellipse cx=\"290\" cy=\"250\" rx=\"14\" ry=\"62\" fill=\"#F2C060\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"290\" cy=\"250\" r=\"0\"/><path d=\"M95 200 q16 -18 34 -14\" fill=\"none\" stroke=\"#E9E4D8\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FF8FB1\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FF8FB1\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FF8FB1\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "다베마스 스누피",
+      "note": "캐릭터 모양 화과자에 밀크티·캐러멜 같은 앙금을 넣었어요. 맛보다 '귀여워서' 먼저 집어요.",
+      "price_idx": 4,
+      "price_label": "원화 환산",
+      "price_tag": "3,300원",
+      "q": "캐릭터 얼굴이면<br>화과자도 사 먹어요?",
+      "src": "출처: グルメ Watch(2026.10.19) · えん食べ(2026.10.20) · 환율 100엔=837.92원(하나은행 10.29)",
+      "store": "패밀리마트",
+      "tags": [
+        "05 / 05",
+        "패밀리마트"
+      ]
+    },
+    {
+      "bg": "#2B2140",
+      "cta": "여러분은 어떤 이름에 지갑을 여나요?",
+      "kind": "insight",
+      "map_title": "일본 신상 5개, 원화로 찍어 봤어요",
+      "src": "출처: 패밀리마트 뉴스릴리스(2026.10.26) · 환율 100엔=837.92원(하나은행 10.29)",
+      "tags": [
+        "관찰 노트",
+        "VOL.04"
+      ],
+      "title": "모르는 맛 대신,<br><em>아는 이름</em>을 사요"
+    }
+  ]
+}
