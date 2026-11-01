@@ -1,0 +1,265 @@
+{
+  "issue": "VOL.05 · 2026.11.02",
+  "price_items": [
+    {
+      "hi": 2700,
+      "label": "2,600원~",
+      "lo": 2600,
+      "short": "케로로"
+    },
+    {
+      "hi": 2000,
+      "label": "2,000원~",
+      "lo": 2000,
+      "short": "다마고치"
+    },
+    {
+      "hi": 1900,
+      "label": "1,900원",
+      "lo": 1900,
+      "short": "볶음면"
+    },
+    {
+      "hi": 3500,
+      "label": "3,500원",
+      "lo": 3500,
+      "short": "떡 6입"
+    },
+    {
+      "hi": 2700,
+      "label": "2,700원",
+      "lo": 2700,
+      "short": "깨찰빵"
+    }
+  ],
+  "scale_max": 6000,
+  "scale_title": "이번 주 신상 가격 지도",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "basket",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"170\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"translate(-20 30) scale(.55)\"><ellipse cx=\"160\" cy=\"262\" rx=\"110\" ry=\"40\" fill=\"#B5652B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M58 240 q102 30 204 0 v14 q-102 30 -204 0z\" fill=\"#5A2232\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><ellipse cx=\"160\" cy=\"214\" rx=\"110\" ry=\"44\" fill=\"#C97A36\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M100 196 q60 -26 120 0\" fill=\"none\" stroke=\"#E9A55E\" stroke-width=\"10\" stroke-linecap=\"round\"/></g><g transform=\"translate(180 -10) scale(.55)\"><path d=\"M175 250 q0 -109 95 -109 q95 0 95 109 q0 33 -95 33 q-95 0 -95 -33z\" fill=\"#FF8A5B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M227 198 q43 -28 86 0\" fill=\"none\" stroke=\"#FFC2A8\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M270 146 v24\" stroke=\"#FFC2A8\" stroke-width=\"7\" stroke-linecap=\"round\"/></g><g transform=\"translate(120 120) scale(.5)\"><path d=\"M50 200 h300 q-10 120 -150 130 q-140 -10 -150 -130z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M70 202 q30 -60 70 -30 q30 -50 70 -10 q40 -50 70 -10 q30 -20 60 50z\" fill=\"#E86A2C\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></g><g transform=\"translate(10 150) scale(.5)\"><rect x=\"60\" y=\"220\" width=\"78\" height=\"62\" rx=\"18\" fill=\"#FFC93C\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><g fill=\"#E89A1C\"><circle cx=\"80\" cy=\"238\" r=\"4\"/><circle cx=\"110\" cy=\"234\" r=\"4\"/><circle cx=\"96\" cy=\"258\" r=\"4\"/><circle cx=\"120\" cy=\"264\" r=\"4\"/></g><rect x=\"150\" y=\"210\" width=\"78\" height=\"62\" rx=\"18\" fill=\"#2E2A33\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><g fill=\"#6B6475\"><circle cx=\"170\" cy=\"228\" r=\"4\"/><circle cx=\"200\" cy=\"224\" r=\"4\"/><circle cx=\"186\" cy=\"248\" r=\"4\"/><circle cx=\"210\" cy=\"254\" r=\"4\"/></g></g><g transform=\"translate(220 140) scale(.45)\"><path d=\"M70 250 q-20 -70 40 -100 q10 -60 90 -60 q80 0 90 60 q60 30 40 100 q-130 40 -260 0z\" fill=\"#E9B26A\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></g><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kicker": "11월 1주 · 편의점 신상 노트",
+      "kind": "cover",
+      "list": [
+        "CU 케로로 빵",
+        "CU 다마고치 빵",
+        "볶음너구리큰사발",
+        "호박인절미·흑임자떡",
+        "매일우유 깨찰빵"
+      ],
+      "sub": "캐릭터·단종 라면·떡집 맛이 돌아왔어요",
+      "tags": [
+        "VOL.05",
+        "11.02"
+      ],
+      "title": "<em>추억</em>도<br>다시 <em>사나요</em>?"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "시나몬러스크·팥도라야끼·피자빵",
+        "투명 포토카드 10종 랜덤",
+        "CU 단독 · 2,600원부터"
+      ],
+      "clip": {
+        "date": "26.10.28",
+        "outlet": "CU 공식 인스타그램",
+        "text": "케로로 캐릭터 빵 3종을 소개했어요",
+        "type": "공식 발표"
+      },
+      "date": "10.28 출시",
+      "illus": "basket",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M232 150 l110 -40 q22 -6 26 16 l10 70 q2 16 -14 22 l-108 30 q-16 4 -20 -12 l-12 -66 q-2 -14 8 -20z\" fill=\"#E7B46A\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M244 162 l100 -36 l8 62 l-98 28z\" fill=\"#F6D9A0\" stroke=\"#16131A\" stroke-width=\"5\" stroke-linejoin=\"round\"/><g fill=\"#8A4B1F\"><circle cx=\"270\" cy=\"170\" r=\"5\"/><circle cx=\"300\" cy=\"160\" r=\"5\"/><circle cx=\"325\" cy=\"150\" r=\"5\"/><circle cx=\"285\" cy=\"195\" r=\"5\"/><circle cx=\"315\" cy=\"185\" r=\"5\"/><circle cx=\"335\" cy=\"172\" r=\"4\"/><circle cx=\"265\" cy=\"205\" r=\"4\"/></g><ellipse cx=\"160\" cy=\"262\" rx=\"110\" ry=\"40\" fill=\"#B5652B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M58 240 q102 30 204 0 v14 q-102 30 -204 0z\" fill=\"#5A2232\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><ellipse cx=\"160\" cy=\"214\" rx=\"110\" ry=\"44\" fill=\"#C97A36\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M100 196 q60 -26 120 0\" fill=\"none\" stroke=\"#E9A55E\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "케로로 빵 3종",
+      "note": "2022년에 16년 만에 돌아왔던 케로로 빵이 다시 나왔어요. 빵보다 포토카드를 먼저 확인하게 돼요.",
+      "price_idx": 0,
+      "price_label": "가격대",
+      "price_tag": "2,600원~",
+      "q": "개구리 중사 얼굴이면<br>빵을 또 집나요?",
+      "src": "출처: CU 공식 인스타그램(2026.10.28) · 파이낸셜뉴스(2022.09.21)",
+      "store": "CU",
+      "tags": [
+        "01 / 05",
+        "CU"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "고기·칠리 호빵 각 2,000원",
+        "닭고기·카레 조리빵 3,200원",
+        "조리빵에 스티커 50종 랜덤"
+      ],
+      "clip": {
+        "date": "26.10.26",
+        "outlet": "CU 공식 인스타그램",
+        "text": "다마고치 조리빵·호빵 4종을 알렸어요",
+        "type": "공식 발표"
+      },
+      "date": "10.26 출시",
+      "illus": "burger",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M175 250 q0 -109 95 -109 q95 0 95 109 q0 33 -95 33 q-95 0 -95 -33z\" fill=\"#FF8A5B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M227 198 q43 -28 86 0\" fill=\"none\" stroke=\"#FFC2A8\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M270 146 v24\" stroke=\"#FFC2A8\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M40 275 q0 -115 100 -115 q100 0 100 115 q0 35 -100 35 q-100 0 -100 -35z\" fill=\"#FFFDF6\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M95 220 q45 -30 90 0\" fill=\"none\" stroke=\"#DCD6E6\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M140 165 v25\" stroke=\"#DCD6E6\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "다마고치 조리빵·호빵 4종",
+      "note": "추억의 키우기 게임 캐릭터가 겨울 호빵에 붙었어요. 스티커를 모으려고 한 번 더 사게 돼요.",
+      "price_idx": 1,
+      "price_label": "가격대",
+      "price_tag": "2,000원~",
+      "q": "키우던 그 캐릭터,<br>이번엔 먹어 볼까요?",
+      "src": "출처: CU 공식 인스타그램(2026.10.26)",
+      "store": "CU",
+      "tags": [
+        "02 / 05",
+        "CU"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "2017년 출시·2024년 단종",
+        "홍합·오징어 풍미 매콤 볶음면",
+        "세븐일레븐 한정 판매"
+      ],
+      "clip": {
+        "date": "26.10.14",
+        "outlet": "아시아경제",
+        "text": "온라인 검색량이 약 6만3천→10만 건",
+        "type": "기사"
+      },
+      "date": "10.28 출시",
+      "illus": "basket",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M50 200 h300 q-10 120 -150 130 q-140 -10 -150 -130z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M70 202 q30 -60 70 -30 q30 -50 70 -10 q40 -50 70 -10 q30 -20 60 50z\" fill=\"#E86A2C\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M90 190 q20 -30 45 -8 q25 -34 50 -4 M190 178 q30 -34 55 -6 q25 -28 50 6\" fill=\"none\" stroke=\"#FFB067\" stroke-width=\"10\" stroke-linecap=\"round\"/><path d=\"M150 150 q30 -40 70 -16 q-20 30 -70 16z\" fill=\"#2B2140\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M162 146 q24 -18 46 -10\" fill=\"none\" stroke=\"#F2A541\" stroke-width=\"7\" stroke-linecap=\"round\"/><circle cx=\"270\" cy=\"160\" r=\"22\" fill=\"#FFF3E0\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"270\" cy=\"160\" r=\"9\" fill=\"#E86A2C\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M290 40 l-60 130 M320 50 l-70 128\" stroke=\"#C98A4B\" stroke-width=\"14\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "img_credit": "사진 제공: 농심",
+      "img_pos": "50% 50%",
+      "img_referer": "https://view.asiae.co.kr/article/2026101408501494009",
+      "img_url": "https://cphoto.asiae.co.kr/listimglink/1/2026101408475459840_1791935275.jpg",
+      "img_zoom": 1.1,
+      "kind": "product",
+      "name": "볶음너구리큰사발",
+      "note": "농심에 들어온 재출시 요청 중 가장 많았던 제품이 돌아왔어요. 사람들이 '다시 내 달라'고 직접 불러냈어요.",
+      "price_idx": 2,
+      "price_label": "판매가",
+      "price_tag": "1,900원",
+      "q": "단종된 라면,<br>다시 나오면 사러 가요?",
+      "src": "출처: 아시아경제(2026.10.14) · 세븐일레븐 공식 인스타그램",
+      "store": "세븐일레븐",
+      "tags": [
+        "03 / 05",
+        "세븐일레븐 한정"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "인기 떡집 대표 메뉴에서 착안",
+        "국산 찹쌀 · 한입 크기 6개입",
+        "카스텔라 가루·흑임자 가루"
+      ],
+      "clip": {
+        "date": "26.10.26",
+        "outlet": "뉴스후플러스",
+        "text": "1~9월 떡 매출이 62% 늘었대요",
+        "type": "기사"
+      },
+      "date": "10.29 출시",
+      "illus": "cheese",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"170\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><ellipse cx=\"200\" cy=\"290\" rx=\"175\" ry=\"50\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><rect x=\"60\" y=\"220\" width=\"78\" height=\"62\" rx=\"18\" fill=\"#FFC93C\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><g fill=\"#E89A1C\"><circle cx=\"80\" cy=\"238\" r=\"4\"/><circle cx=\"110\" cy=\"234\" r=\"4\"/><circle cx=\"96\" cy=\"258\" r=\"4\"/><circle cx=\"120\" cy=\"264\" r=\"4\"/></g><rect x=\"150\" y=\"210\" width=\"78\" height=\"62\" rx=\"18\" fill=\"#FFC93C\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><g fill=\"#E89A1C\"><circle cx=\"170\" cy=\"228\" r=\"4\"/><circle cx=\"200\" cy=\"224\" r=\"4\"/><circle cx=\"186\" cy=\"248\" r=\"4\"/><circle cx=\"210\" cy=\"254\" r=\"4\"/></g><rect x=\"240\" y=\"220\" width=\"78\" height=\"62\" rx=\"18\" fill=\"#FFC93C\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><g fill=\"#E89A1C\"><circle cx=\"260\" cy=\"238\" r=\"4\"/><circle cx=\"290\" cy=\"234\" r=\"4\"/><circle cx=\"276\" cy=\"258\" r=\"4\"/><circle cx=\"300\" cy=\"264\" r=\"4\"/></g><rect x=\"95\" y=\"262\" width=\"78\" height=\"62\" rx=\"18\" fill=\"#2E2A33\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><g fill=\"#6B6475\"><circle cx=\"115\" cy=\"280\" r=\"4\"/><circle cx=\"145\" cy=\"276\" r=\"4\"/><circle cx=\"131\" cy=\"300\" r=\"4\"/><circle cx=\"155\" cy=\"306\" r=\"4\"/></g><rect x=\"190\" y=\"266\" width=\"78\" height=\"62\" rx=\"18\" fill=\"#2E2A33\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><g fill=\"#6B6475\"><circle cx=\"210\" cy=\"284\" r=\"4\"/><circle cx=\"240\" cy=\"280\" r=\"4\"/><circle cx=\"226\" cy=\"304\" r=\"4\"/><circle cx=\"250\" cy=\"310\" r=\"4\"/></g><path d=\"M190 300 q20 -12 40 0\" fill=\"none\" stroke=\"#7A2E3A\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "img_credit": "사진 제공: 세븐일레븐",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.newswhoplus.com/news/articleView.html?idxno=72585",
+      "img_url": "https://cdn.newswhoplus.com/news/photo/202610/72585_111299_1914.jpg",
+      "img_zoom": 1.1,
+      "kind": "product",
+      "name": "호박인절미떡·흑임자떡",
+      "note": "줄 서는 떡집 메뉴를 편의점 한입 떡으로 옮겼어요. 익숙한 할머니 간식이 디저트 자리로 올라왔어요.",
+      "price_idx": 3,
+      "price_label": "6개입",
+      "price_tag": "3,500원",
+      "q": "떡집 가던 발길,<br>편의점에서 멈출까요?",
+      "src": "출처: 뉴스후플러스(2026.10.26) · 아이뉴스24(2026.10.26)",
+      "store": "세븐일레븐",
+      "tags": [
+        "04 / 05",
+        "세븐일레븐"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "커스타드·솔티밀크 2가지",
+        "쫀득한 깨찰빵 속 우유 크림",
+        "매일유업과 협업"
+      ],
+      "clip": {
+        "date": "26.10.27",
+        "outlet": "GS25 공식 인스타그램",
+        "text": "깨찰빵 2종 출시를 알렸어요",
+        "type": "공식 발표"
+      },
+      "date": "10.27 출시",
+      "illus": "basket",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<ellipse cx=\"200\" cy=\"345\" rx=\"150\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M70 250 q-20 -70 40 -100 q10 -60 90 -60 q80 0 90 60 q60 30 40 100 q-130 40 -260 0z\" fill=\"#E9B26A\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><g fill=\"#2E2A33\"><ellipse cx=\"140\" cy=\"140\" rx=\"5\" ry=\"3\"/><ellipse cx=\"190\" cy=\"118\" rx=\"5\" ry=\"3\"/><ellipse cx=\"240\" cy=\"132\" rx=\"5\" ry=\"3\"/><ellipse cx=\"270\" cy=\"170\" rx=\"5\" ry=\"3\"/><ellipse cx=\"120\" cy=\"190\" rx=\"5\" ry=\"3\"/><ellipse cx=\"210\" cy=\"160\" rx=\"5\" ry=\"3\"/></g><g fill=\"#FFF3D6\"><ellipse cx=\"165\" cy=\"160\" rx=\"5\" ry=\"3\"/><ellipse cx=\"225\" cy=\"105\" rx=\"5\" ry=\"3\"/><ellipse cx=\"290\" cy=\"205\" rx=\"5\" ry=\"3\"/><ellipse cx=\"150\" cy=\"215\" rx=\"5\" ry=\"3\"/></g><path d=\"M110 250 q90 -60 180 0 q-90 30 -180 0z\" fill=\"#FFE9A8\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M150 248 q50 -26 100 0\" fill=\"none\" stroke=\"#F4C24A\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><path d=\"M335 300 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"340\" cy=\"80\" r=\"10\" fill=\"#fff\" stroke=\"#16131A\" stroke-width=\"8\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/>",
+      "kind": "product",
+      "name": "매일우유 깨찰빵 2종",
+      "note": "동네 빵집에서 보던 깨찰빵에 우유 브랜드 크림을 채웠어요. 아는 빵에 새 속을 넣어 고르기 쉬워요.",
+      "price_idx": 4,
+      "price_label": "판매가",
+      "price_tag": "2,700원",
+      "q": "빵집 깨찰빵에<br>우유 크림 넣으면요?",
+      "src": "출처: GS25 공식 인스타그램(2026.10.27)",
+      "store": "GS25",
+      "tags": [
+        "05 / 05",
+        "GS25"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "2026년 1~9월 떡 매출, 전년 동기 대비",
+        "max": 110,
+        "prefix": "+",
+        "rows": [
+          [
+            "CU 떡 매출",
+            96.5,
+            "#FFD43B"
+          ],
+          [
+            "세븐 외국인 떡 매출",
+            80,
+            "#A8EFD2"
+          ],
+          [
+            "세븐 떡 매출",
+            62,
+            "#FFB199"
+          ]
+        ],
+        "title": "편의점 떡, 이만큼 늘었어요"
+      },
+      "bg": "#2B2140",
+      "cta": "여러분이 다시 나와 줬으면 하는 추억템은요?",
+      "kind": "insight",
+      "map_title": "돌아온 신상 5개, 가격은 어디쯤?",
+      "src": "출처: 아이뉴스24(2026.10.26) · 뉴스후플러스(2026.10.26)",
+      "tags": [
+        "관찰 노트",
+        "VOL.05"
+      ],
+      "title": "새 맛보다<br><em>아는 맛</em>에 손이 가요"
+    }
+  ]
+}
