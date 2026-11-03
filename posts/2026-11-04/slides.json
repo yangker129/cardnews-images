@@ -1,0 +1,264 @@
+{
+  "issue": "VOL.06 · 2026.11.04",
+  "price_items": [
+    {
+      "hi": 3900,
+      "label": "3,900원",
+      "lo": 3900,
+      "short": "피자설기"
+    },
+    {
+      "hi": 3800,
+      "label": "3,800원",
+      "lo": 3800,
+      "short": "피자절편"
+    },
+    {
+      "hi": 3200,
+      "label": "3,200원",
+      "lo": 3200,
+      "short": "생초코"
+    },
+    {
+      "hi": 4500,
+      "label": "4,500원",
+      "lo": 4500,
+      "short": "모찌파베"
+    }
+  ],
+  "scale_max": 6000,
+  "scale_title": "떡 디저트 사례 가격 지도",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "basket",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<ellipse cx='200' cy='345' rx='175' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><g transform='translate(10 150) scale(0.62)'><path d='M0 60 l120 -40 l120 40 v80 l-120 40 l-120 -40z' fill='#FFFDF5'/><path d='M0 60 l120 40 l120 -40' fill='none'/><path d='M120 100 v80'/><path d='M26 60 l94 -31 l94 31 l-94 31z' fill='#E8432E'/><path d='M52 60 q20 -22 50 -16 q30 -14 60 0 q30 2 34 18 q-30 20 -76 22 q-50 -6 -68 -24z' fill='#FFD43B'/><circle cx='92' cy='58' r='13' fill='#B3261E'/><circle cx='150' cy='52' r='13' fill='#B3261E'/><circle cx='128' cy='78' r='11' fill='#B3261E'/><g fill='#FFB300' stroke='#16131A' stroke-width='4'><circle cx='120' cy='44' r='6'/><circle cx='172' cy='66' r='6'/><circle cx='70' cy='64' r='6'/></g></g><g transform='translate(200 195) scale(0.62)'><path d='M0 80 q0 -50 140 -50 q140 0 140 50 v26 q0 50 -140 50 q-140 0 -140 -50z' fill='#FFFDF5'/><path d='M0 82 q0 50 140 50 q140 0 140 -50' fill='none'/><path d='M30 78 q0 -30 110 -30 q110 0 110 30 q0 30 -110 30 q-110 0 -110 -30z' fill='#E8432E'/><path d='M50 80 q20 -26 60 -18 q40 -14 70 0 q40 -6 50 18 q-10 20 -90 22 q-80 -2 -90 -22z' fill='#FFD43B'/><circle cx='95' cy='74' r='14' fill='#B3261E'/><circle cx='175' cy='70' r='14' fill='#B3261E'/><circle cx='138' cy='90' r='9' fill='none' stroke='#2E2A33' stroke-width='8'/><circle cx='210' cy='86' r='8' fill='none' stroke='#2E2A33' stroke-width='7'/><g fill='#FFB300' stroke='#16131A' stroke-width='4'><circle cx='70' cy='88' r='6'/><circle cx='150' cy='62' r='6'/></g></g><g transform='translate(50 50) scale(0.7)'><path d='M-10 90 q0 -100 90 -100 q90 0 90 100 q0 30 -90 30 q-90 0 -90 -30z' fill='#FFFDF5'/><ellipse cx='80' cy='96' rx='78' ry='22' fill='#FFFDF5'/><ellipse cx='80' cy='96' rx='50' ry='13' fill='#5A3020'/><path d='M30 30 q20 -24 50 -26' fill='none' stroke='#fff' stroke-width='8' stroke-linecap='round' opacity='.9'/></g><g transform='translate(235 50) scale(0.75)'><path d='M0 40 l80 -30 l80 30 l-80 30z' fill='#7FB04A'/><path d='M0 40 v70 l80 30 v-70z' fill='#4E2A1C'/><path d='M160 40 v70 l-80 30 v-70z' fill='#3B1F14'/><path d='M0 62 l80 30 l80 -30' fill='none' stroke='#FFFDF5' stroke-width='14' stroke-linejoin='round'/><path d='M0 40 l80 -30 l80 30 l-80 30z' fill='none'/><path d='M0 40 v70 l80 30 l80 -30 v-70' fill='none'/><path d='M80 70 v70'/><g fill='#A7D16B' stroke='none'><circle cx='50' cy='36' r='4'/><circle cx='90' cy='26' r='4'/><circle cx='110' cy='46' r='4'/></g></g><g transform='translate(150 140) scale(0.6)'><path d='M0 40 l80 -30 l80 30 l-80 30z' fill='#8A5030'/><path d='M160 40 v80 l-80 30 v-80z' fill='#4A2616'/><path d='M0 40 v80 l80 30 v-80z' fill='#6B3A22'/><path d='M14 58 l52 20 v52 l-52 -20z' fill='#FFFDF5'/><ellipse cx='40' cy='94' rx='13' ry='16' fill='#E3B860'/><path d='M50 30 l40 -14' stroke='#B07A55' stroke-width='8' stroke-linecap='round'/></g></g>",
+      "kicker": "트렌드 키워드 · 떡 디저트",
+      "kind": "cover",
+      "list": [
+        "GS25 설빙 피자설기",
+        "CU 피자절편",
+        "CU 생초코 모찌",
+        "CU 모찌 파베 말차맛",
+        "세븐일레븐 치로루 모찌"
+      ],
+      "sub": "떡집 웨이팅 메뉴가 편의점 냉장고로 왔어요",
+      "tags": [
+        "VOL.06",
+        "11.04"
+      ],
+      "title": "<em>줄</em> 서던 떡,<br><em>편의점</em>서 사요?"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "백설기 위에 피자 토핑",
+        "65g×2입 · 냉동 제품",
+        "앱 사전예약 5천 개 한정"
+      ],
+      "clip": {
+        "date": "26.10.26",
+        "outlet": "스페셜타임스",
+        "text": "11월 5일부터 전국 점포에서 팔아요",
+        "type": "기사"
+      },
+      "date": "11.05 출시",
+      "illus": "cheese",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<ellipse cx='200' cy='345' rx='170' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><g transform='translate(70 110) scale(1.05)'><path d='M0 60 l120 -40 l120 40 v80 l-120 40 l-120 -40z' fill='#FFFDF5'/><path d='M0 60 l120 40 l120 -40' fill='none'/><path d='M120 100 v80'/><path d='M26 60 l94 -31 l94 31 l-94 31z' fill='#E8432E'/><path d='M52 60 q20 -22 50 -16 q30 -14 60 0 q30 2 34 18 q-30 20 -76 22 q-50 -6 -68 -24z' fill='#FFD43B'/><circle cx='92' cy='58' r='13' fill='#B3261E'/><circle cx='150' cy='52' r='13' fill='#B3261E'/><circle cx='128' cy='78' r='11' fill='#B3261E'/><g fill='#FFB300' stroke='#16131A' stroke-width='4'><circle cx='120' cy='44' r='6'/><circle cx='172' cy='66' r='6'/><circle cx='70' cy='64' r='6'/></g></g><path d='M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z' fill='#fff'/><path d='M340 290 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z' fill='#fff'/><circle cx='345' cy='78' r='10' fill='#fff'/></g>",
+      "img_credit": "사진 제공: GS리테일",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.specialtimes.co.kr/news/articleView.html?idxno=478302",
+      "img_url": "https://cdn.specialtimes.co.kr/news/photo/202610/478302_468137_3547.jpg",
+      "img_zoom": 1.1,
+      "kind": "product",
+      "name": "설빙 피자설기",
+      "note": "백설기를 도우 삼아 피자소스·치즈·페퍼로니·옥수수를 올렸어요. 떡집 앞에 서던 줄이 앱 예약 버튼으로 옮겨 왔어요.",
+      "price_idx": 0,
+      "price_label": "판매가",
+      "price_tag": "3,900원",
+      "q": "떡집 웨이팅 메뉴,<br>사전예약으로 사요?",
+      "src": "출처: 스페셜타임스·아이뉴스24(2026.10.26)",
+      "store": "GS25",
+      "tags": [
+        "01 / 05",
+        "GS25"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "절편을 도우로 썼어요",
+        "토마토소스·모차렐라·올리브",
+        "전자레인지 20초 · 상시 판매"
+      ],
+      "clip": {
+        "date": "26.10.06",
+        "outlet": "세계일보",
+        "text": "떡집 피자설기를 편의점 버전으로 냈어요",
+        "type": "기사"
+      },
+      "date": "10.08 출시",
+      "illus": "cheese",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<ellipse cx='200' cy='345' rx='170' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><g transform='translate(60 120) scale(1.0)'><path d='M0 80 q0 -50 140 -50 q140 0 140 50 v26 q0 50 -140 50 q-140 0 -140 -50z' fill='#FFFDF5'/><path d='M0 82 q0 50 140 50 q140 0 140 -50' fill='none'/><path d='M30 78 q0 -30 110 -30 q110 0 110 30 q0 30 -110 30 q-110 0 -110 -30z' fill='#E8432E'/><path d='M50 80 q20 -26 60 -18 q40 -14 70 0 q40 -6 50 18 q-10 20 -90 22 q-80 -2 -90 -22z' fill='#FFD43B'/><circle cx='95' cy='74' r='14' fill='#B3261E'/><circle cx='175' cy='70' r='14' fill='#B3261E'/><circle cx='138' cy='90' r='9' fill='none' stroke='#2E2A33' stroke-width='8'/><circle cx='210' cy='86' r='8' fill='none' stroke='#2E2A33' stroke-width='7'/><g fill='#FFB300' stroke='#16131A' stroke-width='4'><circle cx='70' cy='88' r='6'/><circle cx='150' cy='62' r='6'/></g></g><path d='M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z' fill='#fff'/><path d='M340 290 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z' fill='#fff'/><circle cx='345' cy='78' r='10' fill='#fff'/></g>",
+      "img_credit": "사진 제공: BGF리테일",
+      "img_pos": "50% 50%",
+      "img_referer": "https://zdnet.co.kr/view/?no=20261006091237",
+      "img_url": "https://image.zdnet.co.kr/2026/10/06/789410832173b65e904f05c267fd2bd4.jpg",
+      "img_zoom": 1.1,
+      "kind": "product",
+      "name": "피자절편",
+      "note": "SNS에서 뜬 피자설기를 절편 버전으로 바꿨어요. 같은 유행도 떡 종류를 골라 먹는 단계로 넘어갔어요.",
+      "price_idx": 1,
+      "price_label": "판매가",
+      "price_tag": "3,800원",
+      "q": "백설기 말고 절편,<br>피자떡도 골라 사요?",
+      "src": "출처: 세계일보·지디넷코리아(2026.10.06)",
+      "store": "CU",
+      "tags": [
+        "02 / 05",
+        "CU"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "얇은 찹쌀떡에 초콜릿 속",
+        "기본·말차 2종",
+        "한 달 만에 누적 40만 개"
+      ],
+      "clip": {
+        "date": "26.10.26",
+        "outlet": "포인트경제",
+        "text": "출시 한 달 만에 40만 개가 팔렸대요",
+        "type": "기사"
+      },
+      "date": "09.16 출시",
+      "illus": "basket",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<ellipse cx='200' cy='345' rx='170' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><g transform='translate(40 150) scale(0.95)'><path d='M0 100 q0 -100 90 -100 q90 0 90 100 q0 30 -90 30 q-90 0 -90 -30z' fill='#FFFDF5'/><g fill='#E9E2D0' stroke='none'><circle cx='50' cy='40' r='5'/><circle cx='100' cy='24' r='5'/><circle cx='130' cy='56' r='5'/><circle cx='70' cy='76' r='4'/></g><path d='M36 46 q16 -26 44 -30' fill='none' stroke='#fff' stroke-width='8' stroke-linecap='round'/></g><g transform='translate(200 140) scale(1.0)'><path d='M-10 90 q0 -100 90 -100 q90 0 90 100 q0 30 -90 30 q-90 0 -90 -30z' fill='#BFE08A'/><ellipse cx='80' cy='96' rx='78' ry='22' fill='#BFE08A'/><ellipse cx='80' cy='96' rx='50' ry='13' fill='#5A3020'/><path d='M30 30 q20 -24 50 -26' fill='none' stroke='#fff' stroke-width='8' stroke-linecap='round' opacity='.9'/></g><path d='M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z' fill='#fff'/><path d='M340 290 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z' fill='#fff'/><circle cx='345' cy='78' r='10' fill='#fff'/></g>",
+      "kind": "product",
+      "name": "생초코 모찌 2종",
+      "note": "떡을 간식이 아니라 초콜릿 디저트처럼 골라요. 익숙한 찹쌀떡에 디저트 재료 하나만 바꿔 넣었어요.",
+      "price_idx": 2,
+      "price_label": "판매가",
+      "price_tag": "3,200원",
+      "q": "찹쌀떡 속 생초코,<br>한 달에 40만 개요?",
+      "src": "출처: 포인트경제·뉴스1(2026.10.26)",
+      "store": "CU",
+      "tags": [
+        "03 / 05",
+        "CU"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "모찌 + 파베 초콜릿",
+        "말차의 쌉싸름한 맛",
+        "생초코 모찌 다음 타자"
+      ],
+      "clip": {
+        "date": "26.10.26",
+        "outlet": "아이뉴스24",
+        "text": "모찌에 파베 초콜릿을 더한 신상이에요",
+        "type": "기사"
+      },
+      "date": "10.22 출시",
+      "illus": "cheese",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<ellipse cx='200' cy='345' rx='165' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><g transform='translate(60 90) scale(1.6)'><path d='M0 40 l80 -30 l80 30 l-80 30z' fill='#7FB04A'/><path d='M0 40 v70 l80 30 v-70z' fill='#4E2A1C'/><path d='M160 40 v70 l-80 30 v-70z' fill='#3B1F14'/><path d='M0 62 l80 30 l80 -30' fill='none' stroke='#FFFDF5' stroke-width='14' stroke-linejoin='round'/><path d='M0 40 l80 -30 l80 30 l-80 30z' fill='none'/><path d='M0 40 v70 l80 30 l80 -30 v-70' fill='none'/><path d='M80 70 v70'/><g fill='#A7D16B' stroke='none'><circle cx='50' cy='36' r='4'/><circle cx='90' cy='26' r='4'/><circle cx='110' cy='46' r='4'/></g></g><path d='M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z' fill='#fff'/><path d='M340 290 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z' fill='#fff'/><circle cx='345' cy='78' r='10' fill='#fff'/></g>",
+      "img_credit": "사진 제공: BGF리테일",
+      "img_pos": "50% 50%",
+      "img_referer": "https://zdnet.co.kr/view/?no=20261026085448",
+      "img_url": "https://image.zdnet.co.kr/2026/10/26/9eadab72d657bcdce0a9f8b5314788e7.jpg",
+      "img_zoom": 1.1,
+      "kind": "product",
+      "name": "모찌 파베 초콜릿 말차맛",
+      "note": "쫀득한 모찌에 꾸덕한 파베 초콜릿을 붙였어요. 맛보다 '식감 조합'이 이름 앞에 나서요.",
+      "price_idx": 3,
+      "price_label": "판매가",
+      "price_tag": "4,500원",
+      "q": "쫀득에 꾸덕까지,<br>식감을 겹쳐 사요?",
+      "src": "출처: 아이뉴스24·포인트경제·지디넷코리아(2026.10.26)",
+      "store": "CU",
+      "tags": [
+        "04 / 05",
+        "CU"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "인절미모찌·초코모찌",
+        "작년 13만 개 두 달 내 완판",
+        "올해 물량 약 3배로 늘렸어요"
+      ],
+      "clip": {
+        "date": "26.09.03",
+        "outlet": "이데일리",
+        "text": "치로루 시리즈 물량을 3배로 늘렸대요",
+        "type": "기사"
+      },
+      "date": "09월 재출시",
+      "illus": "basket",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<ellipse cx='200' cy='345' rx='170' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><g transform='translate(30 120) scale(1.15)'><path d='M0 40 l80 -30 l80 30 l-80 30z' fill='#8A5030'/><path d='M160 40 v80 l-80 30 v-80z' fill='#4A2616'/><path d='M0 40 v80 l80 30 v-80z' fill='#6B3A22'/><path d='M14 58 l52 20 v52 l-52 -20z' fill='#FFFDF5'/><ellipse cx='40' cy='94' rx='13' ry='16' fill='#E3B860'/><path d='M50 30 l40 -14' stroke='#B07A55' stroke-width='8' stroke-linecap='round'/></g><g transform='translate(205 140) scale(1.0)'><path d='M0 40 l80 -30 l80 30 l-80 30z' fill='#8A5030'/><path d='M160 40 v80 l-80 30 v-80z' fill='#4A2616'/><path d='M0 40 v80 l80 30 v-80z' fill='#6B3A22'/><path d='M14 58 l52 20 v52 l-52 -20z' fill='#FFFDF5'/><ellipse cx='40' cy='94' rx='13' ry='16' fill='#5A3020'/><path d='M50 30 l40 -14' stroke='#B07A55' stroke-width='8' stroke-linecap='round'/></g><path d='M58 70 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z' fill='#fff'/><path d='M340 290 l6 14 l14 6 l-14 6 l-6 14 l-6 -14 l-14 -6 l14 -6z' fill='#fff'/><circle cx='345' cy='78' r='10' fill='#fff'/></g>",
+      "img_credit": "사진 제공: 세븐일레븐",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.hankookilbo.com/news/article/A2026102614540000548",
+      "img_url": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/10/26/611c453a-9e1d-45c1-96ff-c490f84d5ddc.jpg",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "치로루초코 모찌 2종",
+      "note": "일본에서 사 오던 모찌 초콜릿이 동네 편의점에 다시 깔렸어요. 재출시 뒤 10월 21일까지 20만 개가 나갔어요.",
+      "price_idx": -1,
+      "price_label": "가격",
+      "price_tag": "매장 확인",
+      "q": "일본 여행 간식,<br>동네서 사니 더 사요?",
+      "src": "출처: 이데일리(2026.09.03) · 아이뉴스24(2026.10.26) · 올해 가격 미확인",
+      "store": "세븐일레븐",
+      "tags": [
+        "05 / 05",
+        "세븐일레븐"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "각 사 발표 · 아이뉴스24(2026.10.26)",
+        "max": 120,
+        "prefix": "+",
+        "rows": [
+          [
+            "CU 떡 매출",
+            96.5,
+            "#FF4D2E"
+          ],
+          [
+            "세븐일레븐 떡 매출",
+            62,
+            "#FFD43B"
+          ]
+        ],
+        "title": "올해 1~9월 떡 매출, 전년보다"
+      },
+      "bg": "#2B2140",
+      "cta": "요즘 가장 먹고 싶은 떡 디저트는 뭐예요?",
+      "kind": "insight",
+      "map_title": "떡 디저트 4개, 가격은 어디쯤일까요?",
+      "src": "출처: 아이뉴스24·한국경제(2026.10.26) · 1~9월 전년 동기 대비",
+      "tags": [
+        "관찰 노트",
+        "VOL.06"
+      ],
+      "title": "웨이팅 대신,<br><em>편의점 떡</em>을 사요"
+    }
+  ]
+}
