@@ -1,0 +1,254 @@
+{
+  "issue": "VOL.07 · 2026.11.06",
+  "price_items": [
+    {
+      "hi": 3100,
+      "label": "3,100원",
+      "lo": 3100,
+      "short": "빙수"
+    },
+    {
+      "hi": 3200,
+      "label": "3,200원",
+      "lo": 3200,
+      "short": "초코바"
+    },
+    {
+      "hi": 1600,
+      "label": "1,600원",
+      "lo": 1600,
+      "short": "파란치즈"
+    },
+    {
+      "hi": 2900,
+      "label": "2,900원",
+      "lo": 2900,
+      "short": "콘"
+    },
+    {
+      "hi": 1800,
+      "label": "1,800원",
+      "lo": 1800,
+      "short": "다이후쿠"
+    }
+  ],
+  "scale_max": 6000,
+  "scale_title": "원화로 본 가격 지도",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "icecream",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<ellipse cx='200' cy='350' rx='140' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><g transform='translate(20 10) scale(0.46)'><path d='M95 190 h210 l-24 150 h-162z' fill='#FFFDF7'/><path d='M104 245 h192 M110 285 h180' stroke='#C98A4B' stroke-width='8' stroke-linecap='round'/><path d='M85 195 q0 -110 115 -115 q115 5 115 115z' fill='#FFF7E4'/><path d='M110 160 q30 25 55 -5 q25 30 50 0 q30 30 60 0 q20 20 30 10' fill='none' stroke='#6B3E1F' stroke-width='12' stroke-linecap='round'/><circle cx='205' cy='95' r='42' fill='#A0673A'/><path d='M180 80 q15 -12 30 -8' fill='none' stroke='#D9A574' stroke-width='8' stroke-linecap='round'/><rect x='120' y='115' width='34' height='34' rx='8' fill='#F4EEDD'/><rect x='252' y='118' width='34' height='34' rx='8' fill='#F4EEDD' transform='rotate(12 269 135)'/><path d='M160 180 l14 -10 l10 12z M235 175 l16 -6 l4 15z' fill='#4A2A15'/></g><g transform='translate(200 5) scale(0.46)'><rect x='185' y='270' width='30' height='80' rx='10' fill='#E9C48E'/><path d='M120 270 v-170 q0 -50 80 -50 q80 0 80 50 v170 q0 12 -12 12 h-136 q-12 0 -12 -12z' fill='#3E2214'/><path d='M280 95 q-30 -5 -40 25 q20 25 -5 45 q30 15 10 45 q25 10 35 5z' fill='#6E3B22'/><path d='M252 125 q14 20 -2 40' fill='none' stroke='#D6234A' stroke-width='12' stroke-linecap='round'/><path d='M262 180 q12 10 8 30' fill='none' stroke='#2A140A' stroke-width='12' stroke-linecap='round'/><path d='M140 110 q5 -35 40 -40' fill='none' stroke='#7A4A33' stroke-width='10' stroke-linecap='round'/><circle cx='160' cy='200' r='9' fill='#D6234A' stroke='none'/><circle cx='190' cy='235' r='7' fill='#D6234A' stroke='none'/></g><g transform='translate(110 130) scale(0.46)'><rect x='185' y='270' width='30' height='80' rx='10' fill='#E9C48E'/><path d='M125 270 v-170 q0 -40 75 -40 q75 0 75 40 v170 q0 12 -12 12 h-126 q-12 0 -12 -12z' fill='#2F7BFF'/><path d='M275 90 q-28 0 -30 25 q-28 5 -22 32 q30 8 52 -2z' fill='#7FB2FF'/><path d='M150 120 q2 -35 35 -40' fill='none' stroke='#BFD8FF' stroke-width='10' stroke-linecap='round'/><circle cx='170' cy='190' r='7' fill='#BFD8FF' stroke='none'/><circle cx='225' cy='220' r='6' fill='#BFD8FF' stroke='none'/><circle cx='195' cy='245' r='5' fill='#BFD8FF' stroke='none'/></g><g transform='translate(10 175) scale(0.44)'><path d='M130 175 l70 175 l70 -175z' fill='#E2A458'/><path d='M152 205 l90 0 M162 240 l70 0 M172 275 l50 0 M155 180 l70 140 M245 180 l-70 140' stroke='#B9772E' stroke-width='7' stroke-linecap='round'/><path d='M115 180 q-15 -50 30 -70 q10 -60 55 -60 q50 0 58 60 q45 20 30 70z' fill='#FFFDF7'/><g fill='#2B1A12' stroke='none'><circle cx='160' cy='130' r='11'/><circle cx='215' cy='100' r='9'/><circle cx='240' cy='150' r='12'/><circle cx='185' cy='160' r='8'/><circle cx='140' cy='165' r='7'/><circle cx='210' cy='135' r='6'/></g></g><g transform='translate(200 180) scale(0.46)'><path d='M60 300 q-10 -130 90 -140 q100 10 90 140z' fill='#FFFDF7'/><path d='M150 300 q0 -100 95 -110 q105 10 95 110z' fill='#FFFDF7'/><path d='M180 300 q0 -70 65 -78 q70 8 65 78z' fill='#FFD25A'/><path d='M210 280 q30 -20 70 0' fill='none' stroke='#FFF0B0' stroke-width='10' stroke-linecap='round'/><path d='M150 300 h190' stroke='#16131A' stroke-width='8' stroke-linecap='round'/><path d='M90 200 q20 -20 45 -20' fill='none' stroke='#E9E4D8' stroke-width='10' stroke-linecap='round'/></g></g><path d='M70 47.6 l6.4 16 l16 6.4 l-16 6.4 l-6.4 16 l-6.4 -16 l-16 -6.4 l16 -6.4z' fill='#fff' stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'/><path d='M345 283.2 l4.8 12 l12 4.8 l-12 4.8 l-4.8 12 l-4.8 -12 l-12 -4.8 l12 -4.8z' fill='#fff' stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'/>",
+      "kicker": "글로벌 레이더 · 일본 편의점·마트",
+      "kind": "cover",
+      "list": [
+        "코메다 커피 시로쿠마",
+        "하겐다즈 가토쇼콜라 바",
+        "파란 치즈케이크 아이스",
+        "패밀리마트 와플콘",
+        "하치텐도 크림 다이후쿠"
+      ],
+      "sub": "케이크·빙수·다이후쿠까지, 다 차가워졌어요",
+      "tags": [
+        "VOL.07",
+        "11.06"
+      ],
+      "title": "<em>겨울</em>에도<br><em>차갑게</em> 먹어요?"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "368엔(세금 별도) 기준",
+        "연유 빙수 속에 커피 아이스",
+        "와라비모찌·커피초코 토핑"
+      ],
+      "clip": {
+        "date": "26.11.02",
+        "outlet": "グルメ Watch",
+        "text": "코메다 커피점이 감수해 전국에 나왔어요",
+        "type": "기사"
+      },
+      "date": "11.03 순차 출시",
+      "illus": "icecream",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<ellipse cx='200' cy='350' rx='140' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><path d='M95 190 h210 l-24 150 h-162z' fill='#FFFDF7'/><path d='M104 245 h192 M110 285 h180' stroke='#C98A4B' stroke-width='8' stroke-linecap='round'/><path d='M85 195 q0 -110 115 -115 q115 5 115 115z' fill='#FFF7E4'/><path d='M110 160 q30 25 55 -5 q25 30 50 0 q30 30 60 0 q20 20 30 10' fill='none' stroke='#6B3E1F' stroke-width='12' stroke-linecap='round'/><circle cx='205' cy='95' r='42' fill='#A0673A'/><path d='M180 80 q15 -12 30 -8' fill='none' stroke='#D9A574' stroke-width='8' stroke-linecap='round'/><rect x='120' y='115' width='34' height='34' rx='8' fill='#F4EEDD'/><rect x='252' y='118' width='34' height='34' rx='8' fill='#F4EEDD' transform='rotate(12 269 135)'/><path d='M160 180 l14 -10 l10 12z M235 175 l16 -6 l4 15z' fill='#4A2A15'/><path d='M70 62 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z' fill='#fff'/><path d='M335 270.4 l5.6 14 l14 5.6 l-14 5.6 l-5.6 14 l-5.6 -14 l-14 -5.6 l14 -5.6z' fill='#fff'/><circle cx='340' cy='80' r='10' fill='#fff'/></g>",
+      "kind": "product",
+      "name": "코메다 커피 좋아하는 시로쿠마",
+      "note": "일본 카페 체인 코메다 커피점이 감수한 빙수 아이스예요. 카페에 앉는 대신 카페 디저트를 냉동고에 넣어 둬요.",
+      "price_idx": 0,
+      "price_label": "원화 환산",
+      "price_tag": "3,100원",
+      "q": "카페 빙수를<br>겨울에 집에서 먹어요?",
+      "src": "출처: グルメ Watch(2026.11.02) · 환율 100엔=847.18원(하나은행 11.05)",
+      "store": "세븐일레븐",
+      "tags": [
+        "01 / 05",
+        "세븐일레븐"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "373엔 안팎 기준",
+        "초코 케이크+라즈베리 소스",
+        "기간 한정 · 쌉쌀한 초코 코팅"
+      ],
+      "clip": {
+        "date": "26.11.04",
+        "outlet": "えん食べ",
+        "text": "가을·겨울 신작으로 11월 3일에 나왔어요",
+        "type": "기사"
+      },
+      "date": "11.03 출시",
+      "illus": "icecream",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<ellipse cx='200' cy='350' rx='140' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><rect x='185' y='270' width='30' height='80' rx='10' fill='#E9C48E'/><path d='M120 270 v-170 q0 -50 80 -50 q80 0 80 50 v170 q0 12 -12 12 h-136 q-12 0 -12 -12z' fill='#3E2214'/><path d='M280 95 q-30 -5 -40 25 q20 25 -5 45 q30 15 10 45 q25 10 35 5z' fill='#6E3B22'/><path d='M252 125 q14 20 -2 40' fill='none' stroke='#D6234A' stroke-width='12' stroke-linecap='round'/><path d='M262 180 q12 10 8 30' fill='none' stroke='#2A140A' stroke-width='12' stroke-linecap='round'/><path d='M140 110 q5 -35 40 -40' fill='none' stroke='#7A4A33' stroke-width='10' stroke-linecap='round'/><circle cx='160' cy='200' r='9' fill='#D6234A' stroke='none'/><circle cx='190' cy='235' r='7' fill='#D6234A' stroke='none'/><path d='M70 62 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z' fill='#fff'/><path d='M335 270.4 l5.6 14 l14 5.6 l-14 5.6 l-5.6 14 l-5.6 -14 l-14 -5.6 l14 -5.6z' fill='#fff'/><circle cx='340' cy='80' r='10' fill='#fff'/></g>",
+      "kind": "product",
+      "name": "하겐다즈 바 라즈베리 가토쇼콜라",
+      "note": "초코 아이스 속에 촉촉한 초코 케이크를 넣었어요. 케이크 한 조각 값을 아이스 바 하나로 바꿔 사요.",
+      "price_idx": 1,
+      "price_label": "원화 환산",
+      "price_tag": "3,200원",
+      "q": "케이크 대신<br>아이스 바 하나 사요?",
+      "src": "출처: えん食べ(2026.11.04) · グルメ Watch(2026.10.07) · 환율 100엔=847.18원(하나은행 11.05)",
+      "store": "하겐다즈",
+      "tags": [
+        "02 / 05",
+        "하겐다즈"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "194엔(세금 포함) 기준",
+        "홋카이도산 크림치즈 사용",
+        "패키지 디자인 4가지"
+      ],
+      "clip": {
+        "date": "26.10.27",
+        "outlet": "電ファミニコゲーマー",
+        "text": "겉부터 속까지 새파란 아이스래요",
+        "type": "기사"
+      },
+      "date": "11.03 출시",
+      "illus": "icecream",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<ellipse cx='200' cy='350' rx='140' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><rect x='185' y='270' width='30' height='80' rx='10' fill='#E9C48E'/><path d='M125 270 v-170 q0 -40 75 -40 q75 0 75 40 v170 q0 12 -12 12 h-126 q-12 0 -12 -12z' fill='#2F7BFF'/><path d='M275 90 q-28 0 -30 25 q-28 5 -22 32 q30 8 52 -2z' fill='#7FB2FF'/><path d='M150 120 q2 -35 35 -40' fill='none' stroke='#BFD8FF' stroke-width='10' stroke-linecap='round'/><circle cx='170' cy='190' r='7' fill='#BFD8FF' stroke='none'/><circle cx='225' cy='220' r='6' fill='#BFD8FF' stroke='none'/><circle cx='195' cy='245' r='5' fill='#BFD8FF' stroke='none'/><path d='M70 62 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z' fill='#fff'/><path d='M335 270.4 l5.6 14 l14 5.6 l-14 5.6 l-5.6 14 l-5.6 -14 l-14 -5.6 l14 -5.6z' fill='#fff'/><circle cx='340' cy='80' r='10' fill='#fff'/></g>",
+      "kind": "product",
+      "name": "행복을 나르는 파란 치즈케이크",
+      "note": "겉부터 속까지 새파란 치즈케이크 맛 아이스예요. 맛만큼 '사진 찍을 색'이 먼저 눈에 들어와요.",
+      "price_idx": 2,
+      "price_label": "원화 환산",
+      "price_tag": "1,600원",
+      "q": "파란색이면<br>치즈케이크도 사 봐요?",
+      "src": "출처: 電ファミニコゲーマー(2026.10.27) · えん食べ(2026.11.04) · 환율 100엔=847.18원(하나은행 11.05)",
+      "store": "아카기유업",
+      "tags": [
+        "03 / 05",
+        "일본 전국"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "338엔 기준",
+        "코코아 쿠키가 콕콕 박혔어요",
+        "패밀리마트 한정·수량 한정"
+      ],
+      "clip": {
+        "date": "26.11.02",
+        "outlet": "マイナビニュース",
+        "text": "패밀리마트 한정·수량 한정이래요",
+        "type": "기사"
+      },
+      "date": "11.03 출시",
+      "illus": "icecream",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<ellipse cx='200' cy='350' rx='140' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><path d='M130 175 l70 175 l70 -175z' fill='#E2A458'/><path d='M152 205 l90 0 M162 240 l70 0 M172 275 l50 0 M155 180 l70 140 M245 180 l-70 140' stroke='#B9772E' stroke-width='7' stroke-linecap='round'/><path d='M115 180 q-15 -50 30 -70 q10 -60 55 -60 q50 0 58 60 q45 20 30 70z' fill='#FFFDF7'/><g fill='#2B1A12' stroke='none'><circle cx='160' cy='130' r='11'/><circle cx='215' cy='100' r='9'/><circle cx='240' cy='150' r='12'/><circle cx='185' cy='160' r='8'/><circle cx='140' cy='165' r='7'/><circle cx='210' cy='135' r='6'/></g><path d='M70 62 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z' fill='#fff'/><path d='M335 270.4 l5.6 14 l14 5.6 l-14 5.6 l-5.6 14 l-5.6 -14 l-14 -5.6 l14 -5.6z' fill='#fff'/><circle cx='340' cy='80' r='10' fill='#fff'/></g>",
+      "kind": "product",
+      "name": "와플콘 쿠키&크림",
+      "note": "익숙한 쿠키&크림 맛을 편의점 한정 콘으로 냈어요. 날이 추워져도 '여기서만'이 냉동고 문을 열게 해요.",
+      "price_idx": 3,
+      "price_label": "원화 환산",
+      "price_tag": "2,900원",
+      "q": "콘 아이스도<br>'여기서만'이면 가요?",
+      "src": "출처: マイナビニュース(2026.11.02) · 환율 100엔=847.18원(하나은행 11.05)",
+      "store": "패밀리마트×롯데",
+      "tags": [
+        "04 / 05",
+        "패밀리마트"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "213엔 기준 · 커스터드 맛",
+        "쫀득한 떡 속에 커스터드",
+        "하치텐도×패밀리마트 한정"
+      ],
+      "clip": {
+        "date": "26.10.28",
+        "outlet": "グルメ Watch",
+        "text": "패밀리마트에서만 파는 신상이래요",
+        "type": "기사"
+      },
+      "date": "10.27 출시",
+      "illus": "cheese",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<ellipse cx='200' cy='350' rx='140' ry='18' fill='#16131A' opacity='.18'/><g stroke='#16131A' stroke-width='8' stroke-linejoin='round' stroke-linecap='round'><path d='M60 300 q-10 -130 90 -140 q100 10 90 140z' fill='#FFFDF7'/><path d='M150 300 q0 -100 95 -110 q105 10 95 110z' fill='#FFFDF7'/><path d='M180 300 q0 -70 65 -78 q70 8 65 78z' fill='#FFD25A'/><path d='M210 280 q30 -20 70 0' fill='none' stroke='#FFF0B0' stroke-width='10' stroke-linecap='round'/><path d='M150 300 h190' stroke='#16131A' stroke-width='8' stroke-linecap='round'/><path d='M90 200 q20 -20 45 -20' fill='none' stroke='#E9E4D8' stroke-width='10' stroke-linecap='round'/><path d='M70 62 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8z' fill='#fff'/><path d='M335 270.4 l5.6 14 l14 5.6 l-14 5.6 l-5.6 14 l-5.6 -14 l-14 -5.6 l14 -5.6z' fill='#fff'/><circle cx='340' cy='80' r='10' fill='#fff'/></g>",
+      "kind": "product",
+      "name": "차갑게 먹는 크림 다이후쿠",
+      "note": "차가운 크림빵으로 유명한 하치텐도가 이번엔 다이후쿠를 냈어요. 빵도 떡도 '차갑게 먹는 디저트'로 바뀌어요.",
+      "price_idx": 4,
+      "price_label": "원화 환산",
+      "price_tag": "1,800원",
+      "q": "떡도 차갑게<br>먹으면 더 끌려요?",
+      "src": "출처: グルメ Watch(2026.10.28) · 환율 100엔=847.18원(하나은행 11.05)",
+      "store": "패밀리마트",
+      "tags": [
+        "05 / 05",
+        "패밀리마트"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "2024년 분기 매출, 7~9월(89억 엔)=100 환산",
+        "max": 110,
+        "rows": [
+          [
+            "7~9월 (여름)",
+            100,
+            "#FFB199"
+          ],
+          [
+            "10~12월 (초겨울)",
+            85,
+            "#FFD43B"
+          ],
+          [
+            "1~3월 (한겨울)",
+            63,
+            "#B9DCFF"
+          ]
+        ],
+        "title": "서티원 일본, 여름 대비 매출"
+      },
+      "bg": "#2B2140",
+      "cta": "여러분은 겨울에 어떤 차가운 디저트를 사요?",
+      "kind": "insight",
+      "map_title": "차가운 신상 5개, 원화로 찍어 봤어요",
+      "src": "출처: ファイナンシャルフィールド(2025.08.31, B-R 서티원 아이스크림 2024년 실적 인용)",
+      "tags": [
+        "관찰 노트",
+        "VOL.07"
+      ],
+      "title": "겨울 아이스는<br><em>디저트</em>가 됐어요"
+    }
+  ]
+}
