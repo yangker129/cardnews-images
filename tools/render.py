@@ -1,4 +1,9 @@
-"""@drop.the.food 캐러셀 렌더러 v2 (컬러 팝 + 인포그래픽)
+"""@drop.the.food 캐러셀 렌더러 v3 (컬러 팝 + 인포그래픽)
+v3: 가격이 없는 아이템(산업 뉴스·트렌드)도 그릴 수 있어요.
+  - product 장에 "stat": {"value": "+79.8%", "label": "겨울 딸기 샌드 매출", "cap": "CU · 전년 대비"} 를 주면
+    가격 지도 자리에 '핵심 숫자' 상자가 나와요. stat이 없고 price_items가 있으면 예전처럼 가격 지도가 나와요.
+  - price_tag가 없으면 빨간 가격 스티커를 숨겨요. price_items가 없으면 가격 지도·관찰 노트 가격 분포 카드를 숨겨요.
+  - insight 장에 "points": ["한 줄 관찰", ...] (2~3개)를 주면 '핵심 정리' 카드가 나와요.
 usage: python3 render.py <issue_dir>/slides.json   -> slide_XX.png (1080x1350)
 """
 import json, sys, html, base64, math
@@ -73,6 +78,15 @@ body{font-family:'Noto Sans CJK KR',sans-serif;color:#16131A;-webkit-font-smooth
 .cta{margin-top:44px;background:#FFD43B;border:3.5px solid #16131A;border-radius:24px;padding:22px 28px;font-size:34px;font-weight:900;letter-spacing:-.02em;display:flex;justify-content:space-between;align-items:center}
 .dk .bottom{color:#fff}.dk .logo{background:#FFD43B;color:#16131A}
 .cta small{font-size:22px;font-weight:700}
+/* v3: 핵심 숫자 상자 */
+.stat{margin-top:28px;padding:22px 30px;display:flex;align-items:center;gap:28px;min-height:150px}
+.stat .v{flex:0 0 auto;font-size:76px;font-weight:900;letter-spacing:-.04em;line-height:1}
+.stat .t{display:flex;flex-direction:column;gap:6px;min-width:0}
+.stat .l{font-size:30px;font-weight:900;line-height:1.25;letter-spacing:-.02em}
+.stat .c{font-size:21px;font-weight:700;opacity:.6;line-height:1.35}
+.pts{display:flex;flex-direction:column;gap:14px;margin-top:16px}
+.pts div{display:flex;gap:14px;font-size:27px;font-weight:700;line-height:1.4}
+.pts b{flex:0 0 36px;height:36px;border-radius:50%;background:#FFD43B;border:3px solid #16131A;display:flex;align-items:center;justify-content:center;font-size:18px;margin-top:2px}
 """
 
 def esc(s): return html.escape(str(s))
@@ -272,20 +286,33 @@ def clip(s):
     return f'<div class="clip"><span class="ty{off}">{esc(c["type"])}</span><span class="ou">{esc(c["outlet"])} · {esc(c["date"])}</span><span class="tx">{esc(c["text"])}</span></div>'
 
 def product(s, spec):
-    items = spec["price_items"]
+    items = spec.get("price_items") or []
     chips = "".join(f'<div class="chip"><div class="dot" style="background:{c}">{i+1}</div><div>{esc(t)}</div></div>'
                     for i, (t, c) in enumerate(zip(s["chips"], ["#FFD43B", "#5CD6A9", "#B69CFF", "#4DA8FF"])))
-    small = " small" if len(s["price_tag"]) > 6 else ""
+    tag = s.get("price_tag")
+    small = " small" if tag and len(tag) > 6 else ""
+    sticker = (f'<div class="sticker{small}"><div class="s1">{esc(s.get("price_label","가격"))}</div><div class="s2">{esc(tag)}</div></div>'
+               if tag else "")
+    pad = "110px" if tag else "0"
+    st = s.get("stat")
+    if st:
+        bottom_box = (f'<div class="box stat"><div class="v" style="color:{s.get("accent","#FF4D2E")}">{esc(st.get("value",""))}</div>'
+                      f'<div class="t"><div class="l">{esc(st.get("label",""))}</div><div class="c">{esc(st.get("cap",""))}</div></div></div>')
+    elif items and isinstance(s.get("price_idx"), int):
+        bottom_box = (f'<div class="box scale"><h4>{esc(spec.get("scale_title","이번 주 신상 가격 지도"))} <span>파란 구간 = 1천 원 이하</span></h4>'
+                      f'{price_scale(items, s["price_idx"], maxv=spec.get("scale_max",6000), color=s.get("accent","#FF4D2E"))}</div>')
+    else:
+        bottom_box = ""
     return f"""<div class="q p-q">{s['q']}</div>
 <div class="mid">
  <div class="p-img">{visual(s)}</div>
  <div class="side" style="position:relative">
-  <div class="sticker{small}"><div class="s1">{esc(s.get('price_label','가격'))}</div><div class="s2">{esc(s['price_tag'])}</div></div>
-  <div class="box namebox"><div class="store">{esc(s['store'])} · {esc(s['date'])}</div><div class="nm" style="padding-right:110px">{esc(s['name'])}</div></div>
+  {sticker}
+  <div class="box namebox"><div class="store">{esc(s['store'])} · {esc(s['date'])}</div><div class="nm" style="padding-right:{pad}">{esc(s['name'])}</div></div>
   <div class="chips">{chips}</div>
  </div>
 </div>
-<div class="box scale"><h4>{esc(spec.get("scale_title","이번 주 신상 가격 지도"))} <span>파란 구간 = 1천 원 이하</span></h4>{price_scale(items, s['price_idx'], maxv=spec.get('scale_max',6000), color=s.get('accent','#FF4D2E'))}</div>
+{bottom_box}
 {clip(s)}
 <div class="note"><span class="lb">관찰</span><div>{esc(s['note'])}</div></div>"""
 
@@ -304,11 +331,17 @@ def insight(s, spec):
         if isinstance(b, list): b = {"title": "", "cap": "", "max": 20, "rows": b}
         cards.append(f'<div class="card"><h5>{esc(b.get("title",""))}</h5><div class="cap">{esc(b.get("cap",""))}</div>'
                      f'<div style="margin-top:22px">{bars([tuple(r) for r in b["rows"]], b.get("max", max(r[1] for r in b["rows"])*1.15), wide=not g, prefix=b.get("prefix",""))}</div></div>')
-    wide = ' wide' if len(cards) != 1 else ''
-    cards.append(f'<div class="card wide"><h5>{esc(s.get("map_title","이번 회차 아이템, 어디에 찍혔을까요?"))}</h5>'
-                 f'{split_map(spec["price_items"], maxv=spec.get("scale_max",6000))}</div>')
-    if len(cards) == 2:  # gauge나 bars 하나만 있으면 넓게
-        cards[0] = cards[0].replace('class="card"', 'class="card wide"', 1)
+    pts = s.get("points")
+    if pts:
+        rows = "".join(f'<div><b>{i}</b><span>{esc(t)}</span></div>' for i, t in enumerate(pts, 1))
+        cards.append(f'<div class="card wide"><h5>{esc(s.get("points_title","핵심 정리"))}</h5><div class="pts">{rows}</div></div>')
+    if spec.get("price_items") and s.get("map_title", True) is not False:
+        cards.append(f'<div class="card wide"><h5>{esc(s.get("map_title","이번 회차 아이템, 어디에 찍혔을까요?"))}</h5>'
+                     f'{split_map(spec["price_items"], maxv=spec.get("scale_max",6000))}</div>')
+    # gauge·bars 중 하나만 있으면 넓게
+    narrow = [i for i, c in enumerate(cards) if c.startswith('<div class="card">')]
+    if len(narrow) == 1:
+        cards[narrow[0]] = cards[narrow[0]].replace('class="card"', 'class="card wide"', 1)
     return f"""<div class="q i-q">{s['title']}</div>
 <div class="grid">{''.join(cards)}</div>
 <div class="cta"><div>{esc(s['cta'])}</div><small>댓글로 알려주세요 ↓</small></div>"""

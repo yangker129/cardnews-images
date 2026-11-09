@@ -104,10 +104,10 @@ def build(folder):
         if s["kind"] == "cover":
             top, bottom, dur = "이번 회차 질문 ↓", "끝까지 보면 답이 보여요", 3.2
         elif s["kind"] == "product":
-            top = f"{i-1:02d}  {s.get('store','')} · {s.get('price_tag','')}"
+            top = f"{i-1:02d}  {s.get('store','')}" + (f" · {s.get('price_tag') or s.get('stat',{}).get('value','')}" if (s.get('price_tag') or s.get('stat')) else "")
             bottom, dur = "전체 내용은 게시물에서 →", 2.3
         else:
-            top, bottom, dur = "그래서, 결론은요", "당신의 지갑은 어느 쪽인가요? 댓글로!", 3.6
+            top, bottom, dur = "그래서, 결론은요", spec.get("reel_outro", "여러분 생각은요? 댓글로!"), 3.6
         p = tmp / f"f{i:02d}.png"
         frame(card, bg, i - 1, total, issue, top, bottom).save(p)
         frames.append(p); durs.append(dur)
