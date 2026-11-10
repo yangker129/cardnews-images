@@ -1,0 +1,250 @@
+{
+  "issue": "VOL.09 · 2026.11.11",
+  "reel_outro": "여러분 회사라면 뭘 더할까요?",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "basket",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"translate(40 30) scale(.45)\"><path d=\"M120 90 h160 l-20 230 q-60 16 -120 0z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M128 160 h144 l-14 156 q-58 14 -116 0z\" fill=\"#F08C2E\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M150 200 q50 20 100 0\" fill=\"none\" stroke=\"#FFC27A\" stroke-width=\"7\"/><path d=\"M230 60 l-10 120\" stroke=\"#3BB273\" stroke-width=\"12\"/><path d=\"M290 150 q40 -60 80 -40 q-10 60 -80 40z\" fill=\"#3BB273\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M300 140 l50 -18\" stroke=\"#16131A\" stroke-width=\"5\"/></g><g transform=\"translate(190 30) scale(.45)\"><path d=\"M130 100 q0 -20 20 -24 h100 q20 4 20 24 v210 q0 20 -20 24 h-100 q-20 -4 -20 -24z\" fill=\"#5FD3C4\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M146 76 q54 -14 108 0\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M130 170 q70 30 140 0 v60 q-70 30 -140 0z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"175\" cy=\"200\" r=\"8\" fill=\"#16131A\" opacity=\".25\"/><circle cx=\"225\" cy=\"208\" r=\"6\" fill=\"#16131A\" opacity=\".25\"/><g fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"6\"><circle cx=\"300\" cy=\"120\" r=\"14\"/><circle cx=\"320\" cy=\"180\" r=\"9\"/><circle cx=\"90\" cy=\"150\" r=\"11\"/></g></g><g transform=\"translate(30 170) scale(.45)\"><path d=\"M110 150 h180 l-18 170 q-72 16 -144 0z\" fill=\"#F4E4C8\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"150\" rx=\"90\" ry=\"22\" fill=\"#C9935B\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M170 146 q30 -16 60 0 q-30 14 -60 0z\" fill=\"#FFF3DF\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M290 190 q50 0 46 40 q-4 40 -56 40\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\"/><g transform=\"translate(80 110) rotate(-20)\"><ellipse cx=\"0\" cy=\"0\" rx=\"18\" ry=\"32\" fill=\"#E8C27A\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M0 -24 v48\" stroke=\"#B88A3A\" stroke-width=\"5\"/></g><g transform=\"translate(330 110) rotate(20)\"><ellipse cx=\"0\" cy=\"0\" rx=\"15\" ry=\"27\" fill=\"#E8C27A\" stroke=\"#16131A\" stroke-width=\"8\"/></g></g><g transform=\"translate(200 170) scale(.45)\"><path d=\"M130 80 h140 l-14 240 q-56 14 -112 0z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M138 140 h124 l-11 176 q-50 12 -102 0z\" fill=\"#FF7A9A\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"5\"><circle cx=\"180\" cy=\"200\" r=\"9\"/><circle cx=\"220\" cy=\"250\" r=\"7\"/><circle cx=\"200\" cy=\"170\" r=\"6\"/><circle cx=\"170\" cy=\"280\" r=\"6\"/></g><circle cx=\"260\" cy=\"120\" r=\"40\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M260 82 v76 M222 120 h76\" stroke=\"#E8A400\" stroke-width=\"6\"/><path d=\"M230 40 l-30 200\" stroke=\"#16131A\" stroke-width=\"10\"/></g><g transform=\"translate(105 120) scale(.45)\"><g transform=\"rotate(-12 200 220)\"><rect x=\"70\" y=\"160\" width=\"260\" height=\"110\" rx=\"22\" fill=\"#8A5A3C\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"70\" y=\"160\" width=\"260\" height=\"40\" rx=\"18\" fill=\"#3A2A22\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#16131A\"><circle cx=\"110\" cy=\"230\" r=\"6\"/><circle cx=\"160\" cy=\"250\" r=\"5\"/><circle cx=\"210\" cy=\"226\" r=\"6\"/><circle cx=\"260\" cy=\"246\" r=\"5\"/><circle cx=\"300\" cy=\"226\" r=\"6\"/></g><g fill=\"#F4E4C8\"><circle cx=\"135\" cy=\"236\" r=\"4\"/><circle cx=\"235\" cy=\"240\" r=\"4\"/><circle cx=\"285\" cy=\"250\" r=\"4\"/></g></g></g><path transform=\"translate(340 120) scale(0.7)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kicker": "11월 2주 · 트렌드 키워드",
+      "kind": "cover",
+      "list": [
+        "hy 하루야채 파이버맥싱",
+        "롯데칠성 펩시 프리바이오틱",
+        "영국 오틀리 파이버 음료",
+        "미국 모던 소다 열풍",
+        "인테이크 식이섬유 바"
+      ],
+      "sub": "주스·콜라·오트음료까지 식이섬유를 채워요",
+      "tags": [
+        "VOL.09",
+        "11.11"
+      ],
+      "title": "<em>단백질</em> 다음,<br><em>식이섬유</em>예요?"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "치커리 식이섬유·프리바이오틱스",
+        "오리지널(2g)보다 6배",
+        "'파이버맥싱'을 제품명에"
+      ],
+      "clip": {
+        "date": "26.10.12",
+        "outlet": "뉴스핌",
+        "text": "한 병에 식이섬유 13g을 담았대요",
+        "type": "기사"
+      },
+      "date": "10.12 출시",
+      "illus": "yogurt",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M120 90 h160 l-20 230 q-60 16 -120 0z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M128 160 h144 l-14 156 q-58 14 -116 0z\" fill=\"#F08C2E\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M150 200 q50 20 100 0\" fill=\"none\" stroke=\"#FFC27A\" stroke-width=\"7\"/><path d=\"M230 60 l-10 120\" stroke=\"#3BB273\" stroke-width=\"12\"/><path d=\"M290 150 q40 -60 80 -40 q-10 60 -80 40z\" fill=\"#3BB273\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M300 140 l50 -18\" stroke=\"#16131A\" stroke-width=\"5\"/><path transform=\"translate(330 80) scale(1)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: hy",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.hankookilbo.com/news/article/A2026102618120003758",
+      "img_url": "https://newsimg.hankookilbo.com/cms/articlerelease/2026/10/26/e566c3d9-def6-4917-af5f-f3a7ae040662.jpg",
+      "img_zoom": 1.1,
+      "kind": "product",
+      "name": "하루야채 파이버맥싱 2종",
+      "note": "유행어 '파이버맥싱'을 아예 제품명으로 달았어요. 맛보다 한 병에 얼마나 들었는지를 먼저 보여주는 방식이에요.",
+      "q": "채소 주스도 이제<br>식이섬유로 골라요?",
+      "src": "출처: 뉴스핌(2026.10.12) · 한국일보(2026.10.28)",
+      "stat": {
+        "cap": "hy 발표 · 한국일보(2026.10.28)",
+        "label": "병당 식이섬유",
+        "value": "13g"
+      },
+      "store": "hy",
+      "tags": [
+        "01 / 05",
+        "국내 · 음료"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "355ml 캔 · 요거트향",
+        "국내 펩시 첫 프리바이오틱",
+        "네이버 선판매 후 마트·편의점"
+      ],
+      "clip": {
+        "date": "26.11.07",
+        "outlet": "세계일보",
+        "text": "식이섬유 콜라가 신제품 경쟁에 나왔대요",
+        "type": "기사"
+      },
+      "date": "11.02 출시",
+      "illus": "yogurt",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M130 100 q0 -20 20 -24 h100 q20 4 20 24 v210 q0 20 -20 24 h-100 q-20 -4 -20 -24z\" fill=\"#5FD3C4\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M146 76 q54 -14 108 0\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M130 170 q70 30 140 0 v60 q-70 30 -140 0z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"175\" cy=\"200\" r=\"8\" fill=\"#16131A\" opacity=\".25\"/><circle cx=\"225\" cy=\"208\" r=\"6\" fill=\"#16131A\" opacity=\".25\"/><g fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"6\"><circle cx=\"300\" cy=\"120\" r=\"14\"/><circle cx=\"320\" cy=\"180\" r=\"9\"/><circle cx=\"90\" cy=\"150\" r=\"11\"/></g><path transform=\"translate(330 80) scale(1)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 롯데칠성음료",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.insight.co.kr/news/580197",
+      "img_url": "https://img.insight.co.kr/static/2026/11/02/1200/img_20261102104431_hir99a16.jpg",
+      "img_zoom": 1.1,
+      "kind": "product",
+      "name": "펩시 프리바이오틱 제로슈거",
+      "note": "미국에서 먼저 나온 프리바이오틱 콜라가 국내 펩시로도 왔어요. 제로슈거 다음 경쟁이 '무엇을 더 넣었나'로 옮겨 가요.",
+      "q": "콜라 마시면서<br>장 건강도 챙겨요?",
+      "src": "출처: 인사이트(2026.11.02) · 세계일보(2026.11.07)",
+      "stat": {
+        "cap": "355ml 기준 · 인사이트(2026.11.02)",
+        "label": "캔당 식이섬유",
+        "value": "2.5g"
+      },
+      "store": "롯데칠성음료",
+      "tags": [
+        "02 / 05",
+        "국내 · 음료"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "250ml당 식이섬유 5g",
+        "영국 등 유럽 7개국 출시",
+        "기존 오트음료는 약 2g"
+      ],
+      "clip": {
+        "date": "26.09.25",
+        "outlet": "BeverageDaily",
+        "text": "한 잔에 식이섬유 5g을 담았대요",
+        "type": "기사"
+      },
+      "date": "09.25 발표",
+      "illus": "yogurt",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M110 150 h180 l-18 170 q-72 16 -144 0z\" fill=\"#F4E4C8\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"150\" rx=\"90\" ry=\"22\" fill=\"#C9935B\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M170 146 q30 -16 60 0 q-30 14 -60 0z\" fill=\"#FFF3DF\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M290 190 q50 0 46 40 q-4 40 -56 40\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\"/><g transform=\"translate(80 110) rotate(-20)\"><ellipse cx=\"0\" cy=\"0\" rx=\"18\" ry=\"32\" fill=\"#E8C27A\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M0 -24 v48\" stroke=\"#B88A3A\" stroke-width=\"5\"/></g><g transform=\"translate(330 110) rotate(20)\"><ellipse cx=\"0\" cy=\"0\" rx=\"15\" ry=\"27\" fill=\"#E8C27A\" stroke=\"#16131A\" stroke-width=\"8\"/></g><path transform=\"translate(330 80) scale(1)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: Oatly",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.foodnavigator.com/Article/2026/09/25/oatly-bets-on-fibre-as-next-nutrition-trend-in-oat-milk/",
+      "img_url": "https://www.foodnavigator.com/resizer/v2/HVYOWNMUFJECXFVNS7YJBLRJ2U.jpg?auth=1d9b184e2f45a6178f609b098b13765096602a350c0402a1386058235f70ffef&smart=true",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "파이버 바리스타·로우칼 에디션",
+      "note": "단백질 대신 식이섬유를 내세운 오트음료예요. 커피에 타 마시는 바리스타 제품에 넣어 매일 마시는 습관에 붙였어요.",
+      "q": "라테 한 잔으로<br>식이섬유 채워요?",
+      "src": "출처: FoodNavigator(2026.09.25) · BeverageDaily(2026.09.25)",
+      "stat": {
+        "cap": "하루 30g 기준 · FoodNavigator",
+        "label": "권장량 채우는 영국 성인",
+        "value": "4%"
+      },
+      "store": "영국 · 오틀리",
+      "tags": [
+        "03 / 05",
+        "해외 · 영국"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "캔당 식이섬유 2~9g",
+        "탄산 신제품 40% 기능성",
+        "펩시·코카콜라도 진출"
+      ],
+      "clip": {
+        "date": "26.11.04",
+        "outlet": "BeverageDaily",
+        "text": "모던 소다 매출이 83% 늘었대요",
+        "type": "기사"
+      },
+      "date": "11.04 보도",
+      "illus": "yogurt",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M130 80 h140 l-14 240 q-56 14 -112 0z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M138 140 h124 l-11 176 q-50 12 -102 0z\" fill=\"#FF7A9A\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"5\"><circle cx=\"180\" cy=\"200\" r=\"9\"/><circle cx=\"220\" cy=\"250\" r=\"7\"/><circle cx=\"200\" cy=\"170\" r=\"6\"/><circle cx=\"170\" cy=\"280\" r=\"6\"/></g><circle cx=\"260\" cy=\"120\" r=\"40\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M260 82 v76 M222 120 h76\" stroke=\"#E8A400\" stroke-width=\"6\"/><path d=\"M230 40 l-30 200\" stroke=\"#16131A\" stroke-width=\"10\"/><path transform=\"translate(340 300) scale(1)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "장 건강 '모던 소다' 급성장",
+      "note": "식이섬유·프리바이오틱을 넣은 탄산이 콜라·제로 콜라 옆에 새 칸을 만들고 있어요. 대형 음료 회사들도 뛰어들었어요.",
+      "q": "탄산음료도<br>장 건강 따져 사요?",
+      "src": "출처: BeverageDaily(2026.11.04) · 위키트리(2026.06.02)",
+      "stat": {
+        "cap": "2025년 · 전년 대비 · BeverageDaily",
+        "label": "모던 소다 매출 증가",
+        "value": "+83%"
+      },
+      "store": "미국 · 올리팝·파피",
+      "tags": [
+        "04 / 05",
+        "해외 · 미국"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "50g당 단백질 15g",
+        "자체 개발 효모 식이섬유",
+        "편의점·오프라인 확대 예정"
+      ],
+      "clip": {
+        "date": "26.11.04",
+        "outlet": "유니콘팩토리",
+        "text": "단백질에 식이섬유 10.6g을 더했대요",
+        "type": "기사"
+      },
+      "date": "11.04 발표",
+      "illus": "nuts",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"rotate(-12 200 220)\"><rect x=\"70\" y=\"160\" width=\"260\" height=\"110\" rx=\"22\" fill=\"#8A5A3C\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"70\" y=\"160\" width=\"260\" height=\"40\" rx=\"18\" fill=\"#3A2A22\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#16131A\"><circle cx=\"110\" cy=\"230\" r=\"6\"/><circle cx=\"160\" cy=\"250\" r=\"5\"/><circle cx=\"210\" cy=\"226\" r=\"6\"/><circle cx=\"260\" cy=\"246\" r=\"5\"/><circle cx=\"300\" cy=\"226\" r=\"6\"/></g><g fill=\"#F4E4C8\"><circle cx=\"135\" cy=\"236\" r=\"4\"/><circle cx=\"235\" cy=\"240\" r=\"4\"/><circle cx=\"285\" cy=\"250\" r=\"4\"/></g></g><path transform=\"translate(80 80) scale(1)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "밀스 프로틴 바 흑임자",
+      "note": "단백질 바에 식이섬유 숫자를 나란히 적었어요. 푸드테크 회사가 원료부터 직접 만들어 차별점으로 삼았어요.",
+      "q": "단백질 바도<br>식이섬유 보고 사요?",
+      "src": "출처: 유니콘팩토리·머니투데이(2026.11.04)",
+      "stat": {
+        "cap": "하루 기준치 42% · 머니투데이",
+        "label": "바 1개 식이섬유",
+        "value": "10.6g"
+      },
+      "store": "인테이크",
+      "tags": [
+        "05 / 05",
+        "국내 · 푸드테크"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "%, 영국 하루 30g·미국 영양학회 기준",
+        "max": 10,
+        "rows": [
+          [
+            "영국 성인",
+            4,
+            "#FFD43B"
+          ],
+          [
+            "미국 남성",
+            5,
+            "#FFB199"
+          ],
+          [
+            "미국 여성",
+            9,
+            "#A8EFD2"
+          ]
+        ],
+        "title": "식이섬유 권장량 채우는 비율"
+      },
+      "bg": "#2B2140",
+      "cta": "요즘 식이섬유 보고 고른 제품 있어요?",
+      "kind": "insight",
+      "points": [
+        "저당·고단백 다음 숫자는 식이섬유",
+        "주스·콜라·오트음료로 매일 섭취",
+        "국내외 음료 회사가 먼저 움직여요"
+      ],
+      "src": "출처: FoodNavigator(2026.09.25) · MarketWatch(2026.05.10)",
+      "tags": [
+        "관찰 노트",
+        "VOL.09"
+      ],
+      "title": "부족한 영양소가<br><em>새 경쟁</em>이 됐어요"
+    }
+  ]
+}
