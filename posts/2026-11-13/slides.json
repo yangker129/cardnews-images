@@ -1,0 +1,246 @@
+{
+  "issue": "VOL.10 · 2026.11.13",
+  "reel_outro": "여러분 회사라면 어디로 갈까요?",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "basket",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"translate(20 40) scale(.45)\"><path d=\"M60 190 h280 q-10 130 -140 140 q-130 -10 -140 -140z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M80 190 q40 -40 80 0 q40 -40 80 0 q40 -40 80 0\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"14\"/><path d=\"M95 175 q35 -30 70 0 q35 -30 70 0 q35 -30 70 0\" fill=\"none\" stroke=\"#FF8A3D\" stroke-width=\"10\"/><ellipse cx=\"200\" cy=\"190\" rx=\"140\" ry=\"16\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M250 40 l-60 150 M290 50 l-70 140\" stroke=\"#C9935B\" stroke-width=\"12\"/><path d=\"M250 40 l-60 150 M290 50 l-70 140\" stroke=\"#16131A\" stroke-width=\"3\" opacity=\".5\"/></g><g transform=\"translate(210 40) scale(.45)\"><ellipse cx=\"200\" cy=\"250\" rx=\"160\" ry=\"60\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"240\" rx=\"120\" ry=\"38\" fill=\"#F2E7D5\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M110 250 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><path d=\"M130 225 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><path d=\"M150 260 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><path d=\"M180 215 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><path d=\"M120 240 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><path d=\"M170 245 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><g fill=\"#FFF8DB\"><circle cx=\"160\" cy=\"232\" r=\"4\"/><circle cx=\"230\" cy=\"238\" r=\"4\"/><circle cx=\"200\" cy=\"255\" r=\"4\"/></g></g><g transform=\"translate(20 185) scale(.45)\"><path d=\"M150 110 h100 q30 0 30 40 v150 q0 30 -30 30 h-100 q-30 0 -30 -30 v-150 q0 -40 30 -40z\" fill=\"#FFF3BF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M170 110 l10 -40 h40 l10 40z\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M190 70 v-25\" stroke=\"#16131A\" stroke-width=\"10\"/><path d=\"M145 200 q55 30 110 0\" fill=\"none\" stroke=\"#FFE066\" stroke-width=\"10\"/><path d=\"M290 230 q0 -40 20 -60 q20 20 20 60 q0 30 -20 30 q-20 0 -20 -30z\" fill=\"#FFF3BF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M70 320 v-120 q0 -20 20 -20 h20 q20 0 20 20 v120z\" fill=\"#7A3E1D\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"85\" y=\"150\" width=\"30\" height=\"32\" rx=\"6\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"8\"/></g><g transform=\"translate(210 185) scale(.45)\"><path d=\"M60 200 h280 q-10 120 -140 130 q-130 -10 -140 -130z\" fill=\"#D0EBFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"200\" rx=\"140\" ry=\"26\" fill=\"#FFF8E7\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#F4E4C8\" stroke=\"#16131A\" stroke-width=\"4\"><ellipse cx=\"160\" cy=\"198\" rx=\"10\" ry=\"6\"/><ellipse cx=\"220\" cy=\"204\" rx=\"10\" ry=\"6\"/><ellipse cx=\"190\" cy=\"192\" rx=\"8\" ry=\"5\"/></g><circle cx=\"240\" cy=\"192\" r=\"10\" fill=\"#3BB273\" stroke=\"#16131A\" stroke-width=\"5\"/><circle cx=\"140\" cy=\"206\" r=\"8\" fill=\"#F08C2E\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M270 190 l60 -110\" stroke=\"#16131A\" stroke-width=\"22\"/><path d=\"M270 190 l60 -110\" stroke=\"#FFF\" stroke-width=\"10\"/><ellipse cx=\"262\" cy=\"196\" rx=\"26\" ry=\"14\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M150 150 q-10 -30 10 -50 M200 140 q-10 -30 10 -50\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"6\" opacity=\".4\"/></g><path transform=\"translate(345 110)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kicker": "11월 2주 · F&B 산업 레이더",
+      "kind": "cover",
+      "list": [
+        "삼양식품 베트남 공장",
+        "아워홈 日 코스트코 입점",
+        "맥코믹 식품 합병 심사",
+        "일본 식품 가격 인상",
+        "케어푸드 매출 56배"
+      ],
+      "sub": "공장·판로·덩치·가격·고객이 한꺼번에 움직여요",
+      "tags": [
+        "VOL.10",
+        "11.13"
+      ],
+      "title": "<em>식품업계</em> 지도,<br><em>다시</em> 그려져요"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "최대 8개 라인·건면 첫 도입",
+        "2029년 1월 말 완공 목표",
+        "3분기 해외 매출 비중 83.4%"
+      ],
+      "clip": {
+        "date": "26.11.12",
+        "outlet": "청년일보",
+        "text": "해외 매출 83.4%에 맞춰 거점을 늘린대요",
+        "type": "기사"
+      },
+      "date": "11.11 공시",
+      "illus": "burger",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M60 190 h280 q-10 130 -140 140 q-130 -10 -140 -140z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M80 190 q40 -40 80 0 q40 -40 80 0 q40 -40 80 0\" fill=\"none\" stroke=\"#E8590C\" stroke-width=\"14\"/><path d=\"M95 175 q35 -30 70 0 q35 -30 70 0 q35 -30 70 0\" fill=\"none\" stroke=\"#FF8A3D\" stroke-width=\"10\"/><ellipse cx=\"200\" cy=\"190\" rx=\"140\" ry=\"16\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M250 40 l-60 150 M290 50 l-70 140\" stroke=\"#C9935B\" stroke-width=\"12\"/><path d=\"M250 40 l-60 150 M290 50 l-70 140\" stroke=\"#16131A\" stroke-width=\"3\" opacity=\".5\"/><path transform=\"translate(340 300)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 삼양식품",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.ajunews.com/view/20261112151905577",
+      "img_url": "https://image.ajunews.com/content/image/2026/11/12/20261112152219400746.png",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "베트남 박닌성 라면 공장 신설",
+      "note": "중국 자싱에 이은 두 번째 해외 생산 거점이에요. 해외 매출이 80%를 넘자 관세·물류 위험을 나누려 만드는 곳을 넓혀요.",
+      "q": "불닭 두 번째 해외 공장,<br>베트남에 2,186억 원",
+      "src": "출처: 아주경제·청년일보·마켓잉크(2026.11.12)",
+      "stat": {
+        "cap": "원 · 11.11 공시 · 아주경제",
+        "label": "베트남 공장 투자",
+        "value": "2,186억"
+      },
+      "store": "삼양식품",
+      "tags": [
+        "01 / 05",
+        "국내 · 해외 진출"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "진미채 볶음·뼈없는 갈비탕",
+        "호주 15곳·뉴질랜드 1곳도",
+        "1~10월 수출 13% 증가"
+      ],
+      "clip": {
+        "date": "26.11.11",
+        "outlet": "뉴스인사이드",
+        "text": "호주 수출이 8~10월 52% 늘었대요",
+        "type": "기사"
+      },
+      "date": "11.01 입점",
+      "illus": "basket",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><ellipse cx=\"200\" cy=\"250\" rx=\"160\" ry=\"60\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"240\" rx=\"120\" ry=\"38\" fill=\"#F2E7D5\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M110 250 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><path d=\"M130 225 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><path d=\"M150 260 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><path d=\"M180 215 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><path d=\"M120 240 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><path d=\"M170 245 q30 -40 60 -10 q20 20 50 -20\" fill=\"none\" stroke=\"#D9480F\" stroke-width=\"10\"/><g fill=\"#FFF8DB\"><circle cx=\"160\" cy=\"232\" r=\"4\"/><circle cx=\"230\" cy=\"238\" r=\"4\"/><circle cx=\"200\" cy=\"255\" r=\"4\"/></g><path transform=\"translate(330 90)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 아워홈",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.newsinside.kr/news/articleView.html?idxno=5045498",
+      "img_url": "https://cdn.newsinside.kr/news/photo/202611/5045498_942734_4545.jpg",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "일본 코스트코 37곳 정식 입점",
+      "note": "시식 행사 물량이 다 팔린 뒤 정식 판매로 이어졌어요. 김치에 이어 밑반찬·국물요리까지 현지 창고형 매장 진열대에 올랐어요.",
+      "q": "밥반찬 진미채가<br>일본 코스트코에 깔렸어요",
+      "src": "출처: 파이낸셜뉴스·뉴스인사이드(2026.11.11)",
+      "stat": {
+        "cap": "11월부터 · 파이낸셜뉴스(11.11)",
+        "label": "일본 코스트코 매장",
+        "value": "37곳"
+      },
+      "store": "아워홈",
+      "tags": [
+        "02 / 05",
+        "국내 · 유통 채널"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "크노르·헬만스 브랜드 포함",
+        "소스믹스 1·2위 결합 우려",
+        "11.18까지 시정안 제출"
+      ],
+      "clip": {
+        "date": "26.11.11",
+        "outlet": "Just Food",
+        "text": "시정안이 없으면 2단계 심사로 간대요",
+        "type": "기사"
+      },
+      "date": "11.11 발표",
+      "illus": "basket",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><rect x=\"130\" y=\"110\" width=\"140\" height=\"210\" rx=\"26\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"130\" y=\"180\" width=\"140\" height=\"140\" rx=\"26\" fill=\"#C2410C\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"140\" y=\"70\" width=\"120\" height=\"48\" rx=\"14\" fill=\"#2F9E44\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#FFD43B\"><circle cx=\"170\" cy=\"220\" r=\"6\"/><circle cx=\"220\" cy=\"250\" r=\"6\"/><circle cx=\"190\" cy=\"280\" r=\"5\"/><circle cx=\"240\" cy=\"210\" r=\"5\"/></g><path d=\"M290 230 q50 -10 70 30 q-40 30 -70 -30z\" fill=\"#3BB273\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M60 300 q20 -50 60 -40 q-10 40 -60 40z\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"8\"/><path transform=\"translate(330 80)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "유니레버 식품 인수, 英 심사",
+      "note": "향신료 회사가 유니레버 식품 사업 대부분을 사들이는 거래예요. 영국 경쟁당국은 건조 소스믹스 시장의 큰 두 브랜드가 합쳐진다고 봤어요.",
+      "q": "약 60조 원 양념 합병,<br>영국이 '잠깐' 했어요",
+      "src": "출처: Just Food·Law360(2026.11.11)",
+      "stat": {
+        "cap": "$448억 · 11.12 환율 1,330.7원",
+        "label": "인수 규모",
+        "value": "59.6조 원"
+      },
+      "store": "미국 · 맥코믹",
+      "tags": [
+        "03 / 05",
+        "해외 · 인수합병"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "제조사 195곳 참여",
+        "조미료 644개로 최다",
+        "음료·주류 417개"
+      ],
+      "clip": {
+        "date": "26.11.02",
+        "outlet": "신화통신",
+        "text": "올해 인상 품목이 2만 개를 넘었대요",
+        "type": "기사"
+      },
+      "date": "10.30 발표",
+      "illus": "cheese",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M150 110 h100 q30 0 30 40 v150 q0 30 -30 30 h-100 q-30 0 -30 -30 v-150 q0 -40 30 -40z\" fill=\"#FFF3BF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M170 110 l10 -40 h40 l10 40z\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M190 70 v-25\" stroke=\"#16131A\" stroke-width=\"10\"/><path d=\"M145 200 q55 30 110 0\" fill=\"none\" stroke=\"#FFE066\" stroke-width=\"10\"/><path d=\"M290 230 q0 -40 20 -60 q20 20 20 60 q0 30 -20 30 q-20 0 -20 -30z\" fill=\"#FFF3BF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M70 320 v-120 q0 -20 20 -20 h20 q20 0 20 20 v120z\" fill=\"#7A3E1D\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"85\" y=\"150\" width=\"30\" height=\"32\" rx=\"6\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"8\"/><path transform=\"translate(330 300)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "식품·음료 1,477개 값 인상",
+      "note": "작년 같은 달 150개의 약 10배예요. 마요네즈·보리차처럼 매일 쓰는 품목까지 올라, 올해 누적 인상 품목이 2만 개를 넘었어요.",
+      "q": "마요네즈 한 병부터<br>1,477개 값이 올라요",
+      "src": "출처: nippon.com·지지통신(2026.10.30) · 신화통신(2026.11.02)",
+      "stat": {
+        "cap": "데이코쿠데이터뱅크 · 지지통신",
+        "label": "11월 가격 인상 품목",
+        "value": "1,477개"
+      },
+      "store": "일본 · 식품업계",
+      "tags": [
+        "04 / 05",
+        "해외 · 가격"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "지정 제품 27→268개",
+        "65세 이상 인구 21.6%",
+        "급식·요양시설 공급 경쟁"
+      ],
+      "clip": {
+        "date": "26.11.10",
+        "outlet": "데일리안",
+        "text": "4년 새 매출이 약 56배 늘었대요",
+        "type": "기사"
+      },
+      "date": "11.10 보도",
+      "illus": "yogurt",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M60 200 h280 q-10 120 -140 130 q-130 -10 -140 -130z\" fill=\"#D0EBFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"200\" rx=\"140\" ry=\"26\" fill=\"#FFF8E7\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#F4E4C8\" stroke=\"#16131A\" stroke-width=\"4\"><ellipse cx=\"160\" cy=\"198\" rx=\"10\" ry=\"6\"/><ellipse cx=\"220\" cy=\"204\" rx=\"10\" ry=\"6\"/><ellipse cx=\"190\" cy=\"192\" rx=\"8\" ry=\"5\"/></g><circle cx=\"240\" cy=\"192\" r=\"10\" fill=\"#3BB273\" stroke=\"#16131A\" stroke-width=\"5\"/><circle cx=\"140\" cy=\"206\" r=\"8\" fill=\"#F08C2E\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M270 190 l60 -110\" stroke=\"#16131A\" stroke-width=\"22\"/><path d=\"M270 190 l60 -110\" stroke=\"#FFF\" stroke-width=\"10\"/><ellipse cx=\"262\" cy=\"196\" rx=\"26\" ry=\"14\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M150 150 q-10 -30 10 -50 M200 140 q-10 -30 10 -50\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"6\" opacity=\".4\"/><path transform=\"translate(80 80)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "늘편푸드 매출 급성장",
+      "note": "정부 지정 고령친화식품 매출이 4년 새 크게 늘었어요. 급식·식품 회사들이 연화식·영양식 브랜드로 시니어 시장을 먼저 잡으려 해요.",
+      "q": "다음 고객은 시니어,<br>늘편푸드 매출 56배",
+      "src": "출처: 데일리안(2026.11.10) · 토요경제(2026.07.24)",
+      "stat": {
+        "cap": "2.3억→127.9억 원 · 2021→2025",
+        "label": "늘편푸드 매출 성장",
+        "value": "56배"
+      },
+      "store": "국내 · 케어푸드",
+      "tags": [
+        "05 / 05",
+        "국내 · 신사업"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "%, 전년 동기 대비 · 각 사 발표 보도",
+        "max": 60,
+        "prefix": "+",
+        "rows": [
+          [
+            "삼양 해외 매출(3Q)",
+            29.4,
+            "#FFD43B"
+          ],
+          [
+            "아워홈 수출(1~10월)",
+            13,
+            "#FFB199"
+          ],
+          [
+            "아워홈 호주(8~10월)",
+            52,
+            "#A8EFD2"
+          ]
+        ],
+        "title": "국내 식품사 해외 성장률"
+      },
+      "bg": "#2B2140",
+      "cta": "여러분 회사라면 다음 공장은 어디에 지을까요?",
+      "kind": "insight",
+      "points": [
+        "생산·판로를 소비지 가까이로",
+        "덩치 키우기엔 심사가 따라와요",
+        "시니어 같은 새 고객도 키워요"
+      ],
+      "src": "출처: 청년일보(2026.11.12) · 파이낸셜뉴스(2026.11.11)",
+      "tags": [
+        "관찰 노트",
+        "VOL.10"
+      ],
+      "title": "성장할 곳을 찾아<br><em>판</em>을 옮기고 있어요"
+    }
+  ]
+}
