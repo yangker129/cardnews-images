@@ -1,0 +1,261 @@
+{
+  "issue": "VOL.11 · 2026.11.16",
+  "reel_outro": "여러분 시그니처라면 어떻게 비틀까요?",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "basket",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"translate(10 20) scale(0.45)\"><path d=\"M95 200 h210 l-22 120 q-83 22 -166 0z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"200\" rx=\"105\" ry=\"26\" fill=\"#E8590C\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M140 196 q30 -14 60 0 q30 14 60 0\" fill=\"none\" stroke=\"#FFB067\" stroke-width=\"8\"/><path d=\"M250 150 q60 -70 105 -40 q-10 60 -85 75 q-30 5 -20 -35z\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M330 112 q15 -25 35 -25\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M330 112 l20 10\" stroke=\"#2F9E44\" stroke-width=\"12\"/></g><g transform=\"translate(210 20) scale(0.45)\"><path d=\"M80 170 q120 -130 240 0z\" fill=\"#F4B860\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#FFF8DB\"><ellipse cx=\"160\" cy=\"130\" rx=\"8\" ry=\"4\"/><ellipse cx=\"210\" cy=\"115\" rx=\"8\" ry=\"4\"/><ellipse cx=\"250\" cy=\"140\" rx=\"8\" ry=\"4\"/></g><path d=\"M70 190 q15 -25 40 -15 q20 -20 45 0 q25 -20 50 0 q25 -20 50 0 q25 -15 40 5 q20 10 5 30 h-230 q-15 -10 0 -20z\" fill=\"#D9822B\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"160\" cy=\"212\" rx=\"34\" ry=\"12\" fill=\"#8BC34A\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"240\" cy=\"214\" rx=\"34\" ry=\"12\" fill=\"#8BC34A\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M70 240 q15 -25 40 -15 q20 -20 45 0 q25 -20 50 0 q25 -20 50 0 q25 -15 40 5 q20 10 5 30 h-230 q-15 -10 0 -20z\" fill=\"#C9701F\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M80 280 h240 q0 45 -40 50 h-160 q-40 -5 -40 -50z\" fill=\"#F4B860\" stroke=\"#16131A\" stroke-width=\"8\"/></g><g transform=\"translate(10 185) scale(0.45)\"><path d=\"M60 190 h280 q-10 130 -140 140 q-130 -10 -140 -140z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"190\" rx=\"140\" ry=\"26\" fill=\"#E8590C\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 192 q30 -24 60 0 q30 24 60 0 q30 -24 60 0\" fill=\"none\" stroke=\"#FFE8A3\" stroke-width=\"18\"/><path d=\"M110 192 q30 -24 60 0 q30 24 60 0 q30 -24 60 0\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"3\" opacity=\".4\"/><path d=\"M245 40 l-55 150 M285 50 l-65 140\" stroke=\"#C9935B\" stroke-width=\"12\"/><circle cx=\"150\" cy=\"182\" r=\"9\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"5\"/></g><g transform=\"translate(210 185) scale(0.45)\"><path d=\"M200 70 q120 60 110 170 q-10 80 -110 100 q-100 -20 -110 -100 q-10 -110 110 -170z\" fill=\"#E9B872\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M200 90 v240\" stroke=\"#C98A3E\" stroke-width=\"8\"/><path d=\"M200 140 l-60 40 M200 140 l60 40 M200 200 l-75 45 M200 200 l75 45 M200 260 l-65 35 M200 260 l65 35\" stroke=\"#C98A3E\" stroke-width=\"7\"/><path d=\"M110 250 q-15 70 90 90 q105 -20 90 -90 q-40 30 -90 30 q-50 0 -90 -30z\" fill=\"#6B3A1E\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#FFF8DB\"><circle cx=\"160\" cy=\"180\" r=\"5\"/><circle cx=\"235\" cy=\"225\" r=\"5\"/></g></g><g transform=\"translate(115 130) scale(0.42)\"><path d=\"M50 190 h300 q-10 130 -150 140 q-140 -10 -150 -140z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"190\" rx=\"150\" ry=\"28\" fill=\"#D9480F\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 180 q20 -30 50 -10 q15 20 -15 30 q-30 5 -35 -20z\" fill=\"#EDE6DA\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M200 175 q25 -30 55 -8 q12 22 -20 30 q-30 4 -35 -22z\" fill=\"#EDE6DA\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M250 200 q20 -25 45 -5 q5 18 -20 22 q-25 2 -25 -17z\" fill=\"#EDE6DA\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M150 205 q20 -14 40 0\" fill=\"none\" stroke=\"#3BB273\" stroke-width=\"10\"/></g><path transform=\"translate(355 100)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kicker": "11월 3주 · F&B 신상 노트",
+      "kind": "cover",
+      "list": [
+        "칙필레 스파이시 소스",
+        "파파이스 GTA 샌드위치",
+        "농심 누들핏W",
+        "롯데 립파이 K-에디션",
+        "홍콩반점 통영굴짬뽕"
+      ],
+      "sub": "시그니처 메뉴를 맵게·가볍게·한정판으로 바꿔요",
+      "tags": [
+        "VOL.11",
+        "11.16"
+      ],
+      "title": "<em>새 브랜드</em> 대신<br><em>아는 맛</em> 비틀기"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "대표 소스에 매운 고추 더해",
+        "디핑 컵·8온스 병 판매",
+        "정규 메뉴로 전국 출시"
+      ],
+      "clip": {
+        "date": "26.11.13",
+        "outlet": "NRN",
+        "text": "10년 만에 처음 낸 새 소스래요",
+        "type": "기사"
+      },
+      "date": "11.16 출시",
+      "illus": "yogurt",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M95 200 h210 l-22 120 q-83 22 -166 0z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"200\" rx=\"105\" ry=\"26\" fill=\"#E8590C\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M140 196 q30 -14 60 0 q30 14 60 0\" fill=\"none\" stroke=\"#FFB067\" stroke-width=\"8\"/><path d=\"M250 150 q60 -70 105 -40 q-10 60 -85 75 q-30 5 -20 -35z\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M330 112 q15 -25 35 -25\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M330 112 l20 10\" stroke=\"#2F9E44\" stroke-width=\"12\"/><path transform=\"translate(90 90)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 칙필레",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.nrn.com/quick-service/chick-fil-a-launches-a-spicy-version-of-its-signature-sauce",
+      "img_url": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/blt0ae49a78a08426d0/6af7513dfa086aee5eb84a34/CFA_spicy_sauce.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "스파이시 칙필레 소스",
+      "note": "2016년 스리라차 소스 이후 처음 나온 새 소스예요. 완전히 새로운 맛 대신 이름이 곧 브랜드인 대표 소스를 맵게 바꿨어요.",
+      "q": "10년 만의 새 소스,<br>원조 소스를 맵게 했어요",
+      "src": "출처: NRN(2026.11.13) · Live5News(2026.10.15)",
+      "stat": {
+        "cap": "2016년 스리라차 이후 · NRN",
+        "label": "새 소스까지 걸린 시간",
+        "value": "10년"
+      },
+      "store": "미국 · 칙필레",
+      "tags": [
+        "01 / 05",
+        "해외 · 외식"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "치킨 필레 2장·브리오슈 번",
+        "11.19~22 미국 전역",
+        "앱·매장·배달로 판매"
+      ],
+      "clip": {
+        "date": "26.11.12",
+        "outlet": "Foodbeast",
+        "text": "게임 출시일부터 나흘만 판대요",
+        "type": "기사"
+      },
+      "date": "11.12 발표",
+      "illus": "burger",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M80 170 q120 -130 240 0z\" fill=\"#F4B860\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#FFF8DB\"><ellipse cx=\"160\" cy=\"130\" rx=\"8\" ry=\"4\"/><ellipse cx=\"210\" cy=\"115\" rx=\"8\" ry=\"4\"/><ellipse cx=\"250\" cy=\"140\" rx=\"8\" ry=\"4\"/></g><path d=\"M70 190 q15 -25 40 -15 q20 -20 45 0 q25 -20 50 0 q25 -20 50 0 q25 -15 40 5 q20 10 5 30 h-230 q-15 -10 0 -20z\" fill=\"#D9822B\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"160\" cy=\"212\" rx=\"34\" ry=\"12\" fill=\"#8BC34A\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"240\" cy=\"214\" rx=\"34\" ry=\"12\" fill=\"#8BC34A\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M70 240 q15 -25 40 -15 q20 -20 45 0 q25 -20 50 0 q25 -20 50 0 q25 -15 40 5 q20 10 5 30 h-230 q-15 -10 0 -20z\" fill=\"#C9701F\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M80 280 h240 q0 45 -40 50 h-160 q-40 -5 -40 -50z\" fill=\"#F4B860\" stroke=\"#16131A\" stroke-width=\"8\"/><path transform=\"translate(345 80)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 파파이스",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.nrn.com/quick-service/popeyes-new-sandwich-pays-homage-to-grand-theft-auto-vi",
+      "img_url": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/blt0752d56e1fe4e04b/6af5de4ab9f137b4c4325991/popeyes_spice_city.png?width=1280&auto=webp&quality=80&disable=upscale",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "GTA6 오마주 스파이스 시티",
+      "note": "게임 'GTA6' 출시일에 맞춰 나흘만 팔아요. 3분기 동일매장 매출이 2.2% 줄어든 가운데, 대표 치킨 샌드위치를 두 배로 쌓아 화제를 노려요.",
+      "q": "게임 출시일에 맞춘<br>4일짜리 샌드위치",
+      "src": "출처: NRN·Foodbeast·Dexerto(2026.11.12)",
+      "stat": {
+        "cap": "11.19~22 · NRN·Foodbeast",
+        "label": "한정 판매 기간",
+        "value": "4일"
+      },
+      "store": "미국 · 파파이스",
+      "tags": [
+        "02 / 05",
+        "해외 · 외식"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "누들핏 첫 넓적한 와이드 건면",
+        "단백질 3.4~4g",
+        "11.23 출시 예정"
+      ],
+      "clip": {
+        "date": "26.11.13",
+        "outlet": "글로벌경제신문",
+        "text": "2종 모두 100kcal에 맞췄대요",
+        "type": "기사"
+      },
+      "date": "11.13 공개",
+      "illus": "basket",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M60 190 h280 q-10 130 -140 140 q-130 -10 -140 -140z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"190\" rx=\"140\" ry=\"26\" fill=\"#E8590C\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 192 q30 -24 60 0 q30 24 60 0 q30 -24 60 0\" fill=\"none\" stroke=\"#FFE8A3\" stroke-width=\"18\"/><path d=\"M110 192 q30 -24 60 0 q30 24 60 0 q30 -24 60 0\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"3\" opacity=\".4\"/><path d=\"M245 40 l-55 150 M285 50 l-65 140\" stroke=\"#C9935B\" stroke-width=\"12\"/><circle cx=\"150\" cy=\"182\" r=\"9\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"5\"/><path transform=\"translate(340 300)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 농심",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.getnews.co.kr/news/articleView.html?idxno=887145",
+      "img_url": "https://cdn.getnews.co.kr/news/photo/202611/887145_545769_4540.jpg",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "누들핏W 사천마라탕·광동짬뽕",
+      "note": "인기 국물 메뉴를 저칼로리 컵면 브랜드로 옮겨왔어요. 이번엔 누들핏 처음으로 넓적한 와이드 면을 썼어요.",
+      "q": "마라탕 한 그릇이<br>100kcal로 내려왔어요",
+      "src": "출처: 글로벌경제신문·서울파이낸스(2026.11.13)",
+      "stat": {
+        "cap": "2종 모두 · 글로벌경제신문(11.13)",
+        "label": "한 개 열량",
+        "value": "100kcal"
+      },
+      "store": "농심",
+      "tags": [
+        "03 / 05",
+        "국내 · 식품"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "무궁화 그린 한정 패키지",
+        "서울역·김포공항점 등",
+        "기존 K-에디션 3종에 추가"
+      ],
+      "clip": {
+        "date": "26.11.13",
+        "outlet": "서울파이낸스",
+        "text": "특화매장 10곳에서 11월 중 판대요",
+        "type": "기사"
+      },
+      "date": "11.13 발표",
+      "illus": "nuts",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M200 70 q120 60 110 170 q-10 80 -110 100 q-100 -20 -110 -100 q-10 -110 110 -170z\" fill=\"#E9B872\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M200 90 v240\" stroke=\"#C98A3E\" stroke-width=\"8\"/><path d=\"M200 140 l-60 40 M200 140 l60 40 M200 200 l-75 45 M200 200 l75 45 M200 260 l-65 35 M200 260 l65 35\" stroke=\"#C98A3E\" stroke-width=\"7\"/><path d=\"M110 250 q-15 70 90 90 q105 -20 90 -90 q-40 30 -90 30 q-50 0 -90 -30z\" fill=\"#6B3A1E\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#FFF8DB\"><circle cx=\"160\" cy=\"180\" r=\"5\"/><circle cx=\"235\" cy=\"225\" r=\"5\"/></g><path transform=\"translate(330 90)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 롯데웰푸드",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.getnews.co.kr/news/articleView.html?idxno=887145",
+      "img_url": "https://cdn.getnews.co.kr/news/photo/202611/887145_545771_4710.jpg",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "가나 쇼콜라 립파이 K-에디션",
+      "note": "맛은 그대로 두고 포장에 한국을 담았어요. 외국인이 많이 찾는 롯데마트 특화매장부터 11월 중 판매해요.",
+      "q": "외국인 쇼핑 매장 10곳에<br>무궁화 립파이가 깔려요",
+      "src": "출처: 글로벌경제신문·서울파이낸스(2026.11.13)",
+      "stat": {
+        "cap": "일부 일반 매장도 · 서울파이낸스",
+        "label": "롯데마트 외국인 특화매장",
+        "value": "10곳"
+      },
+      "store": "롯데웰푸드",
+      "tags": [
+        "04 / 05",
+        "국내 · 제과"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "팔도 프로젝트 5번째 메뉴",
+        "11.26부터 경남 5개 지역",
+        "매장 식사 2,100원 할인"
+      ],
+      "clip": {
+        "date": "26.11.13",
+        "outlet": "서울파이낸스",
+        "text": "전국 2주 뒤 경남에서 이어 판대요",
+        "type": "기사"
+      },
+      "date": "11.13 발표",
+      "illus": "basket",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M50 190 h300 q-10 130 -150 140 q-140 -10 -150 -140z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"190\" rx=\"150\" ry=\"28\" fill=\"#D9480F\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 180 q20 -30 50 -10 q15 20 -15 30 q-30 5 -35 -20z\" fill=\"#EDE6DA\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M200 175 q25 -30 55 -8 q12 22 -20 30 q-30 4 -35 -22z\" fill=\"#EDE6DA\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M250 200 q20 -25 45 -5 q5 18 -20 22 q-25 2 -25 -17z\" fill=\"#EDE6DA\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M150 205 q20 -14 40 0\" fill=\"none\" stroke=\"#3BB273\" stroke-width=\"10\"/><path transform=\"translate(80 80)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 더본코리아",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.getnews.co.kr/news/articleView.html?idxno=887145",
+      "img_url": "https://cdn.getnews.co.kr/news/photo/202611/887145_545776_5319.jpg",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "팔도 홍콩반점 통영굴짬뽕",
+      "note": "지역 식재료를 대표 메뉴 짬뽕에 얹는 시리즈예요. 전국 판매가 끝나면 거제·창원 등 경남 매장에서 내년 2월까지 이어가요.",
+      "q": "짬뽕 한 그릇에 통영 굴,<br>전국엔 딱 2주예요",
+      "src": "출처: 글로벌경제신문·서울파이낸스(2026.11.13)",
+      "stat": {
+        "cap": "11.25까지 · 서울파이낸스(11.13)",
+        "label": "전국 한정 판매",
+        "value": "2주"
+      },
+      "store": "더본코리아 · 홍콩반점",
+      "tags": [
+        "05 / 05",
+        "국내 · 외식"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "%, Technomic · Restaurant Dive(26.05.18)",
+        "max": 150,
+        "prefix": "+",
+        "rows": [
+          [
+            "최근 5년 LTO 수",
+            134,
+            "#FFD43B"
+          ],
+          [
+            "2025년 LTO 출시",
+            10,
+            "#A8EFD2"
+          ],
+          [
+            "2026년 전망",
+            3,
+            "#FFB199"
+          ]
+        ],
+        "title": "미국 외식 한정 메뉴(LTO) 증가율"
+      },
+      "bg": "#2B2140",
+      "cta": "여러분 회사 시그니처라면 어떻게 비틀어 볼까요?",
+      "kind": "insight",
+      "points": [
+        "대표 메뉴에 맛·형태만 바꿔요",
+        "기간·장소를 좁혀 화제를 만들어요",
+        "포장만 바꿔 새 손님을 노려요"
+      ],
+      "src": "출처: Restaurant Dive(2026.05.18) · Symrise(2026.07.28) · Technomic",
+      "tags": [
+        "관찰 노트",
+        "VOL.11"
+      ],
+      "title": "이번 주 신상의 출발점은<br><em>아는 맛</em>이에요"
+    }
+  ]
+}
