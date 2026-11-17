@@ -1,0 +1,259 @@
+{
+  "issue": "VOL.12 · 2026.11.18",
+  "reel_outro": "여러분 메뉴판이라면 뭘 바꿀까요?",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "basket",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='350' rx='160' ry='18' fill='#16131A' opacity='.18'/><g transform='translate(20 20) scale(0.5)'><path d='M70 210 q20 -100 130 -110 q110 10 130 110 q-30 20 -60 0 q-30 20 -70 0 q-40 20 -70 0 q-30 20 -60 0z' fill='#8BD86B' stroke='#16131A' stroke-width='8'/><rect x='80' y='210' width='240' height='44' rx='20' fill='#7A4A2A' stroke='#16131A' stroke-width='8'/><path d='M84 250 l232 0 l-20 22 l-30 -16 l-30 18 l-30 -18 l-30 18 l-30 -18 l-30 18 l-30 -18z' fill='#FFC93C' stroke='#16131A' stroke-width='8'/><rect x='80' y='268' width='240' height='40' rx='18' fill='#7A4A2A' stroke='#16131A' stroke-width='8'/><path d='M70 300 q20 50 130 54 q110 -4 130 -54 q-30 18 -60 0 q-30 18 -70 0 q-40 18 -70 0 q-30 18 -60 0z' fill='#8BD86B' stroke='#16131A' stroke-width='8'/></g><g transform='translate(200 10) scale(0.5)'><path d='M150 70 h100 v40 q40 20 40 70 v140 q0 26 -26 26 h-128 q-26 0 -26 -26 v-140 q0 -50 40 -70z' fill='#FFB3C7' stroke='#16131A' stroke-width='8'/><rect x='146' y='44' width='108' height='34' rx='10' fill='#FFF' stroke='#16131A' stroke-width='8'/><path d='M110 200 h180 v70 h-180z' fill='#FFF' stroke='#16131A' stroke-width='8'/><path d='M135 235 h60 M135 255 h40' stroke='#FF7A9A' stroke-width='10'/><path d='M300 260 q-40 -10 -40 30 q0 40 40 56 q40 -16 40 -56 q0 -40 -40 -30z' fill='#FF4D6D' stroke='#16131A' stroke-width='8'/><path d='M285 255 l15 -18 l15 18' fill='#3BB273' stroke='#16131A' stroke-width='8'/><g fill='#FFE08A'><circle cx='288' cy='290' r='4'/><circle cx='310' cy='300' r='4'/><circle cx='296' cy='318' r='4'/></g></g><g transform='translate(30 170) scale(0.5)'><path d='M110 170 h180 l-24 170 h-132z' fill='#FFF' stroke='#16131A' stroke-width='8'/><path d='M118 220 h164' stroke='#E67700' stroke-width='10'/><g fill='#D98C3A' stroke='#16131A' stroke-width='8'><rect x='115' y='120' width='56' height='52' rx='10' transform='rotate(-10 143 146)'/><rect x='172' y='104' width='58' height='56' rx='10' transform='rotate(8 200 132)'/><rect x='230' y='122' width='54' height='50' rx='10' transform='rotate(14 257 147)'/></g><g stroke='#8A4B12' stroke-width='6'><path d='M130 140 l25 -6 M188 124 l28 6 M242 140 l24 8'/></g><g fill='#3BB273'><circle cx='170' cy='112' r='7'/><circle cx='236' cy='116' r='6'/></g></g><g transform='translate(195 170) scale(0.5)'><ellipse cx='200' cy='270' rx='150' ry='58' fill='#FFF' stroke='#16131A' stroke-width='8'/><ellipse cx='200' cy='262' rx='96' ry='34' fill='#F7F1E6' stroke='#16131A' stroke-width='8'/><path d='M130 255 q20 -50 70 -52 q50 2 70 52 q-70 26 -140 0z' fill='#FFD27A' stroke='#16131A' stroke-width='8'/><g fill='none' stroke='#E0A93A' stroke-width='6'><path d='M150 240 q30 -20 60 0 q20 14 40 0'/><path d='M160 225 q30 -16 60 0'/></g><circle cx='200' cy='215' r='26' fill='#9C4A2A' stroke='#16131A' stroke-width='8'/><path d='M182 206 q10 -10 22 -4' stroke='#C97A55' stroke-width='6' fill='none'/><path d='M170 196 q-12 -30 10 -40' fill='none' stroke='#3BB273' stroke-width='10'/></g><g transform='translate(110 95) scale(0.5)'><path d='M70 190 h260 l-20 150 h-220z' fill='#2B2140' stroke='#16131A' stroke-width='8'/><path d='M86 200 h228 l-16 126 h-196z' fill='#FFF3DF' stroke='#16131A' stroke-width='8'/><path d='M96 210 h96 v108 h-84z' fill='#FFF' stroke='#16131A' stroke-width='8'/><g fill='#F4E4C8' stroke='#16131A' stroke-width='4'><circle cx='120' cy='240' r='9'/><circle cx='150' cy='232' r='9'/><circle cx='170' cy='258' r='9'/><circle cx='130' cy='280' r='9'/><circle cx='160' cy='292' r='9'/></g><path d='M204 210 h100 l-14 108 h-86z' fill='#F08C2E' stroke='#16131A' stroke-width='8'/><g fill='#FFE3B0' stroke='#16131A' stroke-width='8'><rect x='220' y='236' width='30' height='26' rx='6'/><rect x='258' y='262' width='28' height='24' rx='6'/></g><g fill='#3BB273'><circle cx='270' cy='232' r='7'/><circle cx='232' cy='288' r='7'/></g></g><path transform='translate(350 80)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g>",
+      "kicker": "11월 3주 · 트렌드 키워드",
+      "kind": "cover",
+      "list": [
+        "남양 테이크핏 몬스터",
+        "쉐이크쉑 굿핏 메뉴",
+        "치폴레 고단백 컵",
+        "올리브가든 작은 접시",
+        "영국 코옵 미니 밀"
+      ],
+      "sub": "비만치료제 시대, 메뉴판과 매대가 바뀌어요",
+      "tags": [
+        "VOL.12",
+        "11.18"
+      ],
+      "title": "<em>작게</em> 먹고<br><em>단백질</em>은 꽉"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "350mL · 204kcal",
+        "43g→45g→47g로 올렸어요",
+        "60g '익스트림'도 나왔어요"
+      ],
+      "clip": {
+        "date": "26.08.05",
+        "outlet": "머니투데이",
+        "text": "1분기 오프라인 매출이 64% 늘었대요",
+        "type": "기사"
+      },
+      "date": "07.30 발표",
+      "illus": "yogurt",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='350' rx='160' ry='18' fill='#16131A' opacity='.18'/><path d='M150 70 h100 v40 q40 20 40 70 v140 q0 26 -26 26 h-128 q-26 0 -26 -26 v-140 q0 -50 40 -70z' fill='#FFB3C7' stroke='#16131A' stroke-width='8'/><rect x='146' y='44' width='108' height='34' rx='10' fill='#FFF' stroke='#16131A' stroke-width='8'/><path d='M110 200 h180 v70 h-180z' fill='#FFF' stroke='#16131A' stroke-width='8'/><path d='M135 235 h60 M135 255 h40' stroke='#FF7A9A' stroke-width='10'/><path d='M300 260 q-40 -10 -40 30 q0 40 40 56 q40 -16 40 -56 q0 -40 -40 -30z' fill='#FF4D6D' stroke='#16131A' stroke-width='8'/><path d='M285 255 l15 -18 l15 18' fill='#3BB273' stroke='#16131A' stroke-width='8'/><g fill='#FFE08A'><circle cx='288' cy='290' r='4'/><circle cx='310' cy='300' r='4'/><circle cx='296' cy='318' r='4'/></g><path transform='translate(80 80)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g>",
+      "img_credit": "사진 제공: 남양유업",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.news1.kr/industry/distribution/6243542",
+      "img_url": "https://i3n.news1.kr/system/photos/2026/7/30/8032538/high.jpg",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "테이크핏 몬스터 딸기맛",
+      "note": "운동할 때 마시던 고단백 음료가 일상 영양 관리로 넓어졌어요. 한 병에 든 단백질 숫자가 곧 경쟁력이 됐어요.",
+      "q": "음료 한 병에<br>단백질 47g을 채웠어요",
+      "src": "출처: 전자신문·뉴스1(2026.07.30) · 머니투데이(2026.08.05)",
+      "stat": {
+        "cap": "오프라인 POS · 전년 대비 · 마켓링크",
+        "label": "테이크핏 1분기 매출",
+        "value": "+64.1%"
+      },
+      "store": "남양유업",
+      "tags": [
+        "01 / 05",
+        "국내 · 음료"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "더블 스모크쉑 상추 랩 52g",
+        "탄수화물은 5g까지 낮춰요",
+        "GLP-1 이용자 겨냥 메뉴"
+      ],
+      "clip": {
+        "date": "25.12.30",
+        "outlet": "Fast Casual",
+        "text": "빵을 상추로 바꾼 메뉴를 냈대요",
+        "type": "기사"
+      },
+      "date": "25.12 출시",
+      "illus": "burger",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='350' rx='160' ry='18' fill='#16131A' opacity='.18'/><path d='M70 210 q20 -100 130 -110 q110 10 130 110 q-30 20 -60 0 q-30 20 -70 0 q-40 20 -70 0 q-30 20 -60 0z' fill='#8BD86B' stroke='#16131A' stroke-width='8'/><rect x='80' y='210' width='240' height='44' rx='20' fill='#7A4A2A' stroke='#16131A' stroke-width='8'/><path d='M84 250 l232 0 l-20 22 l-30 -16 l-30 18 l-30 -18 l-30 18 l-30 -18 l-30 18 l-30 -18z' fill='#FFC93C' stroke='#16131A' stroke-width='8'/><rect x='80' y='268' width='240' height='40' rx='18' fill='#7A4A2A' stroke='#16131A' stroke-width='8'/><path d='M70 300 q20 50 130 54 q110 -4 130 -54 q-30 18 -60 0 q-30 18 -70 0 q-40 18 -70 0 q-30 18 -60 0z' fill='#8BD86B' stroke='#16131A' stroke-width='8'/><path transform='translate(330 80)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g>",
+      "img_credit": "사진 제공: Shake Shack",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.fastcasual.com/news/shake-shack-launches-good-fit-menu/",
+      "img_url": "https://nmgprod.s3.amazonaws.com/media/file/79/5f/b274c53897bf32ce2ff27f6d4b5a/cover_image__Gs8W36W9__2025-12_Good-Fit_Press.jpg.1600x900_q85_crop_upscale.webp",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "굿핏(Good Fit) 메뉴",
+      "note": "버거 모양은 그대로 두고 빵만 빼서 단백질 숫자를 앞세웠어요. 적게 먹는 손님도 놓치지 않으려는 방식이에요.",
+      "q": "버거 빵 대신 상추,<br>단백질은 52g이에요",
+      "src": "출처: Fast Casual(2025.12.30) · Fox News(2026.01.03)",
+      "stat": {
+        "cap": "상추 랩 버거 · Fast Casual",
+        "label": "버거 1개 단백질",
+        "value": "52g"
+      },
+      "store": "미국 · 쉐이크쉑",
+      "tags": [
+        "02 / 05",
+        "해외 · 미국"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "4온스 컵에 치킨만 담아요",
+        "메뉴당 단백질 15~81g",
+        "고단백·고식이섬유 볼도"
+      ],
+      "clip": {
+        "date": "26.08.25",
+        "outlet": "ABC News",
+        "text": "GLP-1 이용자 겨냥 메뉴로 소개했대요",
+        "type": "기사"
+      },
+      "date": "25.12 출시",
+      "illus": "basket",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='350' rx='160' ry='18' fill='#16131A' opacity='.18'/><path d='M110 170 h180 l-24 170 h-132z' fill='#FFF' stroke='#16131A' stroke-width='8'/><path d='M118 220 h164' stroke='#E67700' stroke-width='10'/><g fill='#D98C3A' stroke='#16131A' stroke-width='8'><rect x='115' y='120' width='56' height='52' rx='10' transform='rotate(-10 143 146)'/><rect x='172' y='104' width='58' height='56' rx='10' transform='rotate(8 200 132)'/><rect x='230' y='122' width='54' height='50' rx='10' transform='rotate(14 257 147)'/></g><g stroke='#8A4B12' stroke-width='6'><path d='M130 140 l25 -6 M188 124 l28 6 M242 140 l24 8'/></g><g fill='#3BB273'><circle cx='170' cy='112' r='7'/><circle cx='236' cy='116' r='6'/></g><path transform='translate(330 80)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g>",
+      "img_credit": "사진 제공: Chipotle",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.foxnews.com/food-drink/fast-food-goes-glp-1-shake-shack-latest-roll-out-ozempic-friendly-menu",
+      "img_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/1200/675/high-protein-menu-chipotle-meat-cup.jpg?ve=1&tl=1",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "하이 프로틴 메뉴 · 컵",
+      "note": "한 끼를 다 먹기 부담스러운 손님에게 고기만 작게 담아 내놨어요. 주문 꿀팁을 정식 메뉴로 바꾼 셈이에요.",
+      "q": "치킨만 한 컵 담은<br>단백질 간식 32g",
+      "src": "출처: Fox News(2026.01.03) · SIAL(2026.05.13) · ABC News(2026.08.25)",
+      "stat": {
+        "cap": "간식 사이즈 · SIAL(2026.05)",
+        "label": "하이 프로틴 컵 단백질",
+        "value": "32g"
+      },
+      "store": "미국 · 치폴레",
+      "tags": [
+        "03 / 05",
+        "해외 · 미국"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "라자냐·알프레도 등 7가지",
+        "예상가 $12.99~13.99",
+        "40% 매장 테스트 후 확대"
+      ],
+      "clip": {
+        "date": "25.12.19",
+        "outlet": "FOX 11 LA",
+        "text": "1월부터 전 매장에 작은 접시를 낸대요",
+        "type": "기사"
+      },
+      "date": "26.01 출시",
+      "illus": "cheese",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='350' rx='160' ry='18' fill='#16131A' opacity='.18'/><ellipse cx='200' cy='270' rx='150' ry='58' fill='#FFF' stroke='#16131A' stroke-width='8'/><ellipse cx='200' cy='262' rx='96' ry='34' fill='#F7F1E6' stroke='#16131A' stroke-width='8'/><path d='M130 255 q20 -50 70 -52 q50 2 70 52 q-70 26 -140 0z' fill='#FFD27A' stroke='#16131A' stroke-width='8'/><g fill='none' stroke='#E0A93A' stroke-width='6'><path d='M150 240 q30 -20 60 0 q20 14 40 0'/><path d='M160 225 q30 -16 60 0'/></g><circle cx='200' cy='215' r='26' fill='#9C4A2A' stroke='#16131A' stroke-width='8'/><path d='M182 206 q10 -10 22 -4' stroke='#C97A55' stroke-width='6' fill='none'/><path d='M170 196 q-12 -30 10 -40' fill='none' stroke='#3BB273' stroke-width='10'/><path transform='translate(330 80)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g>",
+      "kind": "product",
+      "name": "라이터 포션 메뉴 7종",
+      "note": "양을 줄이고 값도 낮춘 접시를 따로 냈어요. 적게 먹는 손님과 가벼워진 지갑을 함께 겨냥해요.",
+      "price_label": "부터 · 환산",
+      "price_tag": "1.7만 원",
+      "q": "양 줄인 파스타가<br>미국 900곳에 깔렸어요",
+      "src": "출처: FOX 11 LA(2025.12.19) · 헤럴드경제(2026.02.22)",
+      "stat": {
+        "cap": "헤럴드경제(2026.02.22)",
+        "label": "적용 미국 매장",
+        "value": "900곳"
+      },
+      "store": "미국 · 올리브가든",
+      "tags": [
+        "04 / 05",
+        "해외 · 미국"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "한 팩 250g 작은 한 끼",
+        "고단백·고식이섬유 설계",
+        "영국 편의점 업계 처음"
+      ],
+      "clip": {
+        "date": "26.01.08",
+        "outlet": "Just Food",
+        "text": "GLP-1 이용자용 미니 밀을 내놨대요",
+        "type": "기사"
+      },
+      "date": "26.01 출시",
+      "illus": "basket",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='350' rx='160' ry='18' fill='#16131A' opacity='.18'/><path d='M70 190 h260 l-20 150 h-220z' fill='#2B2140' stroke='#16131A' stroke-width='8'/><path d='M86 200 h228 l-16 126 h-196z' fill='#FFF3DF' stroke='#16131A' stroke-width='8'/><path d='M96 210 h96 v108 h-84z' fill='#FFF' stroke='#16131A' stroke-width='8'/><g fill='#F4E4C8' stroke='#16131A' stroke-width='4'><circle cx='120' cy='240' r='9'/><circle cx='150' cy='232' r='9'/><circle cx='170' cy='258' r='9'/><circle cx='130' cy='280' r='9'/><circle cx='160' cy='292' r='9'/></g><path d='M204 210 h100 l-14 108 h-86z' fill='#F08C2E' stroke='#16131A' stroke-width='8'/><g fill='#FFE3B0' stroke='#16131A' stroke-width='8'><rect x='220' y='236' width='30' height='26' rx='6'/><rect x='258' y='262' width='28' height='24' rx='6'/></g><g fill='#3BB273'><circle cx='270' cy='232' r='7'/><circle cx='232' cy='288' r='7'/></g><path transform='translate(330 80)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g>",
+      "kind": "product",
+      "name": "굿 퓨얼 미니 밀 4종",
+      "note": "양이 줄어든 손님을 위해 도시락 크기부터 줄였어요. 영국 마트들도 비슷한 라인을 잇달아 내고 있어요.",
+      "price_label": "£3.50 · 환산",
+      "price_tag": "6,200원",
+      "q": "영국 편의점 냉장고에<br>'미니 밀'이 생겼어요",
+      "src": "출처: Grocery Gazette(2026.01.02) · Just Food(2026.01.08)",
+      "stat": {
+        "cap": "Grocery Gazette(2026.01.02)",
+        "label": "미니 밀 한 팩",
+        "value": "250g"
+      },
+      "store": "영국 · 코옵",
+      "tags": [
+        "05 / 05",
+        "해외 · 영국"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "%, 오픈서베이 2026.09 · 20~59세 1,500명",
+        "max": 60,
+        "rows": [
+          [
+            "이용 · 단백질 음료",
+            47.5,
+            "#FFD43B"
+          ],
+          [
+            "비이용 · 단백질 음료",
+            29.1,
+            "#FFB199"
+          ],
+          [
+            "이용 · 섭취량 기록",
+            29.5,
+            "#A8EFD2"
+          ],
+          [
+            "비이용 · 섭취량 기록",
+            6.8,
+            "#D9CCFF"
+          ]
+        ],
+        "title": "GLP-1 이용자 vs 비이용자"
+      },
+      "bg": "#2B2140",
+      "cta": "적게 먹는 날, 어떤 메뉴를 찾으세요?",
+      "kind": "insight",
+      "points": [
+        "양은 작게, 단백질 숫자는 크게",
+        "미국·영국 외식·유통이 먼저 움직여요",
+        "국산 GLP-1 비만약도 10월 허가됐어요"
+      ],
+      "src": "출처: 오픈서베이(2026.10.12) · 한국경제(2026.10.08)",
+      "tags": [
+        "관찰 노트",
+        "VOL.12"
+      ],
+      "title": "적게 먹는 손님이<br><em>메뉴판</em>을 바꿔요"
+    }
+  ]
+}
