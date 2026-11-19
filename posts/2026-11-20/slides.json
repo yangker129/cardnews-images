@@ -1,0 +1,251 @@
+{
+  "issue": "VOL.13 · 2026.11.20",
+  "reel_outro": "여러분 회사라면 뭘 바꿀까요?",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "basket",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"translate(25 30) scale(0.42)\"><rect x=\"40\" y=\"110\" width=\"320\" height=\"220\" rx=\"36\" fill=\"#CED4DA\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M80 210 q50 -80 100 0z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"6\"/><ellipse cx=\"271\" cy=\"180\" rx=\"48\" ry=\"28\" fill=\"#F08C2E\" stroke=\"#16131A\" stroke-width=\"6\"/><g fill=\"#40C057\" stroke=\"#16131A\" stroke-width=\"5\"><circle cx=\"110\" cy=\"272\" r=\"16\"/><circle cx=\"150\" cy=\"272\" r=\"16\"/></g><rect x=\"240\" y=\"252\" width=\"40\" height=\"40\" rx=\"8\" fill=\"#E8590C\" stroke=\"#16131A\" stroke-width=\"5\"/></g><g transform=\"translate(195 30) scale(0.42)\"><path d=\"M150 120 l-30 -70 M250 120 l30 -70\" stroke=\"#E64980\" stroke-width=\"10\"/><path d=\"M110 70 l40 60\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"230\" y=\"40\" width=\"56\" height=\"90\" rx=\"10\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"230\" y=\"70\" width=\"56\" height=\"30\" fill=\"#7A3E1D\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M110 130 q-20 -90 30 -100\" fill=\"none\" stroke=\"#40C057\" stroke-width=\"16\"/><path d=\"M110 130 q-20 -90 30 -100\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"4\"/><circle cx=\"180\" cy=\"110\" r=\"34\" fill=\"#FA5252\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M180 78 q8 -18 22 -20\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M50 130 h300 l-30 190 h-240z\" fill=\"#4DABF7\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 170 l12 110 M170 170 l4 110 M230 170 l-4 110 M290 170 l-12 110\" stroke=\"#16131A\" stroke-width=\"6\"/><rect x=\"40\" y=\"120\" width=\"320\" height=\"34\" rx=\"14\" fill=\"#1C7ED6\" stroke=\"#16131A\" stroke-width=\"8\"/></g><g transform=\"translate(15 185) scale(0.42)\"><g transform=\"rotate(-10 200 210)\"><rect x=\"70\" y=\"120\" width=\"220\" height=\"190\" rx=\"18\" fill=\"#7A3E1D\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M143 120 v190 M216 120 v190 M70 183 h220 M70 246 h220\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M90 140 h30 M163 140 h30\" stroke=\"#A0613A\" stroke-width=\"8\"/></g><path d=\"M300 80 q20 -40 50 -30\" fill=\"none\" stroke=\"#2F9E44\" stroke-width=\"10\"/><path d=\"M318 70 q30 -10 40 10 q-25 15 -40 -10z\" fill=\"#51CF66\" stroke=\"#16131A\" stroke-width=\"6\"/><g fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"7\"><circle cx=\"300\" cy=\"130\" r=\"30\"/><circle cx=\"340\" cy=\"170\" r=\"26\"/><circle cx=\"296\" cy=\"190\" r=\"24\"/></g><g fill=\"#FFF\" opacity=\".7\"><circle cx=\"290\" cy=\"120\" r=\"7\"/><circle cx=\"332\" cy=\"160\" r=\"6\"/></g></g><g transform=\"translate(205 180) scale(0.42)\"><ellipse cx=\"200\" cy=\"230\" rx=\"175\" ry=\"95\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"225\" rx=\"140\" ry=\"70\" fill=\"#F8F9FA\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M80 225 q10 -60 110 -65 q-30 60 0 130 q-100 -5 -110 -65z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M190 160 q140 0 150 65 q-10 65 -150 70 q-30 -70 0 -135z\" fill=\"#E8890C\" stroke=\"#16131A\" stroke-width=\"6\"/><g fill=\"#FF922B\" stroke=\"#16131A\" stroke-width=\"5\"><rect x=\"230\" y=\"190\" width=\"30\" height=\"24\" rx=\"6\" transform=\"rotate(15 245 202)\"/><rect x=\"270\" y=\"235\" width=\"28\" height=\"22\" rx=\"6\"/></g><g fill=\"#FFE8A3\" stroke=\"#16131A\" stroke-width=\"5\"><rect x=\"280\" y=\"190\" width=\"30\" height=\"26\" rx=\"8\"/><rect x=\"225\" y=\"245\" width=\"30\" height=\"26\" rx=\"8\"/></g><path d=\"M110 60 l80 120\" stroke=\"#ADB5BD\" stroke-width=\"14\"/><path d=\"M110 60 l80 120\" stroke=\"#16131A\" stroke-width=\"3\"/><ellipse cx=\"100\" cy=\"48\" rx=\"22\" ry=\"32\" transform=\"rotate(-34 100 48)\" fill=\"#DEE2E6\" stroke=\"#16131A\" stroke-width=\"8\"/></g><g transform=\"translate(110 95) scale(0.48)\"><ellipse cx=\"200\" cy=\"290\" rx=\"170\" ry=\"40\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M70 270 q0 -150 130 -150 q130 0 130 150z\" fill=\"#C2701E\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M120 200 q40 -50 90 -40\" fill=\"none\" stroke=\"#E8A35A\" stroke-width=\"12\"/><path d=\"M80 230 q-50 -20 -40 -70\" fill=\"none\" stroke=\"#C2701E\" stroke-width=\"30\"/><path d=\"M80 230 q-50 -20 -40 -70\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"4\" opacity=\".4\"/><path d=\"M320 230 q50 -20 40 -70\" fill=\"none\" stroke=\"#C2701E\" stroke-width=\"30\"/><g fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"6\"><circle cx=\"36\" cy=\"150\" r=\"12\"/><circle cx=\"52\" cy=\"142\" r=\"12\"/><circle cx=\"364\" cy=\"150\" r=\"12\"/><circle cx=\"348\" cy=\"142\" r=\"12\"/></g><g fill=\"#51CF66\" stroke=\"#16131A\" stroke-width=\"5\"><circle cx=\"100\" cy=\"285\" r=\"14\"/><circle cx=\"300\" cy=\"285\" r=\"14\"/></g><g fill=\"#FA5252\" stroke=\"#16131A\" stroke-width=\"5\"><circle cx=\"130\" cy=\"292\" r=\"10\"/><circle cx=\"270\" cy=\"292\" r=\"10\"/></g></g></g>",
+      "kicker": "11월 3주 · F&B 산업 레이더",
+      "kind": "cover",
+      "list": [
+        "풀무원 美 첫 해외 급식",
+        "스타필드마켓 월계점",
+        "아미리스, 우블리 인수",
+        "코코이찌방야 매각전",
+        "美 칠면조 도매가 +29%"
+      ],
+      "sub": "급식·매장·감미료·인수·원가, 판이 움직여요",
+      "tags": [
+        "VOL.13",
+        "11.20"
+      ],
+      "title": "<em>파는 것</em>보다<br><em>버는 법</em>이 바뀌어요"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "애리조나 LG엔솔 사업장 식당",
+        "올해 美·英·中 법인 3곳 설립",
+        "美 두부 11년 연속 점유율 1위"
+      ],
+      "clip": {
+        "date": "26.11.19",
+        "outlet": "청년일보",
+        "text": "美 급식·英 유통으로 해외를 넓힌대요",
+        "type": "기사"
+      },
+      "date": "11.19 보도",
+      "illus": "basket",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><rect x=\"40\" y=\"110\" width=\"320\" height=\"220\" rx=\"36\" fill=\"#CED4DA\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"64\" y=\"134\" width=\"130\" height=\"90\" rx=\"20\" fill=\"#F1F3F5\" stroke=\"#16131A\" stroke-width=\"6\"/><rect x=\"206\" y=\"134\" width=\"130\" height=\"90\" rx=\"20\" fill=\"#F1F3F5\" stroke=\"#16131A\" stroke-width=\"6\"/><rect x=\"64\" y=\"236\" width=\"130\" height=\"74\" rx=\"20\" fill=\"#F1F3F5\" stroke=\"#16131A\" stroke-width=\"6\"/><rect x=\"206\" y=\"236\" width=\"130\" height=\"74\" rx=\"20\" fill=\"#F1F3F5\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M80 200 q50 -70 100 0z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"6\"/><rect x=\"90\" y=\"150\" width=\"34\" height=\"26\" rx=\"6\" fill=\"#FFF8DB\" stroke=\"#16131A\" stroke-width=\"5\"/><rect x=\"132\" y=\"150\" width=\"34\" height=\"26\" rx=\"6\" fill=\"#FFF8DB\" stroke=\"#16131A\" stroke-width=\"5\"/><ellipse cx=\"271\" cy=\"180\" rx=\"48\" ry=\"28\" fill=\"#F08C2E\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M248 176 h12 M276 186 h14\" stroke=\"#FFF3BF\" stroke-width=\"8\"/><g fill=\"#40C057\" stroke=\"#16131A\" stroke-width=\"5\"><circle cx=\"100\" cy=\"272\" r=\"14\"/><circle cx=\"128\" cy=\"262\" r=\"14\"/><circle cx=\"156\" cy=\"276\" r=\"14\"/></g><g fill=\"#E8590C\" stroke=\"#16131A\" stroke-width=\"5\"><rect x=\"230\" y=\"256\" width=\"32\" height=\"32\" rx=\"8\"/><rect x=\"276\" y=\"262\" width=\"32\" height=\"32\" rx=\"8\"/></g><path transform=\"translate(345 80)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "미국 첫 해외 위탁급식 운영",
+      "note": "식품을 만들어 팔던 회사가 해외에서 직접 밥을 차리는 사업까지 넓혔어요. 다만 해외 부문은 매출이 늘면서 적자 폭도 커져 수익성이 숙제예요.",
+      "q": "두부 팔던 회사가<br>미국 공장 식당을 맡아요",
+      "src": "출처: 청년일보(2026.11.19)",
+      "stat": {
+        "cap": "1~9월 5,799억 원 · 전년 대비",
+        "label": "해외식품 매출",
+        "value": "+18.7%"
+      },
+      "store": "풀무원",
+      "tags": [
+        "01 / 05",
+        "국내 · 해외 진출"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "휴식·문화 공간 595㎡ 만들어",
+        "구매객 수 18% 늘었어요",
+        "축산 +34% · 델리 +27%"
+      ],
+      "clip": {
+        "date": "26.11.18",
+        "outlet": "이투데이",
+        "text": "리뉴얼 80일 만에 구매객이 18% 늘었대요",
+        "type": "기사"
+      },
+      "date": "11.17 발표",
+      "illus": "basket",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M150 120 l-30 -70 M250 120 l30 -70\" stroke=\"#E64980\" stroke-width=\"10\"/><path d=\"M110 70 l40 60\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"230\" y=\"40\" width=\"56\" height=\"90\" rx=\"10\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"230\" y=\"70\" width=\"56\" height=\"30\" fill=\"#7A3E1D\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M110 130 q-20 -90 30 -100\" fill=\"none\" stroke=\"#40C057\" stroke-width=\"16\"/><path d=\"M110 130 q-20 -90 30 -100\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"4\"/><circle cx=\"180\" cy=\"110\" r=\"34\" fill=\"#FA5252\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M180 78 q8 -18 22 -20\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M50 130 h300 l-30 190 h-240z\" fill=\"#4DABF7\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 170 l12 110 M170 170 l4 110 M230 170 l-4 110 M290 170 l-12 110\" stroke=\"#16131A\" stroke-width=\"6\"/><rect x=\"40\" y=\"120\" width=\"320\" height=\"34\" rx=\"14\" fill=\"#1C7ED6\" stroke=\"#16131A\" stroke-width=\"8\"/><path transform=\"translate(355 90)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "월계점 리뉴얼 80일 성적표",
+      "note": "매대를 덜어 내고 머무는 공간을 넣었더니 장보기 손님도 함께 늘었어요. 온라인이 못 주는 '머무는 시간'을 파는 방식이에요.",
+      "q": "180평 비운 마트,<br>F&B 매출 +32%",
+      "src": "출처: 이투데이(2026.11.18) · 이마트 발표",
+      "stat": {
+        "cap": "8.27~11.12 · 전년 대비 · 이상",
+        "label": "F&B·입점 매장 매출",
+        "value": "+32%"
+      },
+      "store": "이마트 · 스타필드마켓",
+      "tags": [
+        "02 / 05",
+        "국내 · 유통 채널"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "서아프리카 열매의 단맛 단백질",
+        "정밀발효로 만들어요",
+        "인수 금액은 비공개"
+      ],
+      "clip": {
+        "date": "26.11.16",
+        "outlet": "Food Dive",
+        "text": "인수로 우블리 사업 규모를 키운대요",
+        "type": "기사"
+      },
+      "date": "11.12 보도",
+      "illus": "cheese",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"rotate(-10 200 210)\"><rect x=\"70\" y=\"120\" width=\"220\" height=\"190\" rx=\"18\" fill=\"#7A3E1D\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M143 120 v190 M216 120 v190 M70 183 h220 M70 246 h220\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M90 140 h30 M163 140 h30\" stroke=\"#A0613A\" stroke-width=\"8\"/></g><path d=\"M300 80 q20 -40 50 -30\" fill=\"none\" stroke=\"#2F9E44\" stroke-width=\"10\"/><path d=\"M318 70 q30 -10 40 10 q-25 15 -40 -10z\" fill=\"#51CF66\" stroke=\"#16131A\" stroke-width=\"6\"/><g fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"7\"><circle cx=\"300\" cy=\"130\" r=\"30\"/><circle cx=\"340\" cy=\"170\" r=\"26\"/><circle cx=\"296\" cy=\"190\" r=\"24\"/></g><g fill=\"#FFF\" opacity=\".7\"><circle cx=\"290\" cy=\"120\" r=\"7\"/><circle cx=\"332\" cy=\"160\" r=\"6\"/></g><path transform=\"translate(70 80)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: Oobli",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.fooddive.com/news/oobli-acquired-amyris-sweet-proteins-sugar-clean-label/874765/",
+      "img_url": "https://imgproxy.divecdn.com/3eSGBTtGo9ltBOn5WwMMd8FZYjGPHrDagGFy8BGHEZw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaWxlT1dyYXBwZWRCYXJzXzAzMTktSEVSTy5qcGc=.webp",
+      "img_zoom": 1.2,
+      "kind": "product",
+      "name": "단백질 감미료 '우블리' 인수",
+      "note": "설탕 줄이기 수요를 겨냥해, 발효로 원료를 만드는 바이오 회사가 감미료 기술을 직접 샀어요. 음료·초콜릿·베이커리 회사가 주요 고객이에요.",
+      "q": "설탕 빼는 기술에<br>바이오 회사가 돈 걸었어요",
+      "src": "출처: AgFunderNews(2026.11.12) · Food Dive(2026.11.16)",
+      "stat": {
+        "cap": "수백~수천 배 · 아미리스 설명",
+        "label": "설탕 대비 단맛",
+        "value": "수천 배"
+      },
+      "store": "미국 · 아미리스",
+      "tags": [
+        "03 / 05",
+        "미국 · 푸드테크"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "모회사 하우스식품 지분 약 51%",
+        "한국 40곳 등 해외 218곳",
+        "11월 말 최종 합의 가능성"
+      ],
+      "clip": {
+        "date": "26.11.19",
+        "outlet": "Inside Retail Asia",
+        "text": "KKR이 우선협상자로 앞섰대요",
+        "type": "기사"
+      },
+      "date": "11.19 보도",
+      "illus": "burger",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><ellipse cx=\"200\" cy=\"230\" rx=\"175\" ry=\"95\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"225\" rx=\"140\" ry=\"70\" fill=\"#F8F9FA\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M80 225 q10 -60 110 -65 q-30 60 0 130 q-100 -5 -110 -65z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M190 160 q140 0 150 65 q-10 65 -150 70 q-30 -70 0 -135z\" fill=\"#E8890C\" stroke=\"#16131A\" stroke-width=\"6\"/><g fill=\"#FF922B\" stroke=\"#16131A\" stroke-width=\"5\"><rect x=\"230\" y=\"190\" width=\"30\" height=\"24\" rx=\"6\" transform=\"rotate(15 245 202)\"/><rect x=\"270\" y=\"235\" width=\"28\" height=\"22\" rx=\"6\"/></g><g fill=\"#FFE8A3\" stroke=\"#16131A\" stroke-width=\"5\"><rect x=\"280\" y=\"190\" width=\"30\" height=\"26\" rx=\"8\"/><rect x=\"225\" y=\"245\" width=\"30\" height=\"26\" rx=\"8\"/></g><path d=\"M110 60 l80 120\" stroke=\"#ADB5BD\" stroke-width=\"14\"/><path d=\"M110 60 l80 120\" stroke=\"#16131A\" stroke-width=\"3\"/><ellipse cx=\"100\" cy=\"48\" rx=\"22\" ry=\"32\" transform=\"rotate(-34 100 48)\" fill=\"#DEE2E6\" stroke=\"#16131A\" stroke-width=\"8\"/><path transform=\"translate(345 90)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 코코이찌방야",
+      "img_pos": "50% 50%",
+      "img_referer": "https://insideretail.asia/2026/11/19/kkr-reportedly-leads-bid-for-japans-coco-ichibanya-owner/",
+      "img_url": "https://insideretail.asia/wp-content/uploads/2026/11/Coco-Ichibanya.jpg",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "카레 체인 매각, KKR 우선협상",
+      "note": "식품 대기업이 외식 체인을 떼어 내고, 글로벌 사모펀드가 해외 확장 여지를 보고 들어오는 구도예요. 아직 양측이 확정 발표한 거래는 아니에요.",
+      "q": "카레 체인 1,503곳에<br>미국 사모펀드가 1순위",
+      "src": "출처: Inside Retail Asia(2026.11.19) · Lapaas Voice(2026.11.17)",
+      "stat": {
+        "cap": "2026.02 기준 · 회사 자료",
+        "label": "전 세계 매장",
+        "value": "1,503곳"
+      },
+      "store": "일본 · 코코이찌방야",
+      "tags": [
+        "04 / 05",
+        "일본 · 외식 M&A"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "10인 상차림 $58.63(약 7.8만 원)",
+        "2022년 이후 첫 상승",
+        "알디는 10인분 $39 세트"
+      ],
+      "clip": {
+        "date": "26.11.19",
+        "outlet": "AP",
+        "text": "10인 상차림 비용이 6% 올랐대요",
+        "type": "기사"
+      },
+      "date": "11.19 발표",
+      "illus": "burger",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><ellipse cx=\"200\" cy=\"290\" rx=\"170\" ry=\"40\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M70 270 q0 -150 130 -150 q130 0 130 150z\" fill=\"#C2701E\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M120 200 q40 -50 90 -40\" fill=\"none\" stroke=\"#E8A35A\" stroke-width=\"12\"/><path d=\"M80 230 q-50 -20 -40 -70\" fill=\"none\" stroke=\"#C2701E\" stroke-width=\"30\"/><path d=\"M80 230 q-50 -20 -40 -70\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"4\" opacity=\".4\"/><path d=\"M320 230 q50 -20 40 -70\" fill=\"none\" stroke=\"#C2701E\" stroke-width=\"30\"/><g fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"6\"><circle cx=\"36\" cy=\"150\" r=\"12\"/><circle cx=\"52\" cy=\"142\" r=\"12\"/><circle cx=\"364\" cy=\"150\" r=\"12\"/><circle cx=\"348\" cy=\"142\" r=\"12\"/></g><g fill=\"#51CF66\" stroke=\"#16131A\" stroke-width=\"5\"><circle cx=\"100\" cy=\"285\" r=\"14\"/><circle cx=\"300\" cy=\"285\" r=\"14\"/></g><g fill=\"#FA5252\" stroke=\"#16131A\" stroke-width=\"5\"><circle cx=\"130\" cy=\"292\" r=\"10\"/><circle cx=\"270\" cy=\"292\" r=\"10\"/></g><path transform=\"translate(345 70)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "추수감사절 상차림 6% 올라",
+      "note": "칠면조 생산은 6% 늘었는데도 도매가는 사상 최고 수준이에요. 마트들은 값을 묶은 상차림 세트로 손님을 붙잡고 있어요.",
+      "q": "추수감사절 칠면조<br>도매값이 29% 뛰었어요",
+      "src": "출처: AP·ABC7 · Food Institute(2026.11.19)",
+      "stat": {
+        "cap": "$1.76/lb(약 2,350원) · USDA",
+        "label": "칠면조 도매가",
+        "value": "+29%"
+      },
+      "store": "미국 · 칠면조 시장",
+      "tags": [
+        "05 / 05",
+        "미국 · 원재료 가격"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "%, 전년 대비 · 각 기사·발표",
+        "max": 40,
+        "prefix": "+",
+        "rows": [
+          [
+            "월계점 F&B·입점 매출",
+            32,
+            "#A8EFD2"
+          ],
+          [
+            "美 칠면조 도매가",
+            29,
+            "#B9DCFF"
+          ],
+          [
+            "풀무원 해외식품 매출",
+            18.7,
+            "#FFB199"
+          ],
+          [
+            "월계점 구매객 수",
+            18,
+            "#FFF0B8"
+          ]
+        ],
+        "title": "이번 회차 숫자"
+      },
+      "bg": "#2B2140",
+      "cta": "여러분 회사라면 어떤 판부터 바꿀까요?",
+      "kind": "insight",
+      "points": [
+        "급식·공간으로 파는 방식을 넓혀요",
+        "기술·체인은 인수로 손에 넣어요",
+        "원가가 뛰면 알뜰 세트로 버텨요"
+      ],
+      "src": "출처: 이투데이(2026.11.18) · AP·청년일보(2026.11.19)",
+      "tags": [
+        "관찰 노트",
+        "VOL.13"
+      ],
+      "title": "제품보다<br><em>돈 버는 구조</em>를 바꿔요"
+    }
+  ]
+}
