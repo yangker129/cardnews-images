@@ -1,0 +1,253 @@
+{
+  "issue": "VOL.14 · 2026.11.23",
+  "reel_outro": "우리 회사 한정판, 뭘로 할까요?",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "basket",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"translate(10 10) scale(0.45)\"><path d=\"M120 170 l-10 -110 l28 -4 l14 114z M160 170 l0 -125 l28 0 l0 125z M205 170 l10 -118 l28 4 l-12 114z M245 172 l26 -100 l26 8 l-24 96z\" fill=\"#FFC94A\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M95 165 h220 l-25 170 h-170z\" fill=\"#F4A340\" stroke=\"#16131A\" stroke-width=\"8\"/></g><g transform=\"translate(210 10) scale(0.45)\"><path d=\"M120 150 h160 l-22 190 h-116z\" fill=\"#5C3A21\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M130 200 q35 20 70 0 q35 -20 70 0\" fill=\"none\" stroke=\"#8B5A2B\" stroke-width=\"8\"/><path d=\"M110 150 q-5 -45 45 -45 q10 -40 50 -35 q45 -5 50 35 q50 0 45 45z\" fill=\"#FFF8EE\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"200\" cy=\"72\" r=\"26\" fill=\"#C98A3E\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M184 66 l10 6 M206 62 l6 10\" stroke=\"#16131A\" stroke-width=\"5\"/><g fill=\"#D9A066\"><circle cx=\"150\" cy=\"122\" r=\"8\"/><circle cx=\"250\" cy=\"125\" r=\"8\"/><circle cx=\"215\" cy=\"110\" r=\"6\"/></g></g><g transform=\"translate(10 190) scale(0.45)\"><path d=\"M60 190 h280 q-10 130 -140 140 q-130 -10 -140 -140z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"190\" rx=\"140\" ry=\"26\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 192 q30 -24 60 0 q30 24 60 0 q30 -24 60 0\" fill=\"none\" stroke=\"#FFD8A8\" stroke-width=\"16\"/><path d=\"M245 40 l-55 150 M285 50 l-65 140\" stroke=\"#C9935B\" stroke-width=\"12\"/><circle cx=\"140\" cy=\"180\" r=\"14\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"140\" cy=\"180\" r=\"6\" fill=\"#FFC94A\"/></g><g transform=\"translate(210 190) scale(0.45)\"><path d=\"M140 70 h120 q10 110 -60 130 q-70 -20 -60 -130z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M144 120 h112 q-6 70 -56 80 q-50 -10 -56 -80z\" fill=\"#A61E4D\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M200 200 v110\" stroke=\"#16131A\" stroke-width=\"10\"/><path d=\"M150 320 h100\" stroke=\"#16131A\" stroke-width=\"12\"/><path d=\"M290 140 q40 -60 80 -40 q-20 60 -80 40z\" fill=\"#69DB7C\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M290 140 q30 -25 70 -38\" fill=\"none\" stroke=\"#2F9E44\" stroke-width=\"6\"/><g fill=\"#7048E8\" stroke=\"#16131A\" stroke-width=\"6\"><circle cx=\"85\" cy=\"230\" r=\"18\"/><circle cx=\"115\" cy=\"230\" r=\"18\"/><circle cx=\"100\" cy=\"258\" r=\"18\"/></g></g><g transform=\"translate(115 110) scale(0.42)\"><path d=\"M80 170 q120 -130 240 0z\" fill=\"#F4B860\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M70 195 h260\" stroke=\"#8BC34A\" stroke-width=\"26\"/><path d=\"M75 215 h250 q10 25 -10 30 h-230 q-20 -5 -10 -30z\" fill=\"#8A4B22\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M70 205 l260 0 l-30 18 l-30 -14 l-30 14 l-30 -14 l-30 14 l-30 -14 l-30 14 l-30 -14z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M80 260 h240 q0 50 -40 55 h-160 q-40 -5 -40 -55z\" fill=\"#F4B860\" stroke=\"#16131A\" stroke-width=\"8\"/></g><path transform=\"translate(360 95)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kicker": "11월 4주 · F&B 신상 노트",
+      "kind": "cover",
+      "list": [
+        "맥도날드 홈 얼론 밀",
+        "버거킹 피너츠 팩",
+        "쉐이크쉑×페레로 로쉐",
+        "팔도비빔면 윈터에디션",
+        "마주앙 간송 에디션"
+      ],
+      "sub": "영화 굿즈·한정 수량으로 겨울 손님을 불러요",
+      "tags": [
+        "VOL.14",
+        "11.23"
+      ],
+      "title": "맛보다 먼저<br><em>추억</em>·<em>한정</em> 팔아요"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "피자맛 셰이커 감자튀김",
+        "양말 4종 중 1켤레 증정",
+        "12.1부터 미국 전역 한정"
+      ],
+      "clip": {
+        "date": "26.11.17",
+        "outlet": "맥도날드 뉴스룸",
+        "text": "12월 1일부터 재고 소진 때까지 판대요",
+        "type": "공식 발표"
+      },
+      "date": "11.17 발표",
+      "illus": "burger",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M120 170 l-10 -110 l28 -4 l14 114z M160 170 l0 -125 l28 0 l0 125z M205 170 l10 -118 l28 4 l-12 114z M245 172 l26 -100 l26 8 l-24 96z\" fill=\"#FFC94A\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M95 165 h220 l-25 170 h-170z\" fill=\"#F4A340\" stroke=\"#16131A\" stroke-width=\"8\"/><g transform=\"translate(60 70) scale(0.75)\"><path d=\"M230 330 l130 -40 q-20 -110 -120 -150z\" fill=\"#FFD27A\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M240 140 q100 40 120 150 l-18 6 q-20 -100 -108 -138z\" fill=\"#D9822B\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"275\" cy=\"235\" r=\"14\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"300\" cy=\"285\" r=\"12\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"8\"/></g><path transform=\"translate(330 70)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 맥도날드",
+      "img_pos": "50% 50%",
+      "img_referer": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcdonalds-home-alone-meal.html",
+      "img_url": "https://s7d1.scene7.com/is/image/mcdonalds/HomeAloneHero:hero-desktop?resmode=sharp2",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "'나 홀로 집에' 홈 얼론 밀",
+      "note": "작년 그린치 밀의 양말 증정이 통하자, 올해는 영화 '나 홀로 집에'로 이어가요. 맥컬리 컬킨이 광고에서 다시 케빈이 됐어요.",
+      "q": "햄버거 세트를 사면<br>양말이 따라와요",
+      "src": "출처: 맥도날드 뉴스룸(2026.11.17) · eMarketer",
+      "stat": {
+        "cap": "출시 주 전년 대비 · Placer.ai",
+        "label": "작년 그린치 밀 방문",
+        "value": "+14.1%"
+      },
+      "store": "미국 · 맥도날드",
+      "tags": [
+        "01 / 05",
+        "미국 · 외식"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "와퍼·너겟에 스누피 파이",
+        "어른 팩엔 스누피 비니",
+        "아이 밀엔 장난감 8종"
+      ],
+      "clip": {
+        "date": "26.11.19",
+        "outlet": "Parade",
+        "text": "어른·아이 세트 모두 스누피 상자래요",
+        "type": "기사"
+      },
+      "date": "11.19 공개",
+      "illus": "burger",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"translate(0 -20) scale(0.8)\"><path d=\"M80 170 q120 -130 240 0z\" fill=\"#F4B860\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M70 195 h260\" stroke=\"#8BC34A\" stroke-width=\"26\"/><path d=\"M75 215 h250 q10 25 -10 30 h-230 q-20 -5 -10 -30z\" fill=\"#8A4B22\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M70 205 l260 0 l-30 18 l-30 -14 l-30 14 l-30 -14 l-30 14 l-30 -14 l-30 14 l-30 -14z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M80 260 h240 q0 50 -40 55 h-160 q-40 -5 -40 -55z\" fill=\"#F4B860\" stroke=\"#16131A\" stroke-width=\"8\"/></g><g transform=\"translate(80 110) scale(0.7)\"><path d=\"M150 330 l200 -40 l-40 -90 l-160 40z\" fill=\"#3B2A22\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M150 240 l160 -40 l-10 -30 l-150 35z\" fill=\"#F8F0E3\" stroke=\"#16131A\" stroke-width=\"8\"/><g fill=\"#E03131\"><circle cx=\"200\" cy=\"215\" r=\"5\"/><circle cx=\"250\" cy=\"205\" r=\"5\"/></g><g fill=\"#2F9E44\"><circle cx=\"225\" cy=\"212\" r=\"5\"/><circle cx=\"280\" cy=\"198\" r=\"5\"/></g></g><path transform=\"translate(340 70)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "피너츠 팩·킹주니어 밀",
+      "note": "협업 후보 10개쯤을 두고 다섯 살부터 아흔다섯 살까지 통할 피너츠를 골랐대요. 12월 1일부터 한정 판매예요.",
+      "q": "어른 세트 상자가<br>스누피 개집이 됐어요",
+      "src": "출처: Parade(2026.11.19) · QSR · eMarketer",
+      "stat": {
+        "cap": "출시 주 전년 대비 · Placer.ai",
+        "label": "작년 스펀지밥 메뉴 방문",
+        "value": "+18.3%"
+      },
+      "store": "미국 · 버거킹",
+      "tags": [
+        "02 / 05",
+        "미국 · 외식"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "깨 먹는 다크초콜릿 껍질",
+        "페레로 로쉐와 첫 협업",
+        "바닐라 커스터드·헤이즐넛"
+      ],
+      "clip": {
+        "date": "26.11.17",
+        "outlet": "NRN",
+        "text": "초콜릿 브랜드와 손잡은 연말 셰이크래요",
+        "type": "기사"
+      },
+      "date": "11.17 출시",
+      "illus": "icecream",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M120 150 h160 l-22 190 h-116z\" fill=\"#5C3A21\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M130 200 q35 20 70 0 q35 -20 70 0\" fill=\"none\" stroke=\"#8B5A2B\" stroke-width=\"8\"/><path d=\"M110 150 q-5 -45 45 -45 q10 -40 50 -35 q45 -5 50 35 q50 0 45 45z\" fill=\"#FFF8EE\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"200\" cy=\"72\" r=\"26\" fill=\"#C98A3E\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M184 66 l10 6 M206 62 l6 10\" stroke=\"#16131A\" stroke-width=\"5\"/><g fill=\"#D9A066\"><circle cx=\"150\" cy=\"122\" r=\"8\"/><circle cx=\"250\" cy=\"125\" r=\"8\"/><circle cx=\"215\" cy=\"110\" r=\"6\"/></g><path transform=\"translate(320 80)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 쉐이크쉑",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.nrn.com/fast-casual/shake-shack-partners-with-ferrero-rocher-chocolate-to-create-luxe-holiday-shake",
+      "img_url": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/blt1a32f09a7bf415f1/6afc81c2dbde741f2ada6a37/ShakeShack_HazelnutFudgeFerreroRocherShake_copy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "페레로 로쉐 셰이크",
+      "note": "셰이크를 다크초콜릿 껍질에 부어 숟가락으로 깨 먹게 했어요. 이름난 초콜릿 브랜드를 얹어 한 잔을 연말 선물처럼 팔아요.",
+      "price_label": "NRN 보도 기준",
+      "price_tag": "약 1.3만원",
+      "q": "밀크셰이크 한 잔이<br>초콜릿 선물이 됐어요",
+      "src": "출처: NRN · Sporked(2026.11.17)",
+      "stat": {
+        "cap": "NRN 보도 · 1달러=1,336.2원",
+        "label": "셰이크 한 잔 가격",
+        "value": "약 $10"
+      },
+      "store": "미국 · 쉐이크쉑",
+      "tags": [
+        "03 / 05",
+        "미국 · 디저트"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "계란탕 분말 스프 별첨",
+        "8번째 겨울 한정판",
+        "1984년 출시 · 누적 20억 개"
+      ],
+      "clip": {
+        "date": "26.11.19",
+        "outlet": "매일일보",
+        "text": "300만 개 한정, 계란탕 스프를 더했대요",
+        "type": "기사"
+      },
+      "date": "11.19 발표",
+      "illus": "basket",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"translate(-10 0) scale(0.9)\"><path d=\"M60 190 h280 q-10 130 -140 140 q-130 -10 -140 -140z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"200\" cy=\"190\" rx=\"140\" ry=\"26\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 192 q30 -24 60 0 q30 24 60 0 q30 -24 60 0\" fill=\"none\" stroke=\"#FFD8A8\" stroke-width=\"16\"/><path d=\"M245 40 l-55 150 M285 50 l-65 140\" stroke=\"#C9935B\" stroke-width=\"12\"/><circle cx=\"140\" cy=\"180\" r=\"14\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"140\" cy=\"180\" r=\"6\" fill=\"#FFC94A\"/></g><path d=\"M270 250 h100 l-12 80 h-76z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"320\" cy=\"250\" rx=\"50\" ry=\"12\" fill=\"#FFE08A\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M300 248 q10 -8 20 0 q10 8 20 0\" fill=\"none\" stroke=\"#F59F00\" stroke-width=\"6\"/><path d=\"M305 225 q-10 -15 0 -30 M335 225 q-10 -15 0 -30\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"6\" opacity=\".5\"/><path transform=\"translate(90 80)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 팔도",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.m-i.kr/news/articleView.html?idxno=2020611",
+      "img_url": "https://cdn.m-i.kr/news/photo/202611/2020611_2021332_1822.jpg",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "팔도비빔면 윈터에디션",
+      "note": "찬 면 옆에 따뜻한 국물을 붙여 여름 제품을 겨울에도 팔아요. 앞서 낸 시즌 에디션은 모두 완판됐대요(회사 설명).",
+      "q": "여름 비빔면이<br>겨울엔 계란탕과 와요",
+      "src": "출처: 매일일보 · 아시아경제(2026.11.19)",
+      "stat": {
+        "cap": "팔도 발표 · 2026.11.19",
+        "label": "한정 수량",
+        "value": "300만 개"
+      },
+      "store": "팔도",
+      "tags": [
+        "04 / 05",
+        "국내 · 라면"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "이정 '삼청첩' 대나무·난초",
+        "프랑스 화이트·레드 2종",
+        "백화점·와인숍에서 판매"
+      ],
+      "clip": {
+        "date": "26.11.20",
+        "outlet": "핀포인트뉴스",
+        "text": "23일부터 종류별 600병만 판대요",
+        "type": "기사"
+      },
+      "date": "11.23 판매",
+      "illus": "basket",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"350\" rx=\"160\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M140 70 h120 q10 110 -60 130 q-70 -20 -60 -130z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M144 120 h112 q-6 70 -56 80 q-50 -10 -56 -80z\" fill=\"#A61E4D\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M200 200 v110\" stroke=\"#16131A\" stroke-width=\"10\"/><path d=\"M150 320 h100\" stroke=\"#16131A\" stroke-width=\"12\"/><path d=\"M290 140 q40 -60 80 -40 q-20 60 -80 40z\" fill=\"#69DB7C\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M290 140 q30 -25 70 -38\" fill=\"none\" stroke=\"#2F9E44\" stroke-width=\"6\"/><g fill=\"#7048E8\" stroke=\"#16131A\" stroke-width=\"6\"><circle cx=\"85\" cy=\"230\" r=\"18\"/><circle cx=\"115\" cy=\"230\" r=\"18\"/><circle cx=\"100\" cy=\"258\" r=\"18\"/></g><path transform=\"translate(320 300)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: 롯데칠성음료",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.joongangenews.com/news/articleView.html?idxno=565324",
+      "img_url": "https://cdn.joongangenews.com/news/photo/202611/565324_373149_5843.jpg",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "마주앙 간송 레거시 에디션",
+      "note": "2022년부터 간송미술재단과 해마다 내는 다섯 번째 한정판이에요. 판매 수익 일부는 재단에 기부한대요.",
+      "q": "옛 그림 한 폭 담은 와인,<br>종류별 600병만 풀어요",
+      "src": "출처: 핀포인트뉴스 · 중앙이코노미뉴스(2026.11.20)",
+      "stat": {
+        "cap": "롯데칠성음료 발표 · 11.20",
+        "label": "종류별 한정 수량",
+        "value": "600병"
+      },
+      "store": "롯데칠성음료",
+      "tags": [
+        "05 / 05",
+        "국내 · 주류"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "%, 전년 대비 · Placer.ai(eMarketer)",
+        "max": 20,
+        "prefix": "+",
+        "rows": [
+          [
+            "버거킹 스펀지밥 메뉴",
+            18.3,
+            "#A8EFD2"
+          ],
+          [
+            "맥도날드 그린치 밀",
+            14.1,
+            "#FFB199"
+          ]
+        ],
+        "title": "작년 협업 메뉴, 출시 주 방문"
+      },
+      "bg": "#2B2140",
+      "cta": "여러분은 굿즈 때문에 산 메뉴가 있나요?",
+      "kind": "insight",
+      "points": [
+        "영화·만화 굿즈로 발길을 모아요",
+        "수량·기간을 묶어 '지금만' 팔아요",
+        "여름 면·와인도 겨울판으로 바꿔요"
+      ],
+      "src": "출처: eMarketer · Placer.ai · 각 사 발표",
+      "tags": [
+        "관찰 노트",
+        "VOL.14"
+      ],
+      "title": "'지금만'이<br><em>발길</em>을 불러와요"
+    }
+  ]
+}
