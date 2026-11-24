@@ -1,0 +1,252 @@
+{
+  "issue": "VOL.15 · 2026.11.25",
+  "reel_outro": "다음에 뜰 맛, 뭐라고 보세요?",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "basket",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='348' rx='165' ry='18' fill='#16131A' opacity='.18'/><g transform='translate(20 20) scale(0.48)'><path d='M70 300 q-10 -170 130 -175 q140 5 130 175z' fill='#FFF' stroke='#16131A' stroke-width='8'/><path d='M115 300 q0 -110 85 -112 q85 2 85 112z' fill='#B5D86A' stroke='#16131A' stroke-width='8'/><path d='M150 300 q0 -60 50 -62 q50 2 50 62z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><circle cx='180' cy='270' r='7' fill='#5E8C2A'/><circle cx='222' cy='285' r='6' fill='#5E8C2A'/><path d='M70 300 h260' stroke='#16131A' stroke-width='8'/><g transform='translate(320 110) rotate(-20) scale(0.8)'><path d='M-46 0 q0 -40 46 -40 q46 0 46 40 q0 40 -46 40 q-46 0 -46 -40z' fill='#E8D3A8' stroke='#16131A' stroke-width='8'/><path d='M-30 -4 q30 -26 60 0 q-30 30 -60 0z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><path d='M-14 -6 q14 -10 28 0' fill='none' stroke='#C5E17A' stroke-width='5'/></g><path transform='translate(90 110)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g><g transform='translate(200 20) scale(0.48)'><path d='M120 80 h160 l-18 245 q-62 14 -124 0z' fill='#FFF' stroke='#16131A' stroke-width='8'/><path d='M126 150 h148 l-8 90 q-66 18 -132 0z' fill='#B5D86A' stroke='#16131A' stroke-width='8'/><path d='M134 240 q66 18 132 0 l-6 82 q-60 14 -120 0z' fill='#7A4A2E' stroke='#16131A' stroke-width='8'/><path d='M150 180 q50 16 100 0' fill='none' stroke='#DDEFA9' stroke-width='7'/><path d='M262 120 h70 v36' fill='none' stroke='#FF6B6B' stroke-width='12'/><g transform='translate(330 270) rotate(25) scale(0.75)'><path d='M-46 0 q0 -40 46 -40 q46 0 46 40 q0 40 -46 40 q-46 0 -46 -40z' fill='#E8D3A8' stroke='#16131A' stroke-width='8'/><path d='M-30 -4 q30 -26 60 0 q-30 30 -60 0z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><path d='M-14 -6 q14 -10 28 0' fill='none' stroke='#C5E17A' stroke-width='5'/></g><path transform='translate(90 110)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g><g transform='translate(10 180) scale(0.48)'><g transform='rotate(-10 200 220)'><rect x='60' y='150' width='280' height='150' rx='22' fill='#6B3E26' stroke='#16131A' stroke-width='8'/><path d='M60 225 h280' stroke='#16131A' stroke-width='8'/><rect x='60' y='205' width='280' height='40' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><g fill='#3E2416'><circle cx='110' cy='180' r='8'/><circle cx='200' cy='175' r='8'/><circle cx='290' cy='180' r='8'/><circle cx='150' cy='275' r='8'/><circle cx='250' cy='272' r='8'/></g><g fill='#E8D3A8'><circle cx='105' cy='225' r='6'/><circle cx='170' cy='222' r='5'/><circle cx='240' cy='226' r='6'/><circle cx='300' cy='222' r='5'/></g></g><g transform='translate(310 95) rotate(15) scale(0.8)'><path d='M-46 0 q0 -40 46 -40 q46 0 46 40 q0 40 -46 40 q-46 0 -46 -40z' fill='#E8D3A8' stroke='#16131A' stroke-width='8'/><path d='M-30 -4 q30 -26 60 0 q-30 30 -60 0z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><path d='M-14 -6 q14 -10 28 0' fill='none' stroke='#C5E17A' stroke-width='5'/></g><path transform='translate(80 100)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g><g transform='translate(205 175) scale(0.48)'><path d='M200 50 l80 110 h-30 l70 100 h-40 l60 80 h-280 l60 -80 h-40 l70 -100 h-30z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><path d='M150 200 q50 20 100 0 M130 290 q70 24 140 0' fill='none' stroke='#FFF' stroke-width='10'/><g fill='#FF6B6B' stroke='#16131A' stroke-width='6'><circle cx='175' cy='150' r='10'/><circle cx='240' cy='240' r='10'/><circle cx='150' cy='315' r='10'/><circle cx='260' cy='320' r='10'/></g><rect x='180' y='340' width='40' height='0' stroke='#16131A' stroke-width='8'/><path transform='translate(200 50) scale(1.2)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='7'/></g></g>",
+      "kicker": "11월 4주 · 트렌드 키워드",
+      "kind": "cover",
+      "list": [
+        "피스타치오 찹쌀떡",
+        "미국 타셰 초코 우유",
+        "롯데웰푸드 6종",
+        "미국 원더풀 두바이맛",
+        "일본 툴리스 트리"
+      ],
+      "sub": "찹쌀떡·우유·과자·트리까지 초록 맛이 번져요",
+      "tags": [
+        "VOL.15",
+        "11.25"
+      ],
+      "title": "<em>두쫀쿠</em> 다음은<br><em>피스타치오</em> 차례"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "요거트 찹쌀떡 후속작",
+        "피스타치오 함량 6.87%",
+        "전작은 누적 70만 개"
+      ],
+      "clip": {
+        "date": "26.10.16",
+        "outlet": "이코노미스트",
+        "text": "하루 매출 3억3천만 원을 넘겼대요",
+        "type": "기사"
+      },
+      "date": "10.15 출시",
+      "illus": "cheese",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='348' rx='165' ry='18' fill='#16131A' opacity='.18'/><path d='M70 300 q-10 -170 130 -175 q140 5 130 175z' fill='#FFF' stroke='#16131A' stroke-width='8'/><path d='M115 300 q0 -110 85 -112 q85 2 85 112z' fill='#B5D86A' stroke='#16131A' stroke-width='8'/><path d='M150 300 q0 -60 50 -62 q50 2 50 62z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><circle cx='180' cy='270' r='7' fill='#5E8C2A'/><circle cx='222' cy='285' r='6' fill='#5E8C2A'/><path d='M70 300 h260' stroke='#16131A' stroke-width='8'/><g transform='translate(320 110) rotate(-20) scale(0.8)'><path d='M-46 0 q0 -40 46 -40 q46 0 46 40 q0 40 -46 40 q-46 0 -46 -40z' fill='#E8D3A8' stroke='#16131A' stroke-width='8'/><path d='M-30 -4 q30 -26 60 0 q-30 30 -60 0z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><path d='M-14 -6 q14 -10 28 0' fill='none' stroke='#C5E17A' stroke-width='5'/></g><path transform='translate(90 110)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g>",
+      "img_credit": "사진 제공: 로로에프엔비",
+      "img_pos": "50% 50%",
+      "img_referer": "https://economist.co.kr/article/view/ecn202610160049",
+      "img_url": "https://ecn.edailystatic.com/data/ecn/image/2026/10/16/ecn20261016000070.600x.0.jpg",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "한정선 피스타치오 찹쌀떡",
+      "note": "두쫀쿠처럼 줄 서던 디저트 맛을 편의점 떡으로 옮겼어요. 피스타치오가 이제 '익숙한 맛'이라 후속작도 바로 통했어요.",
+      "price_label": "80g · GS25",
+      "price_tag": "3,900원",
+      "q": "찹쌀떡 하나로<br>하루 3.3억 원 팔았어요",
+      "src": "출처: 이코노미스트(2026.10.16) · 스마트투데이(2026.10.19)",
+      "stat": {
+        "cap": "로로에프엔비 발표 · 이코노미스트",
+        "label": "하루 매출",
+        "value": "3.3억 원"
+      },
+      "store": "GS25 · 로로멜로",
+      "tags": [
+        "01 / 05",
+        "국내 · 편의점"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "브랜드 첫 초콜릿 피스타치오",
+        "32온스 겨울 한정판",
+        "12.8부터 카페 메뉴로도"
+      ],
+      "clip": {
+        "date": "26.11.13",
+        "outlet": "FoodBev",
+        "text": "브랜드 첫 초콜릿 피스타치오 우유래요",
+        "type": "기사"
+      },
+      "date": "11.11 출시",
+      "illus": "yogurt",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='348' rx='165' ry='18' fill='#16131A' opacity='.18'/><path d='M120 80 h160 l-18 245 q-62 14 -124 0z' fill='#FFF' stroke='#16131A' stroke-width='8'/><path d='M126 150 h148 l-8 90 q-66 18 -132 0z' fill='#B5D86A' stroke='#16131A' stroke-width='8'/><path d='M134 240 q66 18 132 0 l-6 82 q-60 14 -120 0z' fill='#7A4A2E' stroke='#16131A' stroke-width='8'/><path d='M150 180 q50 16 100 0' fill='none' stroke='#DDEFA9' stroke-width='7'/><path d='M262 120 h70 v36' fill='none' stroke='#FF6B6B' stroke-width='12'/><g transform='translate(330 270) rotate(25) scale(0.75)'><path d='M-46 0 q0 -40 46 -40 q46 0 46 40 q0 40 -46 40 q-46 0 -46 -40z' fill='#E8D3A8' stroke='#16131A' stroke-width='8'/><path d='M-30 -4 q30 -26 60 0 q-30 30 -60 0z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><path d='M-14 -6 q14 -10 28 0' fill='none' stroke='#C5E17A' stroke-width='5'/></g><path transform='translate(90 110)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g>",
+      "kind": "product",
+      "name": "페퍼민트 모카 바리스타",
+      "note": "커피에 붓는 식물성 우유도 이제 피스타치오로 골라요. 시즌 음료 맛을 우유 단계에서 먼저 입혔어요.",
+      "price_label": "$7.99 · 환산",
+      "price_tag": "10,800원",
+      "q": "피스타치오 우유가<br>초콜릿 옷을 입었어요",
+      "src": "출처: Nosh(2026.11.11) · FoodBev(2026.11.13)",
+      "stat": {
+        "cap": "타셰 발표 · 카페 4,000곳+ 별도",
+        "label": "미국 소매 판매처",
+        "value": "5,500곳"
+      },
+      "store": "미국 · 타셰",
+      "tags": [
+        "02 / 05",
+        "해외 · 미국"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "찰떡파이 1주 만에 완판",
+        "크런키·만쥬로 확대",
+        "아이스크림 2종은 상시 판매"
+      ],
+      "clip": {
+        "date": "26.03.27",
+        "outlet": "딜사이트",
+        "text": "피스타치오맛 라인업을 6종으로 늘렸대요",
+        "type": "기사"
+      },
+      "date": "03.27 발표",
+      "illus": "nuts",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='348' rx='165' ry='18' fill='#16131A' opacity='.18'/><g transform='rotate(-10 200 220)'><rect x='60' y='150' width='280' height='150' rx='22' fill='#6B3E26' stroke='#16131A' stroke-width='8'/><path d='M60 225 h280' stroke='#16131A' stroke-width='8'/><rect x='60' y='205' width='280' height='40' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><g fill='#3E2416'><circle cx='110' cy='180' r='8'/><circle cx='200' cy='175' r='8'/><circle cx='290' cy='180' r='8'/><circle cx='150' cy='275' r='8'/><circle cx='250' cy='272' r='8'/></g><g fill='#E8D3A8'><circle cx='105' cy='225' r='6'/><circle cx='170' cy='222' r='5'/><circle cx='240' cy='226' r='6'/><circle cx='300' cy='222' r='5'/></g></g><g transform='translate(310 95) rotate(15) scale(0.8)'><path d='M-46 0 q0 -40 46 -40 q46 0 46 40 q0 40 -46 40 q-46 0 -46 -40z' fill='#E8D3A8' stroke='#16131A' stroke-width='8'/><path d='M-30 -4 q30 -26 60 0 q-30 30 -60 0z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><path d='M-14 -6 q14 -10 28 0' fill='none' stroke='#C5E17A' stroke-width='5'/></g><path transform='translate(80 100)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g>",
+      "img_credit": "사진 제공: 롯데웰푸드",
+      "img_pos": "50% 50%",
+      "img_referer": "https://dealsite.co.kr/articles/159247",
+      "img_url": "https://dtd31o1ybbmk8.cloudfront.net/photos/f5015e715680d61e5c2e460ba46137cc/thumb.jpg",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "두바이st 피스타치오맛 6종",
+      "note": "반짝 유행이던 두바이 디저트를 '피스타치오맛'이라는 이름으로 스테디셀러 브랜드에 심었어요.",
+      "q": "두바이 디저트가<br>과자·빙과 6종이 됐어요",
+      "src": "출처: 딜사이트(2026.03.27) · 이지경제(2026.04.06)",
+      "stat": {
+        "cap": "건과 4종·빙과 2종 · 딜사이트",
+        "label": "두바이st 피스타치오맛",
+        "value": "6종"
+      },
+      "store": "롯데웰푸드",
+      "tags": [
+        "03 / 05",
+        "국내 · 제과"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "두바이 초콜릿 맛 재현",
+        "4온스 봉지 · 전국 마트",
+        "코스트코엔 14온스"
+      ],
+      "clip": {
+        "date": "26.10.01",
+        "outlet": "Wonderful 보도자료",
+        "text": "초콜릿 라인 구매자 절반이 신규래요",
+        "type": "공식 발표"
+      },
+      "date": "10.01 발표",
+      "illus": "nuts",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='348' rx='165' ry='18' fill='#16131A' opacity='.18'/><ellipse cx='200' cy='300' rx='150' ry='30' fill='#FFF' stroke='#16131A' stroke-width='8'/><g transform='translate(130 230) rotate(-15)'><path d='M-50 0 q0 -42 50 -42 q50 0 50 42 q0 42 -50 42 q-50 0 -50 -42z' fill='#6B3E26' stroke='#16131A' stroke-width='8'/><path d='M-30 -8 q30 -24 60 0' fill='none' stroke='#9B6845' stroke-width='7'/><path d='M-20 20 q20 10 40 0' fill='none' stroke='#8BC34A' stroke-width='7'/></g><g transform='translate(260 230) rotate(20) scale(1.05)'><path d='M-46 0 q0 -40 46 -40 q46 0 46 40 q0 40 -46 40 q-46 0 -46 -40z' fill='#E8D3A8' stroke='#16131A' stroke-width='8'/><path d='M-30 -4 q30 -26 60 0 q-30 30 -60 0z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><path d='M-14 -6 q14 -10 28 0' fill='none' stroke='#C5E17A' stroke-width='5'/></g><g transform='translate(200 150) rotate(-10) scale(0.9)'><path d='M-46 0 q0 -40 46 -40 q46 0 46 40 q0 40 -46 40 q-46 0 -46 -40z' fill='#E8D3A8' stroke='#16131A' stroke-width='8'/><path d='M-30 -4 q30 -26 60 0 q-30 30 -60 0z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><path d='M-14 -6 q14 -10 28 0' fill='none' stroke='#C5E17A' stroke-width='5'/></g><path transform='translate(330 100)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='8'/></g>",
+      "kind": "product",
+      "name": "두바이 초콜릿 맛 피스타치오",
+      "note": "견과 회사가 디저트 유행을 간식 봉지로 가져왔어요. 초콜릿 라인이 새 손님을 데려오는 입구가 됐어요.",
+      "q": "초콜릿 입힌 피스타치오,<br>절반 가까이가 새 손님",
+      "src": "출처: Wonderful Pistachios 보도자료(Nosh, 2026.10.01)",
+      "stat": {
+        "cap": "원더풀 발표 · 브랜드 첫 구매",
+        "label": "초콜릿 라인 신규 구매자",
+        "value": "절반 가까이"
+      },
+      "store": "미국 · 원더풀 피스타치오",
+      "tags": [
+        "04 / 05",
+        "해외 · 미국"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "11.6 일본 전국 매장",
+        "리스 도넛(370엔)도 함께",
+        "두바이초코 라테(700엔) 재등장"
+      ],
+      "clip": {
+        "date": "26.10.29",
+        "outlet": "Impress Watch",
+        "text": "홀리데이 메뉴로 11월 6일 나온대요",
+        "type": "기사"
+      },
+      "date": "11.06 출시",
+      "illus": "cheese",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<g stroke-linejoin='round' stroke-linecap='round'><ellipse cx='200' cy='348' rx='165' ry='18' fill='#16131A' opacity='.18'/><path d='M200 50 l80 110 h-30 l70 100 h-40 l60 80 h-280 l60 -80 h-40 l70 -100 h-30z' fill='#8BC34A' stroke='#16131A' stroke-width='8'/><path d='M150 200 q50 20 100 0 M130 290 q70 24 140 0' fill='none' stroke='#FFF' stroke-width='10'/><g fill='#FF6B6B' stroke='#16131A' stroke-width='6'><circle cx='175' cy='150' r='10'/><circle cx='240' cy='240' r='10'/><circle cx='150' cy='315' r='10'/><circle cx='260' cy='320' r='10'/></g><rect x='180' y='340' width='40' height='0' stroke='#16131A' stroke-width='8'/><path transform='translate(200 50) scale(1.2)' d='M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z' fill='#FFD43B' stroke='#16131A' stroke-width='7'/></g>",
+      "kind": "product",
+      "name": "피스타치오 트리",
+      "note": "일본 카페의 홀리데이 메뉴판이 초록빛이에요. 11월 첫 주에만 피스타치오 디저트 신상이 줄줄이 나왔어요.",
+      "price_label": "560엔 · 환산",
+      "price_tag": "4,700원",
+      "q": "크리스마스 트리도<br>피스타치오로 구워요",
+      "src": "출처: Impress Watch·크랭크인(2026.10.29) · えん食べ(2026.11.06)",
+      "stat": {
+        "cap": "えん食べ 정리 · 2026.11.06",
+        "label": "11월 초 日 피스타치오 신상",
+        "value": "6종"
+      },
+      "store": "일본 · 툴리스커피",
+      "tags": [
+        "05 / 05",
+        "해외 · 일본"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "%, 전년 대비 · 식약처 수입식품 검사연보",
+        "max": 420,
+        "prefix": "+",
+        "rows": [
+          [
+            "카다이프",
+            340.5,
+            "#FFD43B"
+          ],
+          [
+            "마시멜로우",
+            48.2,
+            "#FFB199"
+          ],
+          [
+            "피스타치오(가공)",
+            25.9,
+            "#A8EFD2"
+          ]
+        ],
+        "title": "두쫀쿠 재료 수입량 (2025)"
+      },
+      "bg": "#2B2140",
+      "cta": "다음에 뜰 디저트 맛은 뭘까요?",
+      "kind": "insight",
+      "points": [
+        "피스타치오 수입 단가 1년 새 +84%",
+        "세계 피스타치오 신제품 연 26%↑",
+        "유행이 식어도 '맛'으로 남아요"
+      ],
+      "src": "출처: 세계일보(2026.06.30) · Korea Herald(2026.01.22) · FoodIngredientsFirst(2026.08.21)",
+      "tags": [
+        "관찰 노트",
+        "VOL.15"
+      ],
+      "title": "간식 유행이<br><em>원재료값</em>을 흔들어요"
+    }
+  ]
+}
