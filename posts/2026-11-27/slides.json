@@ -1,0 +1,246 @@
+{
+  "issue": "VOL.16 · 2026.11.27",
+  "reel_outro": "여러분 회사라면 어디에 걸까요?",
+  "slides": [
+    {
+      "bg": "#FFD43B",
+      "illus": "basket",
+      "illus_bg": "#FFF7E4",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><g transform=\"translate(15 25) scale(0.42)\"><path d=\"M150 300 q-90 -10 -80 -110 q15 -110 130 -100 q100 15 85 120 q-15 80 -90 85z\" fill=\"#E8890C\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M120 170 q20 -40 60 -45 M110 230 q30 -20 70 -15 M175 280 q30 -25 70 -20\" fill=\"none\" stroke=\"#B35C00\" stroke-width=\"7\"/><path d=\"M240 270 l70 55\" stroke=\"#FFF8E7\" stroke-width=\"30\"/><path d=\"M240 270 l70 55\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"4\" opacity=\".35\"/><g fill=\"#FFF8E7\" stroke=\"#16131A\" stroke-width=\"7\"><circle cx=\"318\" cy=\"318\" r=\"18\"/><circle cx=\"300\" cy=\"338\" r=\"18\"/></g></g><g transform=\"translate(205 25) scale(0.42)\"><path d=\"M50 180 h300 q-10 140 -150 150 q-140 -10 -150 -150z\" fill=\"#E64980\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 300 h180\" stroke=\"#FFF\" stroke-width=\"6\" opacity=\".5\"/><ellipse cx=\"200\" cy=\"180\" rx=\"150\" ry=\"34\" fill=\"#FFF4E0\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"150\" cy=\"176\" rx=\"44\" ry=\"20\" fill=\"#C2701E\" stroke=\"#16131A\" stroke-width=\"6\"/><ellipse cx=\"150\" cy=\"176\" rx=\"22\" ry=\"9\" fill=\"#F0B27A\"/><g fill=\"#51CF66\" stroke=\"#16131A\" stroke-width=\"4\"><circle cx=\"225\" cy=\"168\" r=\"9\"/><circle cx=\"245\" cy=\"180\" r=\"9\"/><circle cx=\"228\" cy=\"190\" r=\"8\"/></g><circle cx=\"285\" cy=\"176\" r=\"20\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M275 176 q10 -12 20 0\" fill=\"none\" stroke=\"#F06595\" stroke-width=\"5\"/><path d=\"M250 60 l-60 120 M285 60 l-70 120\" stroke=\"#A0613A\" stroke-width=\"12\"/><path d=\"M110 120 q-10 -20 5 -38 M160 110 q-10 -20 5 -38\" fill=\"none\" stroke=\"#ADB5BD\" stroke-width=\"7\"/></g><g transform=\"translate(15 190) scale(0.42)\"><rect x=\"70\" y=\"140\" width=\"220\" height=\"170\" rx=\"30\" fill=\"#F4C26B\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M95 175 q18 -18 36 0 t36 0 t36 0 t36 0 t36 0 M95 215 q18 -18 36 0 t36 0 t36 0 t36 0 t36 0 M95 255 q18 -18 36 0 t36 0 t36 0 t36 0 t36 0\" fill=\"none\" stroke=\"#C98A2E\" stroke-width=\"8\"/><path d=\"M300 300 q60 -20 55 -110 q-2 -20 -18 -18 q-12 90 -60 105z\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"7\"/><path d=\"M340 175 q5 -25 25 -30\" fill=\"none\" stroke=\"#2F9E44\" stroke-width=\"10\"/></g><g transform=\"translate(210 185) scale(0.42)\"><path d=\"M200 95 a130 130 0 1 1 -1 0z\" fill=\"#F6D7A7\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M200 125 a100 100 0 1 1 -1 0z\" fill=\"none\" stroke=\"#D9A066\" stroke-width=\"6\" stroke-dasharray=\"3 14\"/><path d=\"M318 160 q-28 10 -26 34 q-26 4 -24 32 q-24 8 -14 34\" fill=\"#F6D7A7\" stroke=\"none\"/><path d=\"M300 150 q-30 14 -20 40 q-30 6 -20 34 q-22 12 -8 34 q30 4 80 -10 q-4 -60 -32 -98z\" fill=\"#FFF8E7\" stroke=\"#16131A\" stroke-width=\"7\"/><path d=\"M290 180 q-14 14 -6 30 M278 222 q-10 14 0 28\" fill=\"none\" stroke=\"#C2701E\" stroke-width=\"10\"/><path d=\"M296 190 q-8 10 -2 22 M284 232 q-6 10 2 20\" fill=\"none\" stroke=\"#C92A2A\" stroke-width=\"7\"/></g><g transform=\"translate(112 100) scale(0.46)\"><path d=\"M150 120 l-30 -70 M250 120 l30 -70\" stroke=\"#E64980\" stroke-width=\"10\"/><rect x=\"230\" y=\"40\" width=\"56\" height=\"90\" rx=\"10\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"230\" y=\"70\" width=\"56\" height=\"30\" fill=\"#4DABF7\" stroke=\"#16131A\" stroke-width=\"6\"/><rect x=\"150\" y=\"60\" width=\"64\" height=\"70\" rx=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"120\" cy=\"110\" r=\"30\" fill=\"#FA5252\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M120 80 q8 -18 22 -20\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M50 130 h300 l-30 190 h-240z\" fill=\"#69DB7C\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 170 l12 110 M170 170 l4 110 M230 170 l-4 110 M290 170 l-12 110\" stroke=\"#16131A\" stroke-width=\"6\"/><rect x=\"40\" y=\"120\" width=\"320\" height=\"34\" rx=\"14\" fill=\"#2F9E44\" stroke=\"#16131A\" stroke-width=\"8\"/></g></g>",
+      "kicker": "11월 4주 · F&B 산업 레이더",
+      "kind": "cover",
+      "list": [
+        "배민 할인액 수수료 면제",
+        "K-라면 수출 최대",
+        "스카이락 라멘 인수",
+        "언크러스터블 공급 부족",
+        "美 PB 점유율 23.7%"
+      ],
+      "sub": "라면·샌드위치·PB·할인, 돈길이 바뀌어요",
+      "tags": [
+        "VOL.16",
+        "11.27"
+      ],
+      "title": "<em>잘 팔리는 곳</em>에<br><em>돈</em>이 몰려요"
+    },
+    {
+      "accent": "#D9480F",
+      "bg": "#FFB199",
+      "chips": [
+        "배달팁 할인도 수수료 제외",
+        "할인 뺀 실결제액에만 부과",
+        "쿠팡이츠는 약관 시정명령"
+      ],
+      "clip": {
+        "date": "26.11.14",
+        "outlet": "지디넷코리아",
+        "text": "쿠팡이츠로도 개편이 번질지 주목한대요",
+        "type": "기사"
+      },
+      "date": "11.12 발표",
+      "illus": "burger",
+      "illus_bg": "#FFE3D3",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M150 300 q-90 -10 -80 -110 q15 -110 130 -100 q100 15 85 120 q-15 80 -90 85z\" fill=\"#E8890C\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M120 170 q20 -40 60 -45 M110 230 q30 -20 70 -15 M175 280 q30 -25 70 -20\" fill=\"none\" stroke=\"#B35C00\" stroke-width=\"7\"/><path d=\"M240 270 l70 55\" stroke=\"#FFF8E7\" stroke-width=\"30\"/><path d=\"M240 270 l70 55\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"4\" opacity=\".35\"/><g fill=\"#FFF8E7\" stroke=\"#16131A\" stroke-width=\"7\"><circle cx=\"318\" cy=\"318\" r=\"18\"/><circle cx=\"300\" cy=\"338\" r=\"18\"/></g><g transform=\"rotate(14 300 120)\"><path d=\"M230 80 h140 v28 a14 14 0 0 0 0 28 v28 h-140 v-28 a14 14 0 0 0 0 -28z\" fill=\"#FF6B6B\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M285 84 v76\" stroke=\"#FFF\" stroke-width=\"5\" stroke-dasharray=\"8 8\"/><circle cx=\"252\" cy=\"122\" r=\"9\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"5\"/><path d=\"M318 110 l20 24 M338 110 l-20 24\" stroke=\"#FFF\" stroke-width=\"8\"/></g><path transform=\"translate(70 80)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "업주 부담 할인액 수수료 면제",
+      "note": "쿠폰을 뿌려야 주문이 오는 구조에서, 깎아 준 금액에까지 붙던 수수료를 걷어냈어요. 수수료율 자체는 그대로라 업주 단체는 다음 과제로 꼽아요.",
+      "q": "사장님 수수료<br>연 1,100억 원 덜어요",
+      "src": "출처: 뉴스토마토(2026.11.12) · 지디넷코리아(2026.11.14·18)",
+      "stat": {
+        "cap": "원 · 음식값 할인분 포함 · 회사 추산",
+        "label": "연 수수료 절감",
+        "value": "1,100억"
+      },
+      "store": "배달의민족",
+      "tags": [
+        "01 / 05",
+        "국내 · 배달 플랫폼"
+      ]
+    },
+    {
+      "accent": "#0CA678",
+      "bg": "#A8EFD2",
+      "chips": [
+        "15.9억 달러 · 약 2.1조 원",
+        "중남미 수출 +147.3%",
+        "K-푸드+ 120억 달러 돌파"
+      ],
+      "clip": {
+        "date": "26.11.19",
+        "outlet": "연합뉴스",
+        "text": "K-푸드+ 수출이 120억 달러를 넘었대요",
+        "type": "기사"
+      },
+      "date": "11.19 발표",
+      "illus": "basket",
+      "illus_bg": "#E3FAF0",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><rect x=\"70\" y=\"140\" width=\"220\" height=\"170\" rx=\"30\" fill=\"#F4C26B\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M95 175 q18 -18 36 0 t36 0 t36 0 t36 0 t36 0 M95 215 q18 -18 36 0 t36 0 t36 0 t36 0 t36 0 M95 255 q18 -18 36 0 t36 0 t36 0 t36 0 t36 0\" fill=\"none\" stroke=\"#C98A2E\" stroke-width=\"8\"/><path d=\"M300 300 q60 -20 55 -110 q-2 -20 -18 -18 q-12 90 -60 105z\" fill=\"#E03131\" stroke=\"#16131A\" stroke-width=\"7\"/><path d=\"M340 175 q5 -25 25 -30\" fill=\"none\" stroke=\"#2F9E44\" stroke-width=\"10\"/><path d=\"M60 90 q80 -50 170 -30\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"6\" stroke-dasharray=\"4 16\"/><g transform=\"translate(255 58) rotate(15)\"><path d=\"M-30 0 h60 l14 -6 l-6 12 h-68z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M-4 0 l-14 -22 h12 l20 22z M-4 4 l-14 20 h12 l18 -20z\" fill=\"#74C0FC\" stroke=\"#16131A\" stroke-width=\"5\"/></g></g>",
+      "kind": "product",
+      "name": "K-라면 수출, 연간 최대 경신",
+      "note": "작년 1년 치(15.2억 달러)를 10월에 이미 넘었어요. 물류비가 오른 와중에도 미국·유럽·중남미로 판로가 넓어졌어요.",
+      "q": "라면 수출, 10월에<br>작년 1년 치 넘었어요",
+      "src": "출처: 연합뉴스·이투데이(2026.11.19) · 농식품부 발표",
+      "stat": {
+        "cap": "1~10월 · 전년 대비 · 농식품부",
+        "label": "라면 수출액",
+        "value": "+26.3%"
+      },
+      "store": "농림축산식품부",
+      "tags": [
+        "02 / 05",
+        "국내 · 수출"
+      ]
+    },
+    {
+      "accent": "#E67700",
+      "bg": "#FFF0B8",
+      "chips": [
+        "인수가 120억 엔 · 지분 100%",
+        "후쿠오카 7곳 · 연매출 17억 엔",
+        "목표는 '하카타에서 세계로'"
+      ],
+      "clip": {
+        "date": "26.11.12",
+        "outlet": "Impress Watch",
+        "text": "'하카타에서 세계로' 해외 출점을 노린대요",
+        "type": "기사"
+      },
+      "date": "11.12 발표",
+      "illus": "burger",
+      "illus_bg": "#FFF8DB",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M50 180 h300 q-10 140 -150 150 q-140 -10 -150 -150z\" fill=\"#E64980\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 300 h180\" stroke=\"#FFF\" stroke-width=\"6\" opacity=\".5\"/><ellipse cx=\"200\" cy=\"180\" rx=\"150\" ry=\"34\" fill=\"#FFF4E0\" stroke=\"#16131A\" stroke-width=\"8\"/><ellipse cx=\"150\" cy=\"176\" rx=\"44\" ry=\"20\" fill=\"#C2701E\" stroke=\"#16131A\" stroke-width=\"6\"/><ellipse cx=\"150\" cy=\"176\" rx=\"22\" ry=\"9\" fill=\"#F0B27A\"/><g fill=\"#51CF66\" stroke=\"#16131A\" stroke-width=\"4\"><circle cx=\"225\" cy=\"168\" r=\"9\"/><circle cx=\"245\" cy=\"180\" r=\"9\"/><circle cx=\"228\" cy=\"190\" r=\"8\"/></g><circle cx=\"285\" cy=\"176\" r=\"20\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M275 176 q10 -12 20 0\" fill=\"none\" stroke=\"#F06595\" stroke-width=\"5\"/><path d=\"M250 60 l-60 120 M285 60 l-70 120\" stroke=\"#A0613A\" stroke-width=\"12\"/><path d=\"M110 120 q-10 -20 5 -38 M160 110 q-10 -20 5 -38\" fill=\"none\" stroke=\"#ADB5BD\" stroke-width=\"7\"/><path transform=\"translate(345 80)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "라멘 체인 'Shin-Shin' 인수",
+      "note": "패밀리레스토랑 '가스토'를 운영하는 스카이락이 이름난 라멘 브랜드를 통째로 샀어요. 자사 공장·물류에 센트럴키친을 붙여 국내외 출점을 늘린대요.",
+      "q": "라멘집 7곳을<br>120억 엔에 샀어요",
+      "src": "출처: Impress Watch · 구마모토니치니치·교도(2026.11.12)",
+      "stat": {
+        "cap": "약 1,012억 원 · 11.26 환율",
+        "label": "인수 금액",
+        "value": "120억 엔"
+      },
+      "store": "일본 · 스카이락HD",
+      "tags": [
+        "03 / 05",
+        "일본 · 외식 M&A"
+      ]
+    },
+    {
+      "accent": "#6C63FF",
+      "bg": "#D9CCFF",
+      "chips": [
+        "연매출 10억 달러 돌파",
+        "냉동 코너 판매 2위(13주)",
+        "앨라배마 공장 증설 중"
+      ],
+      "clip": {
+        "date": "26.11.24",
+        "outlet": "Food Dive",
+        "text": "판매가 예상보다 빨라 생산이 빠듯하대요",
+        "type": "기사"
+      },
+      "date": "11.24 실적",
+      "illus": "cheese",
+      "illus_bg": "#EEE8FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M200 95 a130 130 0 1 1 -1 0z\" fill=\"#F6D7A7\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M200 125 a100 100 0 1 1 -1 0z\" fill=\"none\" stroke=\"#D9A066\" stroke-width=\"6\" stroke-dasharray=\"3 14\"/><path d=\"M318 160 q-28 10 -26 34 q-26 4 -24 32 q-24 8 -14 34\" fill=\"#F6D7A7\" stroke=\"none\"/><path d=\"M300 150 q-30 14 -20 40 q-30 6 -20 34 q-22 12 -8 34 q30 4 80 -10 q-4 -60 -32 -98z\" fill=\"#FFF8E7\" stroke=\"#16131A\" stroke-width=\"7\"/><path d=\"M290 180 q-14 14 -6 30 M278 222 q-10 14 0 28\" fill=\"none\" stroke=\"#C2701E\" stroke-width=\"10\"/><path d=\"M296 190 q-8 10 -2 22 M284 232 q-6 10 2 20\" fill=\"none\" stroke=\"#C92A2A\" stroke-width=\"7\"/><g stroke=\"#16131A\" stroke-width=\"6\"><path d=\"M80 80 v50 M58 92 l44 26 M58 118 l44 -26\" stroke=\"#74C0FC\"/></g><path transform=\"translate(345 80)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "img_credit": "사진 제공: J.M. Smucker",
+      "img_pos": "50% 50%",
+      "img_referer": "https://www.fooddive.com/news/Smucker-uncrustables-shortage-supply-demand-capacity/875662/",
+      "img_url": "https://imgproxy.divecdn.com/E9TCAcTU8Wd-plsgHyjOu6IEZriHX9GZjNggjGnfCzA/g:nowe:321:272/c:1084:612/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iZW5jaF9zaWRlX2J5X3NpZGUuanBn.webp",
+      "img_zoom": 1,
+      "kind": "product",
+      "name": "언크러스터블 공급 부족",
+      "note": "얼려 두고 꺼내 먹는 테두리 없는 샌드위치가 예상보다 빨리 팔려 생산이 빠듯해요. 앨라배마 공장 2단계가 2027 회계연도 말께 돌아가면 숨통이 트일 거래요.",
+      "q": "땅콩버터 샌드위치가<br>공장보다 빨리 팔려요",
+      "src": "출처: Food Dive(2026.11.24) · JM 스머커 실적 자료",
+      "stat": {
+        "cap": "FY27 2분기 · 전년 대비 · 회사",
+        "label": "언크러스터블 매출",
+        "value": "+15%"
+      },
+      "store": "미국 · JM 스머커",
+      "tags": [
+        "04 / 05",
+        "미국 · 식품 제조"
+      ]
+    },
+    {
+      "accent": "#1C7ED6",
+      "bg": "#B9DCFF",
+      "chips": [
+        "PB 늘고 제조사 -0.9%",
+        "PB 개당 $4.14, 14% 싸요",
+        "PB 박람회 61개국 몰려"
+      ],
+      "clip": {
+        "date": "26.11.16",
+        "outlet": "FoodNavigator",
+        "text": "PB는 늘고 제조사 브랜드는 줄었대요",
+        "type": "기사"
+      },
+      "date": "11.11 발표",
+      "illus": "basket",
+      "illus_bg": "#E3F0FF",
+      "illus_svg": "<g stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"200\" cy=\"348\" rx=\"165\" ry=\"18\" fill=\"#16131A\" opacity=\".18\"/><path d=\"M150 120 l-30 -70 M250 120 l30 -70\" stroke=\"#E64980\" stroke-width=\"10\"/><rect x=\"230\" y=\"40\" width=\"56\" height=\"90\" rx=\"10\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/><rect x=\"230\" y=\"70\" width=\"56\" height=\"30\" fill=\"#4DABF7\" stroke=\"#16131A\" stroke-width=\"6\"/><rect x=\"150\" y=\"60\" width=\"64\" height=\"70\" rx=\"10\" fill=\"#FFD43B\" stroke=\"#16131A\" stroke-width=\"8\"/><circle cx=\"120\" cy=\"110\" r=\"30\" fill=\"#FA5252\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M120 80 q8 -18 22 -20\" fill=\"none\" stroke=\"#16131A\" stroke-width=\"6\"/><path d=\"M50 130 h300 l-30 190 h-240z\" fill=\"#69DB7C\" stroke=\"#16131A\" stroke-width=\"8\"/><path d=\"M110 170 l12 110 M170 170 l4 110 M230 170 l-4 110 M290 170 l-12 110\" stroke=\"#16131A\" stroke-width=\"6\"/><rect x=\"40\" y=\"120\" width=\"320\" height=\"34\" rx=\"14\" fill=\"#2F9E44\" stroke=\"#16131A\" stroke-width=\"8\"/><path transform=\"translate(355 90)\" d=\"M0 -22 l7 15 l15 7 l-15 7 l-7 15 l-7 -15 l-15 -7 l15 -7z\" fill=\"#FFF\" stroke=\"#16131A\" stroke-width=\"8\"/></g>",
+      "kind": "product",
+      "name": "PB 판매량 점유율 역대 최고",
+      "note": "제조사 브랜드는 값을 올려 매출을 지켰고, 손님은 더 싼 PB 쪽으로 옮겨 갔어요. 상반기 미국 소비자가 PB로 아낀 돈은 약 27.5조 원으로 추산돼요.",
+      "q": "마트 PB가 미국 장바구니<br>23.7%를 채웠어요",
+      "src": "출처: Supermarket News(2026.11.12) · FoodNavigator(2026.11.16)",
+      "stat": {
+        "cap": "1~10월 누적 · 서카나·PLMA",
+        "label": "PB 판매량 점유율",
+        "value": "23.7%"
+      },
+      "store": "미국 · PLMA·서카나",
+      "tags": [
+        "05 / 05",
+        "미국 · 유통 채널"
+      ]
+    },
+    {
+      "bars": {
+        "cap": "%, 전년 대비 · 각 기사·발표",
+        "max": 35,
+        "prefix": "+",
+        "rows": [
+          [
+            "미국행 라면 수출",
+            29.1,
+            "#A8EFD2"
+          ],
+          [
+            "K-라면 수출(1~10월)",
+            26.3,
+            "#FFF0B8"
+          ],
+          [
+            "언크러스터블 매출",
+            15,
+            "#D9CCFF"
+          ],
+          [
+            "K-푸드+ 수출",
+            4.9,
+            "#B9DCFF"
+          ]
+        ],
+        "title": "이번 회차 숫자"
+      },
+      "bg": "#2B2140",
+      "cta": "여러분 회사라면 어디에 돈을 걸까요?",
+      "kind": "insight",
+      "points": [
+        "라면은 수출·인수로 판을 키워요",
+        "냉동 샌드위치는 공장이 모자라요",
+        "할인·PB로 가성비 경쟁이 세져요"
+      ],
+      "src": "출처: 연합뉴스·이투데이(2026.11.19) · Food Dive(2026.11.24)",
+      "tags": [
+        "관찰 노트",
+        "VOL.16"
+      ],
+      "title": "익숙한 한 끼가<br><em>성장 엔진</em>이 됐어요"
+    }
+  ]
+}
